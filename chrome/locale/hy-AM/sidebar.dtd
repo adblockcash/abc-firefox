@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Անջատ պատուհան">
 <!ENTITY whitelisted.label "Բացառություն">
 <!ENTITY context.disablefilteronsite.label "Արգելել այս ֆիլտրը ?1? -ում">
-<!ENTITY detached.title "Adblock Plus - Ֆիլտրվվող տարրեր (Անջատ)">
+<!ENTITY detached.title "Adblock Cash - Ֆիլտրվվող տարրեր (Անջատ)">
 <!ENTITY docDomain.firstParty "(ուղիղ աղբյուր)">
 <!ENTITY tooltip.type.whitelisted "(բացառություն)">
 <!ENTITY tooltip.filter.label "Ազդող ֆիլտրը`">

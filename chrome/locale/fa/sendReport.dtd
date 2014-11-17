@@ -20,7 +20,7 @@
 <!ENTITY typeSelector.description "این پنجره شما را برای ارائه یک گزارش خطا فوق تبلیغ شکن راهنمایی می کند. ابتدا نوع مشکلی را که در این صفحه با آن روبرو هستید را انتخاب کنید:">
 <!ENTITY screenshot.remove.label "&amp;پاک کردن داده های حساس">
 <!ENTITY issues.ownfilters.description "بعضی از پالایه های اعمالی در صفحه توسط کاربر تعریف شده اند. لطفا پالایه های که ممکن است	باعث بروز مشکل شود را غیرفعال کنید:">
-<!ENTITY update.inProgress.description "Adblock Plus باید اشتراکات فیلتر را بررسی نماید تا مطمئن شود مشکل حل شده است. لطفاً منتظر بمانید...">
+<!ENTITY update.inProgress.description "Adblock Cash باید اشتراکات فیلتر را بررسی نماید تا مطمئن شود مشکل حل شده است. لطفاً منتظر بمانید...">
 <!ENTITY sendPage.retry.label "ارسال مجدد">
 <!ENTITY data.label "داده های &amp;گزارش:">
 <!ENTITY recentReports.label "گزارشات به تازگی ارسال شده شما">

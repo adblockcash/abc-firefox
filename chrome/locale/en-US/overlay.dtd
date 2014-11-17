@@ -3,13 +3,13 @@
 <!ENTITY filters.tooltip        "Most active filters:">
 
 <!ENTITY menuitem.label         "Ad&amp;block Plus Preferences">
-<!ENTITY toolbarbutton.label    "Adblock Plus">
+<!ENTITY toolbarbutton.label    "Adblock Cash">
 
-<!ENTITY context.image.label    "Adblock Plus: Block image">
-<!ENTITY context.object.label   "Adblock Plus: Block object">
-<!ENTITY context.frame.label    "Adblock Plus: Block frame">
-<!ENTITY context.media.label    "Adblock Plus: Block audio/video">
-<!ENTITY context.removeWhitelist.label  "Adblock Plus: Re-enable on this page">
+<!ENTITY context.image.label    "Adblock Cash: Block image">
+<!ENTITY context.object.label   "Adblock Cash: Block object">
+<!ENTITY context.frame.label    "Adblock Cash: Block frame">
+<!ENTITY context.media.label    "Adblock Cash: Block audio/video">
+<!ENTITY context.removeWhitelist.label  "Adblock Cash: Re-enable on this page">
 
 <!ENTITY sidebar.title          "Blockable items on current page">
 
@@ -24,16 +24,16 @@
 <!ENTITY whitelist.page.label   "Disable on this page only">
 <!ENTITY disable.label          "Disable everywhere">
 <!ENTITY options.label          "&amp;Options">
-<!ENTITY contribute.label       "Contribute to Adblock Plus">
+<!ENTITY contribute.label       "Contribute to Adblock Cash">
 
 <!ENTITY showintoolbar.label        "Show in tool&amp;bar">
 <!ENTITY showinstatusbar.label      "&amp;Show in status bar">
 <!ENTITY objecttabs.label           "Show &amp;tabs on Flash and Java">
 <!ENTITY hideplaceholders.label     "Hide p&amp;laceholders of blocked elements">
 <!ENTITY counthits.label            "Count filter &amp;hits">
-<!ENTITY sync.label                 "Syn&amp;c Adblock Plus settings">
+<!ENTITY sync.label                 "Syn&amp;c Adblock Cash settings">
 <!ENTITY objecttab.title        "Block">
-<!ENTITY objecttab.tooltip      "Click here to block this object with Adblock Plus">
+<!ENTITY objecttab.tooltip      "Click here to block this object with Adblock Cash">
 
 <!ENTITY notification.button.yes       "&amp;Yes">
 <!ENTITY notification.button.no        "&amp;No">

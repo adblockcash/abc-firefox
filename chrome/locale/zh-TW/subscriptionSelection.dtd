@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "檢視過濾條件">
 <!ENTITY visitHomepage.label "造訪首頁">
 <!ENTITY addSubscription.label "新增過濾條件集">
-<!ENTITY dialog.title "新增 Adblock Plus 過濾條件集">
+<!ENTITY dialog.title "新增 Adblock Cash 過濾條件集">
 <!ENTITY location.label "過濾條件集位址： (&amp;l)">
 <!ENTITY fromWeb.description "請確認您是否要訂閱這個條件集。訂閱前您可以變更條件集標題或位址。">

@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Leválaszt">
 <!ENTITY whitelisted.label "A cím 'fehér listán' van">
 <!ENTITY context.disablefilteronsite.label "Szűrő letiltása itt: ?1?">
-<!ENTITY detached.title "Adblock Plus: Blokkolható objektumok (leválasztva)">
+<!ENTITY detached.title "Adblock Cash: Blokkolható objektumok (leválasztva)">
 <!ENTITY docDomain.firstParty "(első fél)">
 <!ENTITY tooltip.type.whitelisted "(fehér listán)">
 <!ENTITY tooltip.filter.label "Alkalmazott szűrők:">

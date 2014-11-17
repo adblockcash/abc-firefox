@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "查看过滤规则">
 <!ENTITY visitHomepage.label "查看主页">
 <!ENTITY addSubscription.label "添加订阅组">
-<!ENTITY dialog.title "添加 Adblock Plus 过滤规则订阅组">
+<!ENTITY dialog.title "添加 Adblock Cash 过滤规则订阅组">
 <!ENTITY location.label "过滤规则列表位置: (&amp;l)">
 <!ENTITY fromWeb.description "请确认您希望添加该过滤规则订阅组。在添加之前，您可以更改订阅标题或位置。">

@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Personalizáu:">
 <!ENTITY unselectAllTypes.label "Nun seleicionar nada">
 <!ENTITY type.whitelist.label "Regla d'e&amp;sceición">
-<!ENTITY regexp.warning "El patrón qu'escribió interpretaráse como una espresión regular, qu'Adblock Plus nun pue procesar de mou eficaz, y pue facer más lenta la navegación. Si nun quería usar una espresión regular, amieste un asteriscu (*) al final del patrón.">
-<!ENTITY dialog.title "Amestar una regla de filtráu d'Adblock Plus">
+<!ENTITY regexp.warning "El patrón qu'escribió interpretaráse como una espresión regular, qu'Adblock Cash nun pue procesar de mou eficaz, y pue facer más lenta la navegación. Si nun quería usar una espresión regular, amieste un asteriscu (*) al final del patrón.">
+<!ENTITY dialog.title "Amestar una regla de filtráu d'Adblock Cash">
 <!ENTITY basic.label "Vista básica">
 <!ENTITY type.filter.label "Filtru de &amp;bloquéu">
 <!ENTITY types.label "Aplicar a los tipos:">
-<!ENTITY shortpattern.warning "El patrón qu'escribió ye curtiu enforma pa poder ameyorase y pue facer más lenta la navegación. Recomiéndase qu'escueya una cadena más llarga para esti filtru pa permitir a Adblock Plus procesalu de mou más eficaz.">
+<!ENTITY shortpattern.warning "El patrón qu'escribió ye curtiu enforma pa poder ameyorase y pue facer más lenta la navegación. Recomiéndase qu'escueya una cadena más llarga para esti filtru pa permitir a Adblock Cash procesalu de mou más eficaz.">
 <!ENTITY collapse.yes.label "Sí">
 <!ENTITY anchors.label "Aceutar sólo patrones:">
 <!ENTITY collapse.default.yes.label "Usar predeterminaos (sí)">
 <!ENTITY domainRestriction.help "Use esta opción pa especificar un dominiu o más separaos por una barra (|). El filtru sólo s'aplicará nos dominios seleicionaos. Una tilde (~) antes d'un nome de dominiu significa que'l filtru nun s'aplicará nesi dominiu.">
 <!ENTITY accept.label "Amestar un filtru">
 <!ENTITY options.label "Opciones">
-<!ENTITY disabled.warning "Adblock Plus ta desactiváu. Inda pue amestar filtros, pero nun s'aplicarán si nun [link]activa Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash ta desactiváu. Inda pue amestar filtros, pero nun s'aplicarán si nun [link]activa Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "al pr&amp;incipiu del nome de dominiu">
 <!ENTITY collapse.no.label "Non">
 <!ENTITY selectAllTypes.label "Seleicionar toos">

@@ -1,12 +1,12 @@
 <!ENTITY notification.button.yes "&amp; Sí">
 <!ENTITY notification.button.no "&amp; No">
-<!ENTITY sync.label "Sincroni&amp;zar predisposiciones de Adblock Plus">
+<!ENTITY sync.label "Sincroni&amp;zar predisposiciones de Adblock Cash">
 <!ENTITY whitelist.site.label "Desactivar en ?1?">
 <!ENTITY filters.label "&amp;Preferencias de filtros">
 <!ENTITY disable.label "Desactivar globalmente">
 <!ENTITY objecttab.title "Bloquear">
-<!ENTITY objecttab.tooltip "Pulse aquí para bloquear este objeto con Adblock Plus">
-<!ENTITY menuitem.label "&amp;Adblock Plus">
+<!ENTITY objecttab.tooltip "Pulse aquí para bloquear este objeto con Adblock Cash">
+<!ENTITY menuitem.label "&amp;Adblock Cash">
 <!ENTITY objecttabs.label "&amp;Mostrar pestañas en Flash y Java">
 <!ENTITY sendReport.label "&amp;Informar de un problema en esta página">
 <!ENTITY whitelist.page.label "Desactivar sólo en esta página">
@@ -14,8 +14,8 @@
 <!ENTITY counthits.label "Contar &amp;usos de filtros">
 <!ENTITY opensidebar.label "Abrir &amp;ventana elementos bloqueables">
 <!ENTITY notification.button.close "&amp;Cerrar">
-<!ENTITY contribute.label "Ayudar a Adblock Plus">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY contribute.label "Ayudar a Adblock Cash">
+<!ENTITY toolbarbutton.label "Adblock Cash">
 <!ENTITY context.frame.label "ABP - Bloquear marco">
 <!ENTITY blocked.tooltip "Elementos bloqueados en esta página:">
 <!ENTITY hideplaceholders.label "O&amp;cultar posicionadores de elementos bloqueados">

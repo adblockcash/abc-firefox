@@ -13,8 +13,8 @@
 <!ENTITY custom.pattern.label "&amp;Personalitza:">
 <!ENTITY unselectAllTypes.label "No seleccionis res">
 <!ENTITY type.whitelist.label "E&amp;xcepció">
-<!ENTITY regexp.warning "El patró inserit serà interpretat com una expressió regular, la qual no podrà ser processada per Adblock Plus i podria comportar una ralentització de la vostra experiència de navegació. Si no volíeu emprar una expressió regular, afegiu el símbol (*) al final del patró.">
-<!ENTITY dialog.title "Afegeix una regla de filtre de l'Adblock Plus">
+<!ENTITY regexp.warning "El patró inserit serà interpretat com una expressió regular, la qual no podrà ser processada per Adblock Cash i podria comportar una ralentització de la vostra experiència de navegació. Si no volíeu emprar una expressió regular, afegiu el símbol (*) al final del patró.">
+<!ENTITY dialog.title "Afegeix una regla de filtre de l'Adblock Cash">
 <!ENTITY basic.label "Visualització bàsica">
 <!ENTITY type.filter.label "Filtre de &amp;bloqueig">
 <!ENTITY types.label "Aplicar als tipus:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Indica un o més dominis separats pel símbol «|». El filtre només s'aplicarà a aquests dominis. El símbol «~» abans d'un nom de domini indica que el filtre no s'ha d'aplicar en aquest domini.">
 <!ENTITY accept.label "Afegeix un filtre">
 <!ENTITY options.label "Opcions">
-<!ENTITY disabled.warning "L'Adblock Plus està actualment desactivat. Encara podeu afegir filtres però no s'aplicaran fins que no [link]activeu l'Adblock Plus[/link].">
+<!ENTITY disabled.warning "L'Adblock Cash està actualment desactivat. Encara podeu afegir filtres però no s'aplicaran fins que no [link]activeu l'Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "al començament del &amp;nom de domini">
 <!ENTITY collapse.no.label "No">
 <!ENTITY selectAllTypes.label "Selecciona-ho tot">

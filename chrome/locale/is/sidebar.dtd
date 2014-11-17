@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Aftengja">
 <!ENTITY whitelisted.label "Síða fyrir hvítlista">
 <!ENTITY context.disablefilteronsite.label "Aftengja síu fyrir ?1?">
-<!ENTITY detached.title "Adblock Plus: Lokaðir hlutir (aðskildir)">
+<!ENTITY detached.title "Adblock Cash: Lokaðir hlutir (aðskildir)">
 <!ENTITY docDomain.firstParty "(frumaðili)">
 <!ENTITY tooltip.type.whitelisted "(hvítlisti)">
 <!ENTITY tooltip.filter.label "Sía í notkun:">

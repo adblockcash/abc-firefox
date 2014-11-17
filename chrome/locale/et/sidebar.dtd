@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Haagi lahti">
 <!ENTITY whitelisted.label "Lehekülg on valges nimekirjas">
 <!ENTITY context.disablefilteronsite.label "Keela see filter domeenis ?1?">
-<!ENTITY detached.title "Adblock Plus: Blokeeritavad elemendid (lahti haagitud)">
+<!ENTITY detached.title "Adblock Cash: Blokeeritavad elemendid (lahti haagitud)">
 <!ENTITY docDomain.firstParty "(põhileht)">
 <!ENTITY tooltip.type.whitelisted "(valges nimekirjas)">
 <!ENTITY tooltip.filter.label "Kehtiv filter:">

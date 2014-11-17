@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Әрекеттер">
 <!ENTITY filter.selectAll.label "Барлығын таңдау">
 <!ENTITY backupButton.label "Сақтау мен қал&amp;пына келтіру">
-<!ENTITY restore.minVersion.warning "Ескерту: Файл жаңалау Adblock Plus нұсқасымен жасалған. Бұл файлдан қалпына келтіру үшін сізге Adblock Plus-тың соңғы нұсқасын орнату керек.">
-<!ENTITY restore.error "Файл мәліметін өңдеу мүмкін емес, мүмкін ол Adblock Plus-тің көшірме файлы емес шығар?">
+<!ENTITY restore.minVersion.warning "Ескерту: Файл жаңалау Adblock Cash нұсқасымен жасалған. Бұл файлдан қалпына келтіру үшін сізге Adblock Cash-тың соңғы нұсқасын орнату керек.">
+<!ENTITY restore.error "Файл мәліметін өңдеу мүмкін емес, мүмкін ол Adblock Cash-тің көшірме файлы емес шығар?">
 <!ENTITY sort.ascending.label "&amp;А &gt; Я сұрыптау">
 <!ENTITY sort.label "&amp;Сұрыптау">
 <!ENTITY subscription.source.label "Фильтлер тізімі">
@@ -30,12 +30,12 @@
 <!ENTITY addSubscriptionCancel.label "Бас тарту">
 <!ENTITY subscription.enabled.label "Іске қосулы">
 <!ENTITY noSubscriptions.text "Сіз әлі фильтрге жазылуларды қосқан жоқсыз. Фильтрлерсіз
- Adblock Plus ешнәрсені блоктамайды, оларды қосу үшін
+ Adblock Cash ешнәрсені блоктамайды, оларды қосу үшін
  &quot;Фильтрге жазылуды қосу&quot; қолданыңыз.">
 <!ENTITY subscription.update.label "Фильтрлерді жаңарту">
-<!ENTITY dialog.title "Adblock Plus фильтр баптаулары">
+<!ENTITY dialog.title "Adblock Cash фильтр баптаулары">
 <!ENTITY addFilter.label "Фильтрді қо&amp;су">
-<!ENTITY subscription.minVersion.warning "Бұл фильтрге жазылу Adblock Plus-тің жаңа нұсқасын талап етеді, оңы жаңартыңыз.">
+<!ENTITY subscription.minVersion.warning "Бұл фильтрге жазылу Adblock Cash-тің жаңа нұсқасын талап етеді, оңы жаңартыңыз.">
 <!ENTITY subscription.lastDownload.invalidURL "Қате, дұрыс адрес емес">
 <!ENTITY backup.error "Фильтрлерді файлға жазу кезінде қате орын алды. Файл жазу үшін қолжетерлік және басқа қолданбаның қолданысында болмағанына көз жеткізіңіз.">
 <!ENTITY filter.moveUp.label "Жоғары жылжыту">

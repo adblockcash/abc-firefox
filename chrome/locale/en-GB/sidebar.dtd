@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Detach">
 <!ENTITY whitelisted.label "Whitelisted page">
 <!ENTITY context.disablefilteronsite.label "Disable this filter on ?1?">
-<!ENTITY detached.title "Adblock Plus: Blockable items (detached)">
+<!ENTITY detached.title "Adblock Cash: Blockable items (detached)">
 <!ENTITY docDomain.firstParty "(first party)">
 <!ENTITY tooltip.type.whitelisted "(whitelisted)">
 <!ENTITY tooltip.filter.label "Filter in effect:">

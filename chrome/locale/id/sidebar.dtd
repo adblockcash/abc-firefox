@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Lepaskan">
 <!ENTITY whitelisted.label "Halaman dalam daftar putih">
 <!ENTITY context.disablefilteronsite.label "Nonaktifkan filter ini pada ?1?">
-<!ENTITY detached.title "Adblock Plus: Butir yang dapat dicekal (dilepaskan)">
+<!ENTITY detached.title "Adblock Cash: Butir yang dapat dicekal (dilepaskan)">
 <!ENTITY docDomain.firstParty "(pihak pertama)">
 <!ENTITY tooltip.type.whitelisted "(dalam daftar putih)">
 <!ENTITY tooltip.filter.label "Penyaring yang berlaku:">

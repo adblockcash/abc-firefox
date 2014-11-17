@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Atdalīt">
 <!ENTITY whitelisted.label "Lapa ir baltajā sarakstā">
 <!ENTITY context.disablefilteronsite.label "Atspējot šo filtru ?1?">
-<!ENTITY detached.title "Adblock Plus: Bloķējamās vienības (atdalīts)">
+<!ENTITY detached.title "Adblock Cash: Bloķējamās vienības (atdalīts)">
 <!ENTITY docDomain.firstParty "(pirmā puse)">
 <!ENTITY tooltip.type.whitelisted "(baltajā sarakstā)">
 <!ENTITY tooltip.filter.label "Aktīvais filtrs:">

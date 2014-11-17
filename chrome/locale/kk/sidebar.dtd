@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Бөліп жіберу">
 <!ENTITY whitelisted.label "Ережеден тыс парақ">
 <!ENTITY context.disablefilteronsite.label "Келесі үшін фильтрді өшіру ?1?">
-<!ENTITY detached.title "Adblock Plus: ағымдағы парақ құрамасы (бөлінген)">
+<!ENTITY detached.title "Adblock Cash: ағымдағы парақ құрамасы (бөлінген)">
 <!ENTITY docDomain.firstParty "(бірінші жақты)">
 <!ENTITY tooltip.type.whitelisted "(ережеден тыс)">
 <!ENTITY tooltip.filter.label "Қолданудағы фильтр:">

@@ -3,8 +3,8 @@
 <!ENTITY notification.button.no "&amp;Не">
 <!ENTITY filters.tooltip "Најактивни филтери:">
 <!ENTITY notification.button.close "&amp;Затвори">
-<!ENTITY toolbarbutton.label "Adblock Plus">
-<!ENTITY context.image.label "Adblock Plus: Блокирај слика">
+<!ENTITY toolbarbutton.label "Adblock Cash">
+<!ENTITY context.image.label "Adblock Cash: Блокирај слика">
 <!ENTITY status.tooltip "Состојба:">
 <!ENTITY blocked.tooltip "Блокирани предмети на оваа страна:">
 <!ENTITY objecttab.title "Блокирај">

@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Diuzañ netra">
 <!ENTITY type.whitelist.label "Reolenn direizhadenn (&amp;x)">
 <!ENTITY regexp.warning "Ar c'hinkladur hoc'h eus diskouezet a vo troet e-giz ur jedad a-reizh. Un niver vras jedadoù a-reizh a c'horreko hoc'h merdeiñ. Ma n'hoc'h eus ket c'hoant implij jedadoù a-reizh, Ouzhpennit un * √† er in ar c'hinkladur.">
-<!ENTITY dialog.title "Ouzhpenn ur reolenn silabl Adblock Plus">
+<!ENTITY dialog.title "Ouzhpenn ur reolenn silabl Adblock Cash">
 <!ENTITY basic.label "Diskouez a-reizh">
 <!ENTITY type.filter.label "Sil stankañ (&amp;B)">
 <!ENTITY types.label "Lakaat d'ar furmoù da heul :">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Resisaat unan pe meur domani distaget gant an arouezenn ¬´ | ¬ª, ne labouro ket ar sil nemet gant anv domani resiset. An arouezenn ¬´ ~ ¬ª a-raok un anv domani a dalvez ne vo ket ret bezañ da labour war an domani-se.">
 <!ENTITY accept.label "Ouzhpenn ar sil">
 <!ENTITY options.label "Dibaboù">
-<!ENTITY disabled.warning "Diweredekaet eo Adblock Plus a-vremañ. Gallout a rit kenderc'hel ouzhpenn siloù met ne labourint ket kement ne vo ket gweredekaet [link]Adblock Plus[/link].">
+<!ENTITY disabled.warning "Diweredekaet eo Adblock Cash a-vremañ. Gallout a rit kenderc'hel ouzhpenn siloù met ne labourint ket kement ne vo ket gweredekaet [link]Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "e penn anv domani (&amp;g)">
 <!ENTITY collapse.no.label "Ket">
 <!ENTITY selectAllTypes.label "Diuzañ pep tra">

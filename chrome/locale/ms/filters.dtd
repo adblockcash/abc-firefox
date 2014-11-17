@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Aksi-aksi">
 <!ENTITY filter.selectAll.label "Pilih Semua">
 <!ENTITY backupButton.label "Backup dan Re&amp;store">
-<!ENTITY restore.minVersion.warning "Amaran: fail ini dibuat menggunakan versi Adblock Plus terbaru. Anda harus mendapatkan versi Adblock Plus terbaru sebelum anda restore dari fail ini.">
-<!ENTITY restore.error "Data fail tidak dapat diprosese, mungkin ini bukan fail backup Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Amaran: fail ini dibuat menggunakan versi Adblock Cash terbaru. Anda harus mendapatkan versi Adblock Cash terbaru sebelum anda restore dari fail ini.">
+<!ENTITY restore.error "Data fail tidak dapat diprosese, mungkin ini bukan fail backup Adblock Cash?">
 <!ENTITY sort.ascending.label "Susun&amp;an A &gt; Z">
 <!ENTITY sort.label "Susun &amp;dengan">
 <!ENTITY subscription.source.label "Senarai penapis">
@@ -29,12 +29,12 @@
 <!ENTITY subscription.lastDownload.unknown "tiada maklumat">
 <!ENTITY addSubscriptionCancel.label "Batal">
 <!ENTITY subscription.enabled.label "Diaktifkan">
-<!ENTITY noSubscriptions.text "Anda belum menambah langganan penapis. Adblock Plus tidak akan menapis 
+<!ENTITY noSubscriptions.text "Anda belum menambah langganan penapis. Adblock Cash tidak akan menapis
  apa-apa tanpa penapis, sila guna &quot;Tambah langganan penapis&quot; untuk menambah.">
 <!ENTITY subscription.update.label "Kemaskini penapis">
-<!ENTITY dialog.title "Pilihan Penapis Adblock Plus">
+<!ENTITY dialog.title "Pilihan Penapis Adblock Cash">
 <!ENTITY addFilter.label "&amp;Tambah penapis">
-<!ENTITY subscription.minVersion.warning "Langganan penapis ini memerlukan versi Adblock Plus terbaru, anda perlu mendapatkan versi Adblock Plus terbaru.">
+<!ENTITY subscription.minVersion.warning "Langganan penapis ini memerlukan versi Adblock Cash terbaru, anda perlu mendapatkan versi Adblock Cash terbaru.">
 <!ENTITY subscription.lastDownload.invalidURL "Gagal, bukan alamat yang sah">
 <!ENTITY backup.error "Terdapat ralat semasa menulis penapis pada fail. Sila pastikan fail tidak write protected atau digunakan oleh aplikasi lain.">
 <!ENTITY filter.moveUp.label "Pindah atas">

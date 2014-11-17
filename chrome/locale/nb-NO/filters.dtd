@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Handlinger">
 <!ENTITY filter.selectAll.label "Velg alle">
 <!ENTITY backupButton.label "Sikkerhetskopier og gjenopprett (&amp;B)">
-<!ENTITY restore.minVersion.warning "Advarsel: Filen har blitt laget med en nyere versjon av Adblock Plus. Du bør oppdatere til nyeste versjon av Adblock Plus før du bruker denne filen.">
-<!ENTITY restore.error "Informasjonen i filen kunne ikke bli behandlet. Kanskje dette ikke er en backup-fil for Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Advarsel: Filen har blitt laget med en nyere versjon av Adblock Cash. Du bør oppdatere til nyeste versjon av Adblock Cash før du bruker denne filen.">
+<!ENTITY restore.error "Informasjonen i filen kunne ikke bli behandlet. Kanskje dette ikke er en backup-fil for Adblock Cash?">
 <!ENTITY sort.ascending.label "&amp;Sortér fra A til Å">
 <!ENTITY sort.label "&amp;Sorter etter">
 <!ENTITY subscription.source.label "Filterliste">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Ikke tilgjengelig">
 <!ENTITY addSubscriptionCancel.label "Avbryt">
 <!ENTITY subscription.enabled.label "Aktivert">
-<!ENTITY noSubscriptions.text "Du har ikke lagt til noen filterabonnementer ennå. Adblock Plus blokkerer ikke noe uten filtre. Vennligst bruk &quot;Legg til filterabonnement&quot; for å legge til filtre.">
+<!ENTITY noSubscriptions.text "Du har ikke lagt til noen filterabonnementer ennå. Adblock Cash blokkerer ikke noe uten filtre. Vennligst bruk &quot;Legg til filterabonnement&quot; for å legge til filtre.">
 <!ENTITY subscription.update.label "Oppdater filtre">
-<!ENTITY dialog.title "Filtervalg for Adblock Plus">
+<!ENTITY dialog.title "Filtervalg for Adblock Cash">
 <!ENTITY addFilter.label "Legg til filter (&amp;d)">
-<!ENTITY subscription.minVersion.warning "Dette filterabonnementet krever en nyere versjon av Adblock Plus. Du bør oppdatere til nyeste versjon av Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Dette filterabonnementet krever en nyere versjon av Adblock Cash. Du bør oppdatere til nyeste versjon av Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Feilet, ikke en gyldig adresse">
 <!ENTITY backup.error "Det oppstod en feil under lagring av filtrene til filen. Sjekk at ikke filen er skrivebeskyttet, eller at den brukes av et annet program.">
 <!ENTITY filter.moveUp.label "Flytt opp">

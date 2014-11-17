@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Darbības">
 <!ENTITY filter.selectAll.label "Izvēlēties visu">
 <!ENTITY backupButton.label "Dublējumkopiju izveide un atjaunošana">
-<!ENTITY restore.minVersion.warning "Brīdinājums: fails ir izveidots, izmantojot jaunāku Adblock Plus versiju. Jums nepieciešams atjaunināt Adblock Plus, pirms turpināt atjaunošanu no šī faila.">
-<!ENTITY restore.error "Faila dati nevar tikt apstrādāti, varbūt tas nav Adblock Plus rezerves kopijas fails?">
+<!ENTITY restore.minVersion.warning "Brīdinājums: fails ir izveidots, izmantojot jaunāku Adblock Cash versiju. Jums nepieciešams atjaunināt Adblock Cash, pirms turpināt atjaunošanu no šī faila.">
+<!ENTITY restore.error "Faila dati nevar tikt apstrādāti, varbūt tas nav Adblock Cash rezerves kopijas fails?">
 <!ENTITY sort.ascending.label "A &gt; Z kārtošanas secība">
 <!ENTITY sort.label "Kārtot pēc">
 <!ENTITY subscription.source.label "Filtru saraksts">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Atcelt">
 <!ENTITY subscription.enabled.label "Iespējota">
-<!ENTITY noSubscriptions.text "Jūs līdz šim neesat pievienojis nevienu filra abonementu. Adblock Plus neko nebloķēs bez filtriem, lūdzam lietot &quot;Pievienot filtra abonementu&quot;, lai tos pievienotu.">
+<!ENTITY noSubscriptions.text "Jūs līdz šim neesat pievienojis nevienu filra abonementu. Adblock Cash neko nebloķēs bez filtriem, lūdzam lietot &quot;Pievienot filtra abonementu&quot;, lai tos pievienotu.">
 <!ENTITY subscription.update.label "Atjaunināt filtrus">
-<!ENTITY dialog.title "Adblock Plus filtra prioritātes">
+<!ENTITY dialog.title "Adblock Cash filtra prioritātes">
 <!ENTITY addFilter.label "Pievienot Filtru">
-<!ENTITY subscription.minVersion.warning "Šo filtru abonēšanai nepieciešama jaunāka versija Adblock Plus, tadel jums vajadzētu atjaunināt ar jaunāko Adblock Plus versiju.">
+<!ENTITY subscription.minVersion.warning "Šo filtru abonēšanai nepieciešama jaunāka versija Adblock Cash, tadel jums vajadzētu atjaunināt ar jaunāko Adblock Cash versiju.">
 <!ENTITY subscription.lastDownload.invalidURL "Neizdevās, nav derīga adrese">
 <!ENTITY backup.error "Radās kļūda, ierakstot filtrus failā. Pārliecinieties, ka fails nav aizsargāts pret ierakstu vai netiek izmantots citā lietojumprogrammā.">
 <!ENTITY filter.moveUp.label "Pārvietot uz augšu">

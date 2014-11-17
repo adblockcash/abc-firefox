@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Действия">
 <!ENTITY filter.selectAll.label "Выбрать все">
 <!ENTITY backupButton.label "Резервные &amp;копии и восстановление">
-<!ENTITY restore.minVersion.warning "Предупреждение: этот файл был записан более новой версией Adblock Plus. Рекомендуется обновить Adblock Plus до последней версии, прежде чем восстанавливать данные из этого файла.">
-<!ENTITY restore.error "Ошибка при обработке данных файла, может это не резервная копия, созданная Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Предупреждение: этот файл был записан более новой версией Adblock Cash. Рекомендуется обновить Adblock Cash до последней версии, прежде чем восстанавливать данные из этого файла.">
+<!ENTITY restore.error "Ошибка при обработке данных файла, может это не резервная копия, созданная Adblock Cash?">
 <!ENTITY sort.ascending.label "Сортировка по ал&amp;фавиту">
 <!ENTITY sort.label "Со&amp;ртировка">
 <!ENTITY subscription.source.label "Список фильтров">
@@ -29,12 +29,12 @@
 <!ENTITY subscription.lastDownload.unknown "никогда">
 <!ENTITY addSubscriptionCancel.label "Отмена">
 <!ENTITY subscription.enabled.label "Включена">
-<!ENTITY noSubscriptions.text "У вас пока нет подписок на фильтры. Без фильтров Adblock Plus ничего не будет
+<!ENTITY noSubscriptions.text "У вас пока нет подписок на фильтры. Без фильтров Adblock Cash ничего не будет
   блокировать, пожалуйста воспользуйтесь кнопкой &quot;Добавить подписку&quot;.">
 <!ENTITY subscription.update.label "Обновить фильтры">
-<!ENTITY dialog.title "Настройки фильтров Adblock Plus">
+<!ENTITY dialog.title "Настройки фильтров Adblock Cash">
 <!ENTITY addFilter.label "Добавить &amp;фильтр">
-<!ENTITY subscription.minVersion.warning "Этот список фильтров требует более новой версии Adblock Plus, желательно обновить Adblock Plus до последней версии.">
+<!ENTITY subscription.minVersion.warning "Этот список фильтров требует более новой версии Adblock Cash, желательно обновить Adblock Cash до последней версии.">
 <!ENTITY subscription.lastDownload.invalidURL "Ошибка: неверный адрес">
 <!ENTITY backup.error "При записи фильтров в файл произошла ошибка. Проверьте, может этот файл защищен от записи или используется другой программой.">
 <!ENTITY filter.moveUp.label "Поместить выше">

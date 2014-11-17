@@ -6,7 +6,7 @@
 <!ENTITY subscription.actions.label "Дії">
 <!ENTITY filter.selectAll.label "Вибрати всі">
 <!ENTITY backupButton.label "&amp;Резервні копії та відновлення">
-<!ENTITY restore.minVersion.warning "Увага: файл було створено новішою версією Adblock Plus.Вам слід оновити Adblock Plus до останньої версії перш ніж відновлюватись з цього файла.">
+<!ENTITY restore.minVersion.warning "Увага: файл було створено новішою версією Adblock Cash.Вам слід оновити Adblock Cash до останньої версії перш ніж відновлюватись з цього файла.">
 <!ENTITY restore.error "Дані з файла неможливо обробити — може, це не є Адблоківська резервна копія?">
 <!ENTITY sort.ascending.label "Від &amp;А до Я">
 <!ENTITY sort.label "&amp;Сортувати за">
@@ -33,7 +33,7 @@
 <!ENTITY subscription.update.label "Оновити фільтри">
 <!ENTITY dialog.title "Налаштування фільтрів Адблоку">
 <!ENTITY addFilter.label "&amp;Додати фільтр">
-<!ENTITY subscription.minVersion.warning "Ця підписка фільтрів потребує новішої версії Adblock Plus. Вам слід оновитись до останньої версії Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Ця підписка фільтрів потребує новішої версії Adblock Cash. Вам слід оновитись до останньої версії Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Помилка, невірна адреса">
 <!ENTITY backup.error "Під час запису фільтрів у файл сталася помилка. Упевніться, що файл не захищений від запису і не використовується іншою програмою.">
 <!ENTITY filter.moveUp.label "Зсунути вверх">

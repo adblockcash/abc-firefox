@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Irrota">
 <!ENTITY whitelisted.label "Sallittu sivu">
 <!ENTITY context.disablefilteronsite.label "Poista tämä suodatin käytöstä osoiteessa ?1?">
-<!ENTITY detached.title "Adblock Plus: Estettävien elementtien lista (irrotettu)">
+<!ENTITY detached.title "Adblock Cash: Estettävien elementtien lista (irrotettu)">
 <!ENTITY docDomain.firstParty "(ensimmäinen osapuoli)">
 <!ENTITY tooltip.type.whitelisted "(sallittu)">
 <!ENTITY tooltip.filter.label "Vaikuttava suodatin:">

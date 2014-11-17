@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Oddeliť">
 <!ENTITY whitelisted.label "Povolené stránky">
 <!ENTITY context.disablefilteronsite.label "Vypnúť tento filter na ?1?">
-<!ENTITY detached.title "Adblock Plus: Blokovateľné položky (oddelený)">
+<!ENTITY detached.title "Adblock Cash: Blokovateľné položky (oddelený)">
 <!ENTITY docDomain.firstParty "(prvá strana)">
 <!ENTITY tooltip.type.whitelisted "(povolený)">
 <!ENTITY tooltip.filter.label "Platný filter:">

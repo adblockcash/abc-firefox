@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Ерекшелеуді тастау">
 <!ENTITY type.whitelist.label "&amp;Ерекше ереже">
 <!ENTITY regexp.warning "Сіз енгізген шаблон, регулярлы өрнек ретінде өңделеді. Осындай шаблондардың көп саны браузеріңіздің жұмысын тежей алады. Регулярлы өрнекті қолданғыңыз келмесе, шаблон соңына жұлдызшаны қосыңыз.">
-<!ENTITY dialog.title "Adblock Plus фильтр ережесін қосу">
+<!ENTITY dialog.title "Adblock Cash фильтр ережесін қосу">
 <!ENTITY basic.label "Негізгі көрінісі">
 <!ENTITY type.filter.label "&amp;Блоктаушы фильтр">
 <!ENTITY types.label "Қолдану үшін құрама түрі:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Бір немесе &quot;|&quot; таңбасымен ажыратылған бірнеше доменді көрсетіңіз, фильтр тек осы домендер үшін орындалады. Домен атының алдыңдағы &quot;~&quot; таңбасы осы доменде фильтр орындалмайтынын көрсетеді.">
 <!ENTITY accept.label "Фильтрді қосу">
 <!ENTITY options.label "Баптаулар">
-<!ENTITY disabled.warning "Adblock Plus қазір сөндірулі. Фильтрлерді қазір де қоса аласыз, бірақ олар жұмыс істемейді, сіз [link]Adblock Plus қосқанға дейін[/link].">
+<!ENTITY disabled.warning "Adblock Cash қазір сөндірулі. Фильтрлерді қазір де қоса аласыз, бірақ олар жұмыс істемейді, сіз [link]Adblock Cash қосқанға дейін[/link].">
 <!ENTITY anchor.start.flexible.label "&amp;домен атынын басында">
 <!ENTITY collapse.no.label "Жоқ">
 <!ENTITY selectAllTypes.label "Барлығын ерекшелеу">

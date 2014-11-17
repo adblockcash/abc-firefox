@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Personalização:">
 <!ENTITY unselectAllTypes.label "Desseleccionar">
 <!ENTITY type.whitelist.label "Regra de e&amp;xceção">
-<!ENTITY regexp.warning "O padrão inserido será interpretado como expressão regular e não será processado corretamente pelo Adblock Plus e pode tornar o navegador mais lento. Se não pretendia utilizar expressões regulares adicione um asterisco (*) no final do padrão.">
-<!ENTITY dialog.title "Adicionar regra de filtro ao Adblock Plus">
+<!ENTITY regexp.warning "O padrão inserido será interpretado como expressão regular e não será processado corretamente pelo Adblock Cash e pode tornar o navegador mais lento. Se não pretendia utilizar expressões regulares adicione um asterisco (*) no final do padrão.">
+<!ENTITY dialog.title "Adicionar regra de filtro ao Adblock Cash">
 <!ENTITY basic.label "Vista básica">
 <!ENTITY type.filter.label "Filtro bloqueador">
 <!ENTITY types.label "Aplicar aos tipos:">
-<!ENTITY shortpattern.warning "O padrão inserido é demasiado curto para ser otimizado e pode tornar o navegador mais lento. Deve utilizar um padrão mais extenso para este filtro de modo a que o Adblock Plus processe o filtro de forma correta.">
+<!ENTITY shortpattern.warning "O padrão inserido é demasiado curto para ser otimizado e pode tornar o navegador mais lento. Deve utilizar um padrão mais extenso para este filtro de modo a que o Adblock Cash processe o filtro de forma correta.">
 <!ENTITY collapse.yes.label "Sim">
 <!ENTITY anchors.label "Aceitar o padrão apenas:">
 <!ENTITY collapse.default.yes.label "Usar por defeito (sim)">
 <!ENTITY domainRestriction.help "Especificar um ou mais domínios separados pelo símbolo &quot;|&quot;, o filtro será aplicado apenas a estes domínios. O símbolo &quot;~&quot; antes de um domínio implica que o filtro não seja aplicado nesse domínio.">
 <!ENTITY accept.label "Adicionar filtro">
 <!ENTITY options.label "Opções">
-<!ENTITY disabled.warning "O Adblock Plus está inativo. Pode adicionar filtros mas estes não serão aplicados até que [link]ative o Adblock Plus[/link].">
+<!ENTITY disabled.warning "O Adblock Cash está inativo. Pode adicionar filtros mas estes não serão aplicados até que [link]ative o Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "no &amp;início do nome de domínio">
 <!ENTITY collapse.no.label "Não">
 <!ENTITY selectAllTypes.label "Selecionar tudo">

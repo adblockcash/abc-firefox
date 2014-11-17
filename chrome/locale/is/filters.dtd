@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Aðgerðir">
 <!ENTITY filter.selectAll.label "Velja allt">
 <!ENTITY backupButton.label "&amp;Afrita og endurheimta">
-<!ENTITY restore.minVersion.warning "Aðvörun: skráin var búin til að nýrri útgáfu af Adblock Plus. Þú ættir að uppfæra í nýjustu útgáfu af Adblock Plus áður en þú endurheimtir þessa skrá.">
-<!ENTITY restore.error "Ekki tókst að lesa skráargögn, kannski er skráin ekki Adblock Plus afritunarskrá?">
+<!ENTITY restore.minVersion.warning "Aðvörun: skráin var búin til að nýrri útgáfu af Adblock Cash. Þú ættir að uppfæra í nýjustu útgáfu af Adblock Cash áður en þú endurheimtir þessa skrá.">
+<!ENTITY restore.error "Ekki tókst að lesa skráargögn, kannski er skráin ekki Adblock Cash afritunarskrá?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Ö röðun">
 <!ENTITY sort.label "Raða e&amp;ftir">
 <!ENTITY subscription.source.label "Sía lista">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Óþekkt">
 <!ENTITY addSubscriptionCancel.label "Hætta við">
 <!ENTITY subscription.enabled.label "Virkt">
-<!ENTITY noSubscriptions.text "Þú hefur ekki ennþá bætt við áskrift að síu. Adblock Plus virkar ekki
+<!ENTITY noSubscriptions.text "Þú hefur ekki ennþá bætt við áskrift að síu. Adblock Cash virkar ekki
 	án þess að vera með síur, notaðu &quot;Bæta við síuáskrift&quot; til
 	að bæta við síuáskrift.">
 <!ENTITY subscription.update.label "Uppfæra síur">
-<!ENTITY dialog.title "Adblock Plus síu stillingar">
+<!ENTITY dialog.title "Adblock Cash síu stillingar">
 <!ENTITY addFilter.label "Bæta við sí&amp;u">
-<!ENTITY subscription.minVersion.warning "Þessi síuáskrift þarfnast nýrri útáfu af Adblock Plus, þú ættir að uppfæra í nýjustu útgáfu.">
+<!ENTITY subscription.minVersion.warning "Þessi síuáskrift þarfnast nýrri útáfu af Adblock Cash, þú ættir að uppfæra í nýjustu útgáfu.">
 <!ENTITY subscription.lastDownload.invalidURL "Mistókst, ekki gilt netfang">
 <!ENTITY backup.error "Upp kom villa við að skrifa síur í skránna. Gakktu úr skugga um að skráin sé ekki ritvarin eða í notkun af öðru forriti.">
 <!ENTITY filter.moveUp.label "Færa upp">

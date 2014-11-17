@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Veprime">
 <!ENTITY filter.selectAll.label "Përzgjidhi Krejt">
 <!ENTITY backupButton.label "&amp;Kopjeruaje dhe Riktheje">
-<!ENTITY restore.minVersion.warning "Kujdes: kartela është krijuar me një version Adblock Plus më të ri. Do të duhej ta përditësonit Adblock Plus-in me versionin më të ri, përpara se të riktheni të dhëna prej kësaj kartele.">
-<!ENTITY restore.error "Të dhënat e kartelës nuk përpunohen dot, ndoshta kjo nuk është kartelë kopjeruajtjesh për Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Kujdes: kartela është krijuar me një version Adblock Cash më të ri. Do të duhej ta përditësonit Adblock Cash-in me versionin më të ri, përpara se të riktheni të dhëna prej kësaj kartele.">
+<!ENTITY restore.error "Të dhënat e kartelës nuk përpunohen dot, ndoshta kjo nuk është kartelë kopjeruajtjesh për Adblock Cash?">
 <!ENTITY sort.ascending.label "A &gt; Z radhitje">
 <!ENTITY sort.label "Radhit sipas">
 <!ENTITY subscription.source.label "Lista e filtrave">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "N/D">
 <!ENTITY addSubscriptionCancel.label "Anulo">
 <!ENTITY subscription.enabled.label "E aktivizuar">
-<!ENTITY noSubscriptions.text "Ju nuk keni shtuar ndonje abonim per filter ende.Adblock Plus nuk do te bllokoje asgje pa filtra,ju lutem perdorin &quot;Shto nje abonim filtri&quot; per te shtuar disa.">
+<!ENTITY noSubscriptions.text "Ju nuk keni shtuar ndonje abonim per filter ende.Adblock Cash nuk do te bllokoje asgje pa filtra,ju lutem perdorin &quot;Shto nje abonim filtri&quot; per te shtuar disa.">
 <!ENTITY subscription.update.label "Përditësoni filtra">
-<!ENTITY dialog.title "Filtroni preferencat e Adblock Plus">
+<!ENTITY dialog.title "Filtroni preferencat e Adblock Cash">
 <!ENTITY addFilter.label "Vendos filtrues">
-<!ENTITY subscription.minVersion.warning "Ky abonim filtri kerkon nje version me te ri te Adblock Plus,ti duhet te besh update ne versionin e fundit te Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Ky abonim filtri kerkon nje version me te ri te Adblock Cash,ti duhet te besh update ne versionin e fundit te Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Deshtoi,nje adrese e pavlefshme">
 <!ENTITY backup.error "Pati një gabim gjatë shkrimit te kartela. Sigurohuni që kartela nuk është e mbrojtur ndaj shkrimit ose që nuk po përdoret nga një zbatim tjetër.">
 <!ENTITY filter.moveUp.label "Ngjite sipër">

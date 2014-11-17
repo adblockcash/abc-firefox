@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Odpni">
 <!ENTITY whitelisted.label "Dovoljena stran">
 <!ENTITY context.disablefilteronsite.label "Onemogoči ta filter na ?1?">
-<!ENTITY detached.title "Adblock Plus: elementi blokad (odpeti)">
+<!ENTITY detached.title "Adblock Cash: elementi blokad (odpeti)">
 <!ENTITY docDomain.firstParty "(prva stran)">
 <!ENTITY tooltip.type.whitelisted "(dovoljeno)">
 <!ENTITY tooltip.filter.label "Trenutni filter:">

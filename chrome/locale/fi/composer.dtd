@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Älä valitse mitään">
 <!ENTITY type.whitelist.label "&amp;Sallimisehto">
 <!ENTITY regexp.warning "Syöttämäsi merkkijono tulkitaan säännölliseksi lausekkeeksi. Monet säännölliset lausekkeet saattavat hidastaa selailua. Jos tarkoituksena ei ollut käyttää säännöllistä lauseketta, lisää tähtimerkki (*) lauseen loppuun.">
-<!ENTITY dialog.title "Lisää Adblock Plus -suodatusehto">
+<!ENTITY dialog.title "Lisää Adblock Cash -suodatusehto">
 <!ENTITY basic.label "Perusnäkymä">
 <!ENTITY type.filter.label "&amp;Estävä suodatin">
 <!ENTITY types.label "Käytä tyypeissä:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Määrittele yksi tai useampia verkkotunnuksia &quot;|&quot;-merkilla eroteltuna. Suodatin on käytössä vain näissä verkkotunnuksissa. Suodatinta ei käytetä verkkotunnuksella, jos sen edessä on &quot;~&quot;-merkki.">
 <!ENTITY accept.label "Lisää suodatin">
 <!ENTITY options.label "Asetukset">
-<!ENTITY disabled.warning "Adblock Plus on tällä hetkellä poistettu käytöstä. Voit silti lisätä suodattimia mutta ne otetaan käyttöön vasta kun, [link]otat Adblockin Plussan käyttöön[/link].">
+<!ENTITY disabled.warning "Adblock Cash on tällä hetkellä poistettu käytöstä. Voit silti lisätä suodattimia mutta ne otetaan käyttöön vasta kun, [link]otat Adblockin Plussan käyttöön[/link].">
 <!ENTITY anchor.start.flexible.label "verkko&amp;tunnuksen alussa.">
 <!ENTITY collapse.no.label "Ei">
 <!ENTITY selectAllTypes.label "Valitse kaikki">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Gweithredu">
 <!ENTITY filter.selectAll.label "Dewis popeth">
 <!ENTITY backupButton.label "&amp;Creu copi wrth gefn ac adfer">
-<!ENTITY restore.minVersion.warning "Rhybudd: Crëwyd y ffeil gyda fersiwn diweddarach o Adblock Plus. Dylech ddefnyddio fersiwn diweddarach o Adblock Plus cyn adfer o'r ffeil hon.">
-<!ENTITY restore.error "Ni ellir prosesu data'r ffeil, efallai nad ffeil copi wrth gefn Adblock Plus yw hon?">
+<!ENTITY restore.minVersion.warning "Rhybudd: Crëwyd y ffeil gyda fersiwn diweddarach o Adblock Cash. Dylech ddefnyddio fersiwn diweddarach o Adblock Cash cyn adfer o'r ffeil hon.">
+<!ENTITY restore.error "Ni ellir prosesu data'r ffeil, efallai nad ffeil copi wrth gefn Adblock Cash yw hon?">
 <!ENTITY sort.ascending.label "Trefnu &amp;A &gt; Y">
 <!ENTITY sort.label "&amp;Trefnu yn ôl">
 <!ENTITY subscription.source.label "Rhestr hidlyddion">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Ddim yn berthnasol">
 <!ENTITY addSubscriptionCancel.label "Yn ôl">
 <!ENTITY subscription.enabled.label "Wedi'i alluogi">
-<!ENTITY noSubscriptions.text "'Dych chi heb ychwanegu unrhyw danysgrifiadau hidlo eto. Ni fydd Adblock Plus yn rhwystro dim heb hidlyddion, felly defnyddiwch &quot;Ychwanegu tanysgrifiad hidlo&quot; i ychwanegu rhai.">
+<!ENTITY noSubscriptions.text "'Dych chi heb ychwanegu unrhyw danysgrifiadau hidlo eto. Ni fydd Adblock Cash yn rhwystro dim heb hidlyddion, felly defnyddiwch &quot;Ychwanegu tanysgrifiad hidlo&quot; i ychwanegu rhai.">
 <!ENTITY subscription.update.label "Diweddaru'r hidlyddion">
-<!ENTITY dialog.title "Dewisiadau hidlyddion Adblock Plus">
+<!ENTITY dialog.title "Dewisiadau hidlyddion Adblock Cash">
 <!ENTITY addFilter.label "&amp;Ychwanegu hidlydd">
-<!ENTITY subscription.minVersion.warning "Mae angen fersiwn diweddarach o Adblock Plus ar gyfer y tanysgrifiad hwn. Dylech chi ddiweddaru Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Mae angen fersiwn diweddarach o Adblock Cash ar gyfer y tanysgrifiad hwn. Dylech chi ddiweddaru Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Methwyd, cyfeiriad annilys">
 <!ENTITY backup.error "Bu gwall wrth ysgrifennu'r hidlyddion i'r ffeil. Gwnewch yn siŵr ei bod hi'n bosibl ysgrifennu i'r ffeil a bod dim rhaglen arall yn defnyddio'r ffeil.">
 <!ENTITY filter.moveUp.label "Symud i fyny">

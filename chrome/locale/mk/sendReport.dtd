@@ -1,11 +1,11 @@
 <!ENTITY screenshot.undo.label "Врати">
-<!ENTITY issues.disabled.enable.label "Вклучи го Adblock Plus">
+<!ENTITY issues.disabled.enable.label "Вклучи го Adblock Cash">
 <!ENTITY wizard.title "Репортер за грешки">
 <!ENTITY issues.ownfilters.disable.label "Исклучи филтер">
-<!ENTITY typeSelector.description "Овој прозорец ќе Ве води преку чекорите потребни за пријавување на проблем со Adblock Plus. Прво, одберете го видот на проблем кој го имате на оваа страна:">
-<!ENTITY typeSelector.falsePositive.label "Adblock Plus блокира премногу">
+<!ENTITY typeSelector.description "Овој прозорец ќе Ве води преку чекорите потребни за пријавување на проблем со Adblock Cash. Прво, одберете го видот на проблем кој го имате на оваа страна:">
+<!ENTITY typeSelector.falsePositive.label "Adblock Cash блокира премногу">
 <!ENTITY typeSelector.other.label "Друг проблем">
-<!ENTITY dataCollector.description "Ве молиме почекајте додека Adblock Plus не ги собере потребните податоци.">
+<!ENTITY dataCollector.description "Ве молиме почекајте додека Adblock Cash не ги собере потребните податоци.">
 <!ENTITY issues.disabledfilters.enable.label "Вклучи филтер">
 <!ENTITY dataCollector.heading "Добредојдовте во репортерот за грешки">
 <!ENTITY commentPage.heading "Вметни коментар">

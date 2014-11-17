@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Поништи избор">
 <!ENTITY type.whitelist.label "И&amp;зузетак">
 <!ENTITY regexp.warning "Образац који сте унели ће бити коришћен као регуларни израз. Превише регуларних израза може успорити прегледач интернет страна. Уколико не намеравате да користите регуларне изразе, додајте симбол * на крају обрасца.">
-<!ENTITY dialog.title "Додавање правила за филтер Adblock Plus-а">
+<!ENTITY dialog.title "Додавање правила за филтер Adblock Cash-а">
 <!ENTITY basic.label "Основни приказ">
 <!ENTITY type.filter.label "Фи&amp;лтер за блокирање">
 <!ENTITY types.label "Примени на типове:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Наведите један или више домена раздвојених знаком &quot;|&quot;. Филтер ће бити употребљен једино за ове домене. Знак &quot;~&quot; испред домена значи да ће домен бити изузет од филтрирања.">
 <!ENTITY accept.label "Додај филтер">
 <!ENTITY options.label "Опције">
-<!ENTITY disabled.warning "Adblock Plus је тренутно искључен. И даље можете додавати филтере, али ће они бити примењени тек kada [link]укључиte Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash је тренутно искључен. И даље можете додавати филтере, али ће они бити примењени тек kada [link]укључиte Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "на почетку &amp;домена">
 <!ENTITY collapse.no.label "Не">
 <!ENTITY selectAllTypes.label "Изабери све">

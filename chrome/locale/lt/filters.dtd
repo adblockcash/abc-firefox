@@ -6,7 +6,7 @@
 <!ENTITY subscription.actions.label "Veiksmai">
 <!ENTITY filter.selectAll.label "Pasirinkti visas">
 <!ENTITY backupButton.label "&amp;Atsarginių kopijų kūrimas ir atkūrimas">
-<!ENTITY restore.minVersion.warning "Įspėjimas: failas sukurtas naudojant naujesnę Adblock Plus versiją. Prieš atstatant iš šio failo, turėtumėte atnaujinti savo Adblock Plus iki naujausios versijos.">
+<!ENTITY restore.minVersion.warning "Įspėjimas: failas sukurtas naudojant naujesnę Adblock Cash versiją. Prieš atstatant iš šio failo, turėtumėte atnaujinti savo Adblock Cash iki naujausios versijos.">
 <!ENTITY restore.error "Neįmanoma panaudoti failo duomenų, gal tai ne Adblock PLus atsarginės kopijos failas?">
 <!ENTITY sort.ascending.label "Riki&amp;avimo tvarka „A &gt; Z“">
 <!ENTITY sort.label "&amp;Rikiuoti pagal">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Atšaukti">
 <!ENTITY subscription.enabled.label "Įjungta">
-<!ENTITY noSubscriptions.text "Kol kas jūs nepridėjote jokių filtrų prenumeratų. Be filtrų Adblock Plus nieko neblokuos,
-norėdami pridėti kelis naudokite 
+<!ENTITY noSubscriptions.text "Kol kas jūs nepridėjote jokių filtrų prenumeratų. Be filtrų Adblock Cash nieko neblokuos,
+norėdami pridėti kelis naudokite
 &quot;Pridėti filtrų prenumeratą&quot;.">
 <!ENTITY subscription.update.label "Atnaujinti filtrus">
-<!ENTITY dialog.title "Adblock Plus filtrų nustatymai">
+<!ENTITY dialog.title "Adblock Cash filtrų nustatymai">
 <!ENTITY addFilter.label "Pri&amp;dėti filtrą">
-<!ENTITY subscription.minVersion.warning "Ši filtrų prenumerata reikalauja naujesnės Adblock Plus versijos, turėtume atsinaujinti savo Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Ši filtrų prenumerata reikalauja naujesnės Adblock Cash versijos, turėtume atsinaujinti savo Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Nepavyko, netinkamas adresas">
 <!ENTITY backup.error "Įvyko klaida rašant filtrus į failą. Įsitikinkite jog tas failas neapsaugotas nuo rašymo ir jo nenaudoja kita programa.">
 <!ENTITY filter.moveUp.label "Pakelti aukštyn">

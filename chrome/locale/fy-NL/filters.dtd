@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Akties">
 <!ENTITY filter.selectAll.label "Selekt alles">
 <!ENTITY backupButton.label "&amp;Feilich sette en werom sette">
-<!ENTITY restore.minVersion.warning "Warskouwing: Dit bestand is makke my in nije fersy fan Adblock Plus. Update dyn eigen Adblock Plus foardast dit bestand brûkst.">
-<!ENTITY restore.error "De data in dit bestand koe net brûkt wurde. Miskien is it gjin Adblock Plus backup bestand?">
+<!ENTITY restore.minVersion.warning "Warskouwing: Dit bestand is makke my in nije fersy fan Adblock Cash. Update dyn eigen Adblock Cash foardast dit bestand brûkst.">
+<!ENTITY restore.error "De data in dit bestand koe net brûkt wurde. Miskien is it gjin Adblock Cash backup bestand?">
 <!ENTITY sort.ascending.label "A &gt; Z sortearoarder">
 <!ENTITY sort.label "Sortearje op">
 <!ENTITY subscription.source.label "Filterlist">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "n.f.t.">
 <!ENTITY addSubscriptionCancel.label "Annulearje">
 <!ENTITY subscription.enabled.label "Ynskeakele">
-<!ENTITY noSubscriptions.text "Jo hawwe gjin ien filter tafoege. Adblock Plus sil neat blokkearje
+<!ENTITY noSubscriptions.text "Jo hawwe gjin ien filter tafoege. Adblock Cash sil neat blokkearje
 	sûnder filters, brûk &quot;Filterabonnemint tafoegje&quot; om
 	ta te foegjen.">
 <!ENTITY subscription.update.label "Update filters">
-<!ENTITY dialog.title "Adblock Plus Filterfoarkarren">
+<!ENTITY dialog.title "Adblock Cash Filterfoarkarren">
 <!ENTITY addFilter.label "Tafoegje">
 <!ENTITY subscription.minVersion.warning "Dit filter abonnemint had in nijere fersy fan Adblok Plus nedich. Update dyn Adblock nar de nijste fersy.">
 <!ENTITY subscription.lastDownload.invalidURL "Mislearre, gjin jildich adres">

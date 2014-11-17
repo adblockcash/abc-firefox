@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "アクション">
 <!ENTITY filter.selectAll.label "すべて選択">
 <!ENTITY backupButton.label "バックアップと復元(&amp;B)">
-<!ENTITY restore.minVersion.warning "警告: このファイルはより新しいバージョンの Adblock Plus で作成されています。このファイルから復元する前に Adblock Plus を最新版に更新してください。">
-<!ENTITY restore.error "ファイルデータが処理できません。このファイルは Adblock Plus のバックアップでないのでは？">
+<!ENTITY restore.minVersion.warning "警告: このファイルはより新しいバージョンの Adblock Cash で作成されています。このファイルから復元する前に Adblock Cash を最新版に更新してください。">
+<!ENTITY restore.error "ファイルデータが処理できません。このファイルは Adblock Cash のバックアップでないのでは？">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z 順にソート">
 <!ENTITY sort.label "ソート(&amp;S)">
 <!ENTITY subscription.source.label "フィルタリスト">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "不明">
 <!ENTITY addSubscriptionCancel.label "キャンセル">
 <!ENTITY subscription.enabled.label "有効">
-<!ENTITY noSubscriptions.text "フィルタをまだ購読していません。Adblock Plus はフィルタなしで何もブロックできないので「購読するフィルタを追加」してください。">
+<!ENTITY noSubscriptions.text "フィルタをまだ購読していません。Adblock Cash はフィルタなしで何もブロックできないので「購読するフィルタを追加」してください。">
 <!ENTITY subscription.update.label "フィルタを更新">
-<!ENTITY dialog.title "Adblock Plus フィルタ設定">
+<!ENTITY dialog.title "Adblock Cash フィルタ設定">
 <!ENTITY addFilter.label "フィルタを追加(&amp;D)">
-<!ENTITY subscription.minVersion.warning "購読しているフィルタはより新しいバージョンの Adblock Plus を要求しているので、最新の Adblock Plus に更新してください。">
+<!ENTITY subscription.minVersion.warning "購読しているフィルタはより新しいバージョンの Adblock Cash を要求しているので、最新の Adblock Cash に更新してください。">
 <!ENTITY subscription.lastDownload.invalidURL "更新失敗: アドレス無効">
 <!ENTITY backup.error "ファイル出力エラー。ファイル書き込み禁止／他のアプリケーションで使用中 となっていないか確認してください。">
 <!ENTITY filter.moveUp.label "上に移動">

@@ -12,7 +12,7 @@
 <!ENTITY subscription.delete.label "நீக்கு">
 <!ENTITY subscription.moveUp.label "மேலே நகர்த்து">
 <!ENTITY addSubscription.label "சேர் &amp; சந்தா வடிகட்டு">
-<!ENTITY dialog.title "Adblock Plus வடிகட்டி விருப்பங்கள்">
+<!ENTITY dialog.title "Adblock Cash வடிகட்டி விருப்பங்கள்">
 <!ENTITY subscription.moveDown.label "கீழே நகர்த்து">
 <!ENTITY filters.tab.label "விருப்ப வடிகட்டிகள்">
 <!ENTITY subscription.lastDownload.label "இறுதி பதிவிறக்கம்:">

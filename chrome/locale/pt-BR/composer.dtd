@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Personalizado:">
 <!ENTITY unselectAllTypes.label "Desmarcar todos">
 <!ENTITY type.whitelist.label "E&amp;xceção">
-<!ENTITY regexp.warning "O padrão que você digitou será interpretado como uma expressão regular que pode não ser eficientemente processada pelo Adblock Plus e pode retardar sua experiência de navegação. Se você não pretende usar uma expressão regular, adicione um asterisco (*) até o fim do padrão.">
-<!ENTITY dialog.title "Adicionar regra de filtro do Adblock Plus">
+<!ENTITY regexp.warning "O padrão que você digitou será interpretado como uma expressão regular que pode não ser eficientemente processada pelo Adblock Cash e pode retardar sua experiência de navegação. Se você não pretende usar uma expressão regular, adicione um asterisco (*) até o fim do padrão.">
+<!ENTITY dialog.title "Adicionar regra de filtro do Adblock Cash">
 <!ENTITY basic.label "Visualização básica">
 <!ENTITY type.filter.label "&amp;Filtro de Bloqueio">
 <!ENTITY types.label "Aplicar a tipos:">
-<!ENTITY shortpattern.warning "O padrão digitado é curto demais para ser otimizado e poderá causar lentidão na sua experiência de navegação. É recomendável que você escolha uma &quot;string&quot;(sequência de caracteres) mais longa para esse filtro para permitir que o Adblock Plus processe o filtro mais eficientemente.">
+<!ENTITY shortpattern.warning "O padrão digitado é curto demais para ser otimizado e poderá causar lentidão na sua experiência de navegação. É recomendável que você escolha uma &quot;string&quot;(sequência de caracteres) mais longa para esse filtro para permitir que o Adblock Cash processe o filtro mais eficientemente.">
 <!ENTITY collapse.yes.label "Sim">
 <!ENTITY anchors.label "Aceitar somente padrão:">
 <!ENTITY collapse.default.yes.label "Usar padrão (sim)">
 <!ENTITY domainRestriction.help "Use esta opção para especificar um ou mais domínios separados pelo símbolo &quot;|&quot;. O filtro será aplicado somente nos domínios selecionados. O símbolo &quot;~&quot; antes de um domínio significa que o filtro não deve ser aplicado naquele domínio.">
 <!ENTITY accept.label "Adicionar filtro">
 <!ENTITY options.label "Opções">
-<!ENTITY disabled.warning "O Adblock Plus está desativado atualmente. Você pode adicionar filtros mesmo assim, mas eles não serão aplicados até que você [link]ative o Adblock Plus[/link].">
+<!ENTITY disabled.warning "O Adblock Cash está desativado atualmente. Você pode adicionar filtros mesmo assim, mas eles não serão aplicados até que você [link]ative o Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "no &amp;começo do nome do domínio">
 <!ENTITY collapse.no.label "Não">
 <!ENTITY selectAllTypes.label "Selecionar todos">

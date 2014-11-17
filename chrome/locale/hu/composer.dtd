@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Kijelölés törlése">
 <!ENTITY type.whitelist.label "&amp;Kivételszabály">
 <!ENTITY regexp.warning "A megadott minta reguláris kifejezésként fog szerepelni. Sok ilyen kifejezés lassíthatja a böngészést. Ha nem akar használni ilyen kifejezéseket, a minta végére írja a * jelet.">
-<!ENTITY dialog.title "Adblock Plus szűrőszabály hozzáadása">
+<!ENTITY dialog.title "Adblock Cash szűrőszabály hozzáadása">
 <!ENTITY basic.label "Alap nézet">
 <!ENTITY type.filter.label "Blokkoló &amp;szűrő">
 <!ENTITY types.label "Alkalmazás típusokra:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Adjon meg egy vagy több tartományt a &quot;|&quot; jellel elválasztva, a szűrő csak ezeken a tartományokon lesz alkalmazva. A &quot;~&quot; jellel a tartománynév elején letilthatja a szűrő használatát az adott tartományon.">
 <!ENTITY accept.label "Szűrő hozzáadása">
 <!ENTITY options.label "Beállítások">
-<!ENTITY disabled.warning "Az Adblock Plus jelenleg le van tiltva. Szűrőket hozzáadhat, de azok nem fognak működni, amíg nem [link]engedélyezi az Adblock Plust[/link].">
+<!ENTITY disabled.warning "Az Adblock Cash jelenleg le van tiltva. Szűrőket hozzáadhat, de azok nem fognak működni, amíg nem [link]engedélyezi az Adblock Casht[/link].">
 <!ENTITY anchor.start.flexible.label "a tartománynév &amp;elején">
 <!ENTITY collapse.no.label "Nem">
 <!ENTITY selectAllTypes.label "Minden kijelölése">

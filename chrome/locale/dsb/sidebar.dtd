@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Wótpowjesyś">
 <!ENTITY whitelisted.label "Bok w běłej lisćinje">
 <!ENTITY context.disablefilteronsite.label "Toś ten filter na ?1? znjemóžniś">
-<!ENTITY detached.title "Adblock Plus: Blokěrujobne zapiski (wótpowjesone)">
+<!ENTITY detached.title "Adblock Cash: Blokěrujobne zapiski (wótpowjesone)">
 <!ENTITY docDomain.firstParty "(prědny part)">
 <!ENTITY tooltip.type.whitelisted "(w běłej lisćinje)">
 <!ENTITY tooltip.filter.label "Aktiwny filter:">

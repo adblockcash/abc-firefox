@@ -1,11 +1,11 @@
 <!ENTITY notification.button.yes "&amp;Da">
 <!ENTITY notification.button.no "&amp;Ne">
-<!ENTITY sync.label "Sin&amp;hroniziraj nastavitve Adblock Plus">
+<!ENTITY sync.label "Sin&amp;hroniziraj nastavitve Adblock Cash">
 <!ENTITY whitelist.site.label "Onemogoči na ?1?">
 <!ENTITY filters.label "Nastavitve &amp;filtra">
 <!ENTITY disable.label "Onemogoči povsod">
 <!ENTITY objecttab.title "Blokiraj">
-<!ENTITY objecttab.tooltip "Kliknite sem za blokiranje tega predmeta z Adblock Plus">
+<!ENTITY objecttab.tooltip "Kliknite sem za blokiranje tega predmeta z Adblock Cash">
 <!ENTITY menuitem.label "Ad&amp;block Plus">
 <!ENTITY objecttabs.label "Pokaži &amp;zavihke za Flash in Javo">
 <!ENTITY sendReport.label "&amp;Javite težavo na tej strani">
@@ -14,8 +14,8 @@
 <!ENTITY counthits.label "Štej za&amp;detke filtra">
 <!ENTITY opensidebar.label "Odpri &amp;elemente blokad">
 <!ENTITY notification.button.close "&amp;Zapri">
-<!ENTITY contribute.label "Sodelujte v Adblock Plus">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY contribute.label "Sodelujte v Adblock Cash">
+<!ENTITY toolbarbutton.label "Adblock Cash">
 <!ENTITY context.frame.label "Adblock - okviri">
 <!ENTITY blocked.tooltip "Blokirani elementi na tej strani:">
 <!ENTITY hideplaceholders.label "Skrij ograde &amp;blokiranih elementov">
@@ -23,9 +23,9 @@
 <!ENTITY sidebar.title "Elementi blokad na trenutni strani">
 <!ENTITY options.label "Mo&amp;žnosti">
 <!ENTITY context.object.label "Adblock - predmeti">
-<!ENTITY context.removeWhitelist.label "Adblock Plus - ponovno omogoči na tej strani">
+<!ENTITY context.removeWhitelist.label "Adblock Cash - ponovno omogoči na tej strani">
 <!ENTITY filters.tooltip "Najbolj aktivni filtri:">
 <!ENTITY closesidebar.label "Zapri &amp;elemente blokad">
 <!ENTITY showintoolbar.label "Po&amp;kaži v orodni vrstici">
 <!ENTITY status.tooltip "Stanje:">
-<!ENTITY context.media.label "Adblock Plus: Blokiraj zvok/video">
+<!ENTITY context.media.label "Adblock Cash: Blokiraj zvok/video">

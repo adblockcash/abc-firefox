@@ -29,9 +29,9 @@
 <!ENTITY subscription.lastDownload.unknown "(تعریف نشده)">
 <!ENTITY addSubscriptionCancel.label "لغو">
 <!ENTITY subscription.enabled.label "فعال شده">
-<!ENTITY noSubscriptions.text "شما هنوز هیچ اشتراک فیلتری را اضافه نکردید. Adblock Plus هیچ چیزی را بدون فیلترها مسدود نمی کند, لطفا با استفاده از &quot;افزودن اشتراک فیلتر&quot; چند فیلتر اضافه کنید.">
+<!ENTITY noSubscriptions.text "شما هنوز هیچ اشتراک فیلتری را اضافه نکردید. Adblock Cash هیچ چیزی را بدون فیلترها مسدود نمی کند, لطفا با استفاده از &quot;افزودن اشتراک فیلتر&quot; چند فیلتر اضافه کنید.">
 <!ENTITY subscription.update.label "به روز رسانی فیلتر">
-<!ENTITY dialog.title "تنظیمات فیلتر Adblock Plus">
+<!ENTITY dialog.title "تنظیمات فیلتر Adblock Cash">
 <!ENTITY addFilter.label "افزودن فیلتر (&amp;d)">
 <!ENTITY subscription.minVersion.warning "این فیلتر اشتراک نیاز به نسخه جدید برنامه دارد، شما باید برنامه را به آخرین نگارش به روز کنید.">
 <!ENTITY subscription.lastDownload.invalidURL "ناموفق، نشانی معتبر نیست">

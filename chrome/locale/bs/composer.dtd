@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "Prila&amp;gođeno:">
 <!ENTITY unselectAllTypes.label "Označi ništa">
 <!ENTITY type.whitelist.label "Prav&amp;ilo iznimke">
-<!ENTITY regexp.warning "Obrazac u koji ste ušli će se tumačiti kao regularni izraz koji ne može Adblock Plus efikasno obraditi Adblock Plus i može usporiti vaše iskustvo pregledavanja. Ako ne namjeravate koristiti regularni izraz, dodajte zvjezdicu (*) na kraju obrasca.">
-<!ENTITY dialog.title "Dodaj Adblock Plus filter">
+<!ENTITY regexp.warning "Obrazac u koji ste ušli će se tumačiti kao regularni izraz koji ne može Adblock Cash efikasno obraditi Adblock Cash i može usporiti vaše iskustvo pregledavanja. Ako ne namjeravate koristiti regularni izraz, dodajte zvjezdicu (*) na kraju obrasca.">
+<!ENTITY dialog.title "Dodaj Adblock Cash filter">
 <!ENTITY basic.label "Početni prikaz">
 <!ENTITY type.filter.label "&amp;Blokirajući filter">
 <!ENTITY types.label "Primjeniti na vrste:">
-<!ENTITY shortpattern.warning "Obrazac koji ste unijeli je prekratak da bi se optimizirao i može usporiti vaše iskustvo pregledavanja. Preporučuje se da odaberete duži niz za ovaj filter kako bi se omogućilo Adblock Plus za efikasnije procesuiranje filtera.">
+<!ENTITY shortpattern.warning "Obrazac koji ste unijeli je prekratak da bi se optimizirao i može usporiti vaše iskustvo pregledavanja. Preporučuje se da odaberete duži niz za ovaj filter kako bi se omogućilo Adblock Cash za efikasnije procesuiranje filtera.">
 <!ENTITY collapse.yes.label "Da">
 <!ENTITY anchors.label "Prihvati samo obrazac:">
 <!ENTITY collapse.default.yes.label "Koristi zadano(Da)">
 <!ENTITY domainRestriction.help "Koristi ovu opciju za specifikovanje jedne ili više domena odvojenih uspravnom linijom(|). Filter će biti primijenjen na odabranu(/-e) domenu(/-e).Tilda prije imena domene naznačuje da taj filter neće biti primijenjen na tu domenu.">
 <!ENTITY accept.label "Dodaj filter">
 <!ENTITY options.label "Opcije">
-<!ENTITY disabled.warning "Adblock Plus je isključen. Još uvijek možete dodati filtere, ali oni se neće primjenjivati dok ne [link]uključite Adblock Plus[/linkg].">
+<!ENTITY disabled.warning "Adblock Cash je isključen. Još uvijek možete dodati filtere, ali oni se neće primjenjivati dok ne [link]uključite Adblock Cash[/linkg].">
 <!ENTITY anchor.start.flexible.label "na &amp;početku naziva domene">
 <!ENTITY collapse.no.label "Ne">
 <!ENTITY selectAllTypes.label "Označi sve">

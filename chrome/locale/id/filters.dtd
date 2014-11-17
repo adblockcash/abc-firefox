@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Tindakan">
 <!ENTITY filter.selectAll.label "Pilih Semua">
 <!ENTITY backupButton.label "&amp;Cadangkan dan Pulihkan">
-<!ENTITY restore.minVersion.warning "Peringatan: berkas ini dibuat dengan Adblock Plus versi baru. Anda harus memutakhirkan Adblock Plus ke versi terbaru sebelum memulihkan dari berkas ini.">
-<!ENTITY restore.error "Data berkas tidak dapat diproses, mungkin ini bukan berkas cadangan Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Peringatan: berkas ini dibuat dengan Adblock Cash versi baru. Anda harus memutakhirkan Adblock Cash ke versi terbaru sebelum memulihkan dari berkas ini.">
+<!ENTITY restore.error "Data berkas tidak dapat diproses, mungkin ini bukan berkas cadangan Adblock Cash?">
 <!ENTITY sort.ascending.label "Urutan &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Urutkan menurut">
 <!ENTITY subscription.source.label "Daftar penyaring">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "(Tidak diketahui)">
 <!ENTITY addSubscriptionCancel.label "Batal">
 <!ENTITY subscription.enabled.label "Diaktifkan">
-<!ENTITY noSubscriptions.text "Anda belum menambahkan penyaring langganan apapun. Adblock Plus
+<!ENTITY noSubscriptions.text "Anda belum menambahkan penyaring langganan apapun. Adblock Cash
  tidak akan mencekal apa-apa tanpa adanya penyaring, silakan gunakan
  &quot;Tambah penyaring langganan&quot; untuk menambahkan beberapa penyaring.">
 <!ENTITY subscription.update.label "Mutakhirkan penyaring">
-<!ENTITY dialog.title "Preferensi Penyaring Adblock Plus">
+<!ENTITY dialog.title "Preferensi Penyaring Adblock Cash">
 <!ENTITY addFilter.label "Tambah &amp;penyaring">
-<!ENTITY subscription.minVersion.warning "Penyaring langganan ini memerlukan versi Adblock Plus yang lebih baru, Anda harus memutakhirkan Adblock Plus ke versi terbaru.">
+<!ENTITY subscription.minVersion.warning "Penyaring langganan ini memerlukan versi Adblock Cash yang lebih baru, Anda harus memutakhirkan Adblock Cash ke versi terbaru.">
 <!ENTITY subscription.lastDownload.invalidURL "Gagal, alamat tidak sah">
 <!ENTITY backup.error "Terjadi galat penulisan penyaring ke berkas. Pastikan berkas tersebut tidak baca-saja dan tidak sedang digunakan aplikasi lain.">
 <!ENTITY filter.moveUp.label "Naikkan">

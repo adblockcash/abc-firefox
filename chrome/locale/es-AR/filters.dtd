@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Acciones">
 <!ENTITY filter.selectAll.label "Seleccionar todo">
 <!ENTITY backupButton.label "Resg&amp;uardar y restaurar">
-<!ENTITY restore.minVersion.warning "ADVERTENCIA: este archivo fue creado por una versión más reciente de Adblock Plus. Deberías actualizarte a la última versión de Adblock Plus antes de restaurar este archivo.">
-<!ENTITY restore.error "No se pudo procesar los datos del archivo. ¿Este es un archivo de resguardo de Adblock Plus?">
+<!ENTITY restore.minVersion.warning "ADVERTENCIA: este archivo fue creado por una versión más reciente de Adblock Cash. Deberías actualizarte a la última versión de Adblock Cash antes de restaurar este archivo.">
+<!ENTITY restore.error "No se pudo procesar los datos del archivo. ¿Este es un archivo de resguardo de Adblock Cash?">
 <!ENTITY sort.ascending.label "Ordenar de la &quot;&amp;A&quot; a la &quot;Z&quot;">
 <!ENTITY sort.label "&amp;Ordenar por">
 <!ENTITY subscription.source.label "Lista de filtros">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "No disponible">
 <!ENTITY addSubscriptionCancel.label "Cancelar">
 <!ENTITY subscription.enabled.label "Habilitado">
-<!ENTITY noSubscriptions.text "Todavía no agregaste ninguna suscripción de filtro. Adblock Plus no bloqueará nada sin filtros. Por favor, andá a &quot;Agregar suscripción de filtro&quot; para agregar alguno.">
+<!ENTITY noSubscriptions.text "Todavía no agregaste ninguna suscripción de filtro. Adblock Cash no bloqueará nada sin filtros. Por favor, andá a &quot;Agregar suscripción de filtro&quot; para agregar alguno.">
 <!ENTITY subscription.update.label "Actualizar filtros">
-<!ENTITY dialog.title "Preferencia de filtro de Adblock Plus">
+<!ENTITY dialog.title "Preferencia de filtro de Adblock Cash">
 <!ENTITY addFilter.label "&amp;Agregar filtro">
-<!ENTITY subscription.minVersion.warning "Esta suscripción de filtro necesita de una versión más reciente de Adblock Plus. Deberías actualizar a la última versión de Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Esta suscripción de filtro necesita de una versión más reciente de Adblock Cash. Deberías actualizar a la última versión de Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Falló, no es una dirección válida">
 <!ENTITY backup.error "Hubo un error al escribir filtros al archivo. Asegurate de que el archivo no esté protegido contra escritura o siendo usado por otro programa.">
 <!ENTITY filter.moveUp.label "Subir">

@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Действия">
 <!ENTITY filter.selectAll.label "Избери всичко">
 <!ENTITY backupButton.label "&amp;Резервирай и възстанови">
-<!ENTITY restore.minVersion.warning "Предупреждение: файлът е създаден с по-нова версия на Adblock Plus. Обновете версията на Adblock Plus до най-новата преди да възстановите файла.">
-<!ENTITY restore.error "Данните от файла е невъзможно да бъдат обработени и вероятно това не е файл с резервно копие на Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Предупреждение: файлът е създаден с по-нова версия на Adblock Cash. Обновете версията на Adblock Cash до най-новата преди да възстановите файла.">
+<!ENTITY restore.error "Данните от файла е невъзможно да бъдат обработени и вероятно това не е файл с резервно копие на Adblock Cash?">
 <!ENTITY sort.ascending.label "Низходящо &amp;А &gt; Я">
 <!ENTITY sort.label "&amp;Подреди по">
 <!ENTITY subscription.source.label "Списък с филтри">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Н/Д">
 <!ENTITY addSubscriptionCancel.label "Отказ">
 <!ENTITY subscription.enabled.label "Разрешен">
-<!ENTITY noSubscriptions.text "Все още няма абонамент за филтри. Adblock Plus няма да блокира нищо без филтри, моля, ползвайте „Добави абонамент“ и добавете няколко.">
+<!ENTITY noSubscriptions.text "Все още няма абонамент за филтри. Adblock Cash няма да блокира нищо без филтри, моля, ползвайте „Добави абонамент“ и добавете няколко.">
 <!ENTITY subscription.update.label "Обнови филтрите">
-<!ENTITY dialog.title "Настройки на филтрите в Adblock Plus">
+<!ENTITY dialog.title "Настройки на филтрите в Adblock Cash">
 <!ENTITY addFilter.label "До&amp;бави филтър">
-<!ENTITY subscription.minVersion.warning "Абонаментът за този филтър изисква по-нова версия на Adblock Plus, затова обновете Adblock Plus до последната версия.">
+<!ENTITY subscription.minVersion.warning "Абонаментът за този филтър изисква по-нова версия на Adblock Cash, затова обновете Adblock Cash до последната версия.">
 <!ENTITY subscription.lastDownload.invalidURL "Провален — недействителен адрес">
 <!ENTITY backup.error "Възникна грешка при записване на филтрите във файл. Уверете се, че файлът не е защитен срещу запис, или че не се ползва от друго приложение.">
 <!ENTITY filter.moveUp.label "Премести нагоре">

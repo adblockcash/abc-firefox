@@ -1,5 +1,5 @@
 <!ENTITY addMain.label "L&amp;ägg även till filterprenumerationen &quot;?1?&quot;">
-<!ENTITY list.download.failed "Adblock Plus kunde inte hämta listan med filterprenumerationer.">
+<!ENTITY list.download.failed "Adblock Cash kunde inte hämta listan med filterprenumerationer.">
 <!ENTITY list.download.retry "Försök igen">
 <!ENTITY title.label "&amp;Rubrik för prenumeration:">
 <!ENTITY list.download.website "Visa webbsidan">
@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Visa filter">
 <!ENTITY visitHomepage.label "Besök webbsidan">
 <!ENTITY addSubscription.label "Lägg till filterprenumeration">
-<!ENTITY dialog.title "Lägg till filterprenumeration för Adblock Plus">
+<!ENTITY dialog.title "Lägg till filterprenumeration för Adblock Cash">
 <!ENTITY location.label "Plats &amp;för filter:">
 <!ENTITY fromWeb.description "Var vänlig bekräfta att du vill lägga till denna filterprenumeration. Du kan ändra rubrik eller plats innan du lägger till den.">

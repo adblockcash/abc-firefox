@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Αποκόλληση">
 <!ENTITY whitelisted.label "Η σελίδα ανήκει στην άσπρη λίστα">
 <!ENTITY context.disablefilteronsite.label "Απενεργοποίηση του φίλτρου στο ?1?">
-<!ENTITY detached.title "Adblock Plus: Στοιχεία προς φραγή">
+<!ENTITY detached.title "Adblock Cash: Στοιχεία προς φραγή">
 <!ENTITY docDomain.firstParty "(πρωτεύον)">
 <!ENTITY tooltip.type.whitelisted "(στην άσπρη λίστα)">
 <!ENTITY tooltip.filter.label "Φίλτρο εν δράση:">

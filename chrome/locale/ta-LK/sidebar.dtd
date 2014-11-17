@@ -20,7 +20,7 @@
 <!ENTITY detach.label "நீக்கு">
 <!ENTITY whitelisted.label "Whitelisted பக்கம்">
 <!ENTITY context.disablefilteronsite.label "? 1?இல் வடிகட்டியை முடக்க">
-<!ENTITY detached.title "Adblock Plus: தடுக்கப்படகூடிய பொருள் (பிரிக்கப்பட்டது)">
+<!ENTITY detached.title "Adblock Cash: தடுக்கப்படகூடிய பொருள் (பிரிக்கப்பட்டது)">
 <!ENTITY docDomain.firstParty "(முதல் நபர்)">
 <!ENTITY tooltip.type.whitelisted "(அனுமதிக்க பட்டது)">
 <!ENTITY tooltip.filter.label "செயலில் வடிகட்டு:">

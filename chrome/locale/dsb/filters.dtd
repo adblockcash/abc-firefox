@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Akcije">
 <!ENTITY filter.selectAll.label "Wšykno wubraś">
 <!ENTITY backupButton.label "&amp;Zawěsćiś a wótnowiś">
-<!ENTITY restore.minVersion.warning "Warnowanje: Dataja jo se pśez nowšu wersiju Adblock Plus napórała. Wy by měł na nejnowšu wersiju Adblock Plus aktualizěrowaś, nježli až wótnowijośo toś tu dataju.">
-<!ENTITY restore.error "Daty dataje njedaju se pśeźěłaś, jo móžno, až wóna njejo zawěsćeńska dataja Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Warnowanje: Dataja jo se pśez nowšu wersiju Adblock Cash napórała. Wy by měł na nejnowšu wersiju Adblock Cash aktualizěrowaś, nježli až wótnowijośo toś tu dataju.">
+<!ENTITY restore.error "Daty dataje njedaju se pśeźěłaś, jo móžno, až wóna njejo zawěsćeńska dataja Adblock Cash?">
 <!ENTITY sort.ascending.label "Sortěrow&amp;ański pórěd A &gt; Z">
 <!ENTITY sort.label "&amp;Sortěrowaś pó">
 <!ENTITY subscription.source.label "Filtrowa lisćina">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Njejo nic k dispoziciji">
 <!ENTITY addSubscriptionCancel.label "Pśetergnuś">
 <!ENTITY subscription.enabled.label "Zmóžnjony">
-<!ENTITY noSubscriptions.text "Njejsćo hyšći žedne filtrowe abonementy pśidał. Adblock Plus njebuźo bjez filtrow nic blokěrowaś, pšosym wužyjśo &quot;Filtrowy abonement pśidaś&quot;, aby filter přidał.">
+<!ENTITY noSubscriptions.text "Njejsćo hyšći žedne filtrowe abonementy pśidał. Adblock Cash njebuźo bjez filtrow nic blokěrowaś, pšosym wužyjśo &quot;Filtrowy abonement pśidaś&quot;, aby filter přidał.">
 <!ENTITY subscription.update.label "Filtry akutalizěrowaś">
-<!ENTITY dialog.title "Adblock Plus - filtrowe nastajenja">
+<!ENTITY dialog.title "Adblock Cash - filtrowe nastajenja">
 <!ENTITY addFilter.label "Filter pśi&amp;daś">
-<!ENTITY subscription.minVersion.warning "Toś ten filtrowy abonement pomina se nowšu wersiju Adblock Plus, wy by měł na nejnowšu wersiju Adblock Plus aktualizěrowaś.">
+<!ENTITY subscription.minVersion.warning "Toś ten filtrowy abonement pomina se nowšu wersiju Adblock Cash, wy by měł na nejnowšu wersiju Adblock Cash aktualizěrowaś.">
 <!ENTITY subscription.lastDownload.invalidURL "Njeraźiło, žedna płaśiwa adresa">
 <!ENTITY backup.error "Pśi pisanju filtrow do dataje jo zmólka namakała. Zawěsććo, až dataja njejo pśeśiwo pisanjeju šćitana abo njewužywa se pśez drugi program.">
 <!ENTITY filter.moveUp.label "Górjej">

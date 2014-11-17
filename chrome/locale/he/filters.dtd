@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "פעולות">
 <!ENTITY filter.selectAll.label "בחירת הכל">
 <!ENTITY backupButton.label "&amp;גיבוי ושחזור">
-<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Adblock Plus. כדי לשדרג לגרסה האחרונה של Adblock Plus לפני שחזור מקובץ זה.">
-<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Adblock Plus?">
+<!ENTITY restore.minVersion.warning "אזהרה: הקובץ נוצר על-ידי גרסה חדשה יותר של Adblock Cash. כדי לשדרג לגרסה האחרונה של Adblock Cash לפני שחזור מקובץ זה.">
+<!ENTITY restore.error "לא ניתן לעבד המידע בקובץ. אולי זה לא קובץ גיבוי של Adblock Cash?">
 <!ENTITY sort.ascending.label "&amp;מיון מ- א &gt; עד ת">
 <!ENTITY sort.label "&amp;מיון לפי">
 <!ENTITY subscription.source.label "רשימת מסננים">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "לא זמין">
 <!ENTITY addSubscriptionCancel.label "ביטול">
 <!ENTITY subscription.enabled.label "מאפשר">
-<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Adblock Plus לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
+<!ENTITY noSubscriptions.text "עדיין לא הוספת הרשמות למסננים. Adblock Cash לא יחסום דבר ללא מסננים, אנא השתמשו ב-&quot;הוספת הרשמה למסננים&quot; להוספת מסננים.">
 <!ENTITY subscription.update.label "עדכון מסננים">
-<!ENTITY dialog.title "העדפות סינון Adblock Plus">
+<!ENTITY dialog.title "העדפות סינון Adblock Cash">
 <!ENTITY addFilter.label "&amp;הוספת מסנן">
-<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Adblock Plus, צריך לשדרג לגרסה האחרונה של Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "הרשמת מסננים זאת דורשת גרסה חדשה יותר של Adblock Cash, צריך לשדרג לגרסה האחרונה של Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "נכשל, הכתובת שגויה">
 <!ENTITY backup.error "אירעה שגיאה ברשימת המסננים לקובץ. יש לוודא כי הקובץ לא מוגן לכתיבה או בשימוש על-ידי יישום אחר.">
 <!ENTITY filter.moveUp.label "הזזה מעלה">

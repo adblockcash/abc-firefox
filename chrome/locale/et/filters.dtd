@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Tegevused">
 <!ENTITY filter.selectAll.label "Vali kõik">
 <!ENTITY backupButton.label "&amp;Varundamine ja taastamine">
-<!ENTITY restore.minVersion.warning "Hoiatus: see fail on loodud uuema Adblock Plus versiooniga. Enne selle taastamist peaksid sa Adblock Plus'i uuendama viimasele versioonile.">
-<!ENTITY restore.error "Faili andmeid ei õnnestu töödelda. Kas see on ikka Adblock Plus varundusfail?">
+<!ENTITY restore.minVersion.warning "Hoiatus: see fail on loodud uuema Adblock Cash versiooniga. Enne selle taastamist peaksid sa Adblock Cash'i uuendama viimasele versioonile.">
+<!ENTITY restore.error "Faili andmeid ei õnnestu töödelda. Kas see on ikka Adblock Cash varundusfail?">
 <!ENTITY sort.ascending.label "A &gt; Z sortimiskord">
 <!ENTITY sort.label "Sortimine">
 <!ENTITY subscription.source.label "Filtrite loetelu">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Pole teada">
 <!ENTITY addSubscriptionCancel.label "Loobu">
 <!ENTITY subscription.enabled.label "Lubatud">
-<!ENTITY noSubscriptions.text "Sa ei ole veel lisanud ühtegi filtrite tellimust. Adblock Plus ei blokeeri midagi ilma filtriteta. Filtrite tellimiseks klõpsa nupul &quot;Lisa filtrite tellimus&quot;.">
+<!ENTITY noSubscriptions.text "Sa ei ole veel lisanud ühtegi filtrite tellimust. Adblock Cash ei blokeeri midagi ilma filtriteta. Filtrite tellimiseks klõpsa nupul &quot;Lisa filtrite tellimus&quot;.">
 <!ENTITY subscription.update.label "Uuenda filtreid">
-<!ENTITY dialog.title "Adblock Plus filtrite sätted">
+<!ENTITY dialog.title "Adblock Cash filtrite sätted">
 <!ENTITY addFilter.label "&amp;Lisa filter">
-<!ENTITY subscription.minVersion.warning "See filtrite tellimus nõuab uuemat Adblock Plus versiooni. Sa peaksid uuendama Adblock Plus'i.">
+<!ENTITY subscription.minVersion.warning "See filtrite tellimus nõuab uuemat Adblock Cash versiooni. Sa peaksid uuendama Adblock Cash'i.">
 <!ENTITY subscription.lastDownload.invalidURL "Nurjus, vale aadress">
 <!ENTITY backup.error "Viga filtrite faili kirjutamisel. Kontrolli, et fail ei oleks avatud mingi teise rakenduse poolt ja et fail ei oleks kirjutuskaitstud.">
 <!ENTITY filter.moveUp.label "Liiguta üles">

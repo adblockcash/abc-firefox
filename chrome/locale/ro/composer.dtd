@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Nici unul">
 <!ENTITY type.whitelist.label "Regulă e&amp;xcepţii">
 <!ENTITY regexp.warning "Modelul introdus va fi interpretată ca o expresie regulată, ceea ce poate cauza încetinirea navigării. Dacă nu doriţi să folosiţi expresii regulate, introduceţi * la sfârşitul modelului.">
-<!ENTITY dialog.title "Adăugare regulă de filtrare Adblock Plus">
+<!ENTITY dialog.title "Adăugare regulă de filtrare Adblock Cash">
 <!ENTITY basic.label "Vizualizare simplă">
 <!ENTITY type.filter.label "Filtru de &amp;blocare">
 <!ENTITY types.label "Valabil pentru:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Specificaţi unul sau mai multe domenii internet, separate de către simbolul |, pentru care filtrul este valid. Simbolul ~ înaintea numelui domeniului va face ca regula să NU se aplice pe domeniul specificat.">
 <!ENTITY accept.label "Adaugă filtru">
 <!ENTITY options.label "Opţiuni">
-<!ENTITY disabled.warning "Adblock Plus este inactiv. Puteţi să adăugaţi filtre, însă ele vor fi utilizate doar după ce [link]activaţi Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash este inactiv. Puteţi să adăugaţi filtre, însă ele vor fi utilizate doar după ce [link]activaţi Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "la î&amp;nceputul numelui de domeniu">
 <!ENTITY collapse.no.label "Nu">
 <!ENTITY selectAllTypes.label "Toate tipurile">

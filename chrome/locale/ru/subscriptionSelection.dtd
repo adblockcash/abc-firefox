@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Просмотреть фильтры">
 <!ENTITY visitHomepage.label "Посетить домашнюю страницу">
 <!ENTITY addSubscription.label "Добавить подписку">
-<!ENTITY dialog.title "Добавить подписку для Adblock Plus">
+<!ENTITY dialog.title "Добавить подписку для Adblock Cash">
 <!ENTITY location.label "&amp;Адрес списка фильтров:">
 <!ENTITY fromWeb.description "Пожалуйста, подтвердите, что вы действительно хотите добавить подписку на этот список фильтров. Вы можете изменить название и адрес подписки перед добавлением.">

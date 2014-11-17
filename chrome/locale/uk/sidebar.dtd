@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Від’єднати">
 <!ENTITY whitelisted.label "Дозволений на цій сторінці">
 <!ENTITY context.disablefilteronsite.label "Вимкнути цей фільтр на ?1?">
-<!ENTITY detached.title "Adblock Plus: елементи відкритої сторінки (від’єднані)">
+<!ENTITY detached.title "Adblock Cash: елементи відкритої сторінки (від’єднані)">
 <!ENTITY docDomain.firstParty "(запит з того ж сайта)">
 <!ENTITY tooltip.type.whitelisted "(дозволений)">
 <!ENTITY tooltip.filter.label "Застосований фільтр:">

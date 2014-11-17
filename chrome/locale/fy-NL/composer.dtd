@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Selektearje neat">
 <!ENTITY type.whitelist.label "&amp;Utsûnderingsrigel">
 <!ENTITY regexp.warning "It patroan dy't jo opjûn hawwe sil ynterpretearre wurde as reguliere ekspresje. In protte reguliere ekspresjes kinne it sneupjen fertrage. As jo net fan plan wienen om reguliere ekspresje te brûken, foegje in symboal * ta oan it ein fan it patroan.">
-<!ENTITY dialog.title "Foegje Adblock Plus filterrigel ta">
+<!ENTITY dialog.title "Foegje Adblock Cash filterrigel ta">
 <!ENTITY basic.label "Basisbyld">
 <!ENTITY type.filter.label "Blokkearfilter">
 <!ENTITY types.label "Tapasse op types:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Spesifisearje ien of mear domeinen skieden troch it symboal &quot;|&quot;, it filter sil allinnich op dizze domeinen tapast wurden. It symboal &quot;~&quot; foar in domeinnamme betsjut dat it filter net tapast wurde moat op dat domein.">
 <!ENTITY accept.label "Filter tafoegje">
 <!ENTITY options.label "Opsjes">
-<!ENTITY disabled.warning "Adblock Plus is op dit stuit útskeakele. Jo kinne noch hieltyd filters tafoegje, mar dy sille net earder aktyf wêze as jo [link]Adblock Plus ynskeakelje[/link].">
+<!ENTITY disabled.warning "Adblock Cash is op dit stuit útskeakele. Jo kinne noch hieltyd filters tafoegje, mar dy sille net earder aktyf wêze as jo [link]Adblock Cash ynskeakelje[/link].">
 <!ENTITY anchor.start.flexible.label "oan it begjin fan de domeinnamme">
 <!ENTITY collapse.no.label "Nee">
 <!ENTITY selectAllTypes.label "Selektearje alles">

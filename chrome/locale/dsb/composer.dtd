@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Swójski:">
 <!ENTITY unselectAllTypes.label "Žeden wubraś">
 <!ENTITY type.whitelist.label "&amp;Wuwześowe pšawidło">
-<!ENTITY regexp.warning "Muster, kótaryž sćo zapódał, buźo se ako regularny wuraz interpretěrowaś, kótaryž njedajo se pśez Adblock Plus statkownje pśeźěłaś a mógł waš wobglědowak spomałšyś. Jolic njocośo regularny wuraz wužywaś, pśidajśo gwězdku (*) ke kóńcoju mustra.">
-<!ENTITY dialog.title "Filtrowe pšawidło Adblock Plus pśidaś">
+<!ENTITY regexp.warning "Muster, kótaryž sćo zapódał, buźo se ako regularny wuraz interpretěrowaś, kótaryž njedajo se pśez Adblock Cash statkownje pśeźěłaś a mógł waš wobglědowak spomałšyś. Jolic njocośo regularny wuraz wužywaś, pśidajśo gwězdku (*) ke kóńcoju mustra.">
+<!ENTITY dialog.title "Filtrowe pšawidło Adblock Cash pśidaś">
 <!ENTITY basic.label "Zakładny naglěd">
 <!ENTITY type.filter.label "&amp;Blokěrujucy filter">
 <!ENTITY types.label "Na typy nałožyś:">
-<!ENTITY shortpattern.warning "Muster, kótaryž sćo zapódał, jo za optiměrowanje pśekrotko a mógł waš wobglědowak spomałšyś. Pśiraźujo se, až wubjerjośo dlěšy znamuškowy rjeśazk za toś ten filter, aby wy Adblock Plus dowólił, filter statkownjej pśeźěłał.">
+<!ENTITY shortpattern.warning "Muster, kótaryž sćo zapódał, jo za optiměrowanje pśekrotko a mógł waš wobglědowak spomałšyś. Pśiraźujo se, až wubjerjośo dlěšy znamuškowy rjeśazk za toś ten filter, aby wy Adblock Cash dowólił, filter statkownjej pśeźěłał.">
 <!ENTITY collapse.yes.label "Jo">
 <!ENTITY anchors.label "Jano muster akceptěrowaś:">
 <!ENTITY collapse.default.yes.label "Standard wužywaś (jo)">
 <!ENTITY domainRestriction.help "Wužyjśo toś tu opciju, aby wy pódał jadnu domenu abo někotare domeny, kótarež wótdźěluju se pśez wertikalnu ceru (|). Filter buźo se jano na wubrane domeny nałožowaś. Tilda (~) pśed domenowym mjenim pódawa, až filter njebuźo se na tu domenu nałožowaś.">
 <!ENTITY accept.label "Filter pśidaś">
 <!ENTITY options.label "Opcije">
-<!ENTITY disabled.warning "Adblock Plus jo tuchylu znjemóžnjony. Móžośo hyšći filtry pśidaś, ale njebudu se nałožowaś, snaźkuli [link]zmóžnijośo Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash jo tuchylu znjemóžnjony. Móžośo hyšći filtry pśidaś, ale njebudu se nałožowaś, snaźkuli [link]zmóžnijośo Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "na zac&amp;hopjeńku mjenja domeny">
 <!ENTITY collapse.no.label "Ně">
 <!ENTITY selectAllTypes.label "Wšykne wubraś">

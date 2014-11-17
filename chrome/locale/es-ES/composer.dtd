@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "No seleccionar ninguno">
 <!ENTITY type.whitelist.label "Regla de e&amp;xcepción">
 <!ENTITY regexp.warning "El patrón que ha introducido se interpretará como expresión regular. Si usa muchas expresiones regulares su navegación podría volverse más lenta. Si no quería usar una expresión regular, añada un carácter &quot;*&quot; al final del patrón.">
-<!ENTITY dialog.title "Añadir regla de filtrado de Adblock Plus">
+<!ENTITY dialog.title "Añadir regla de filtrado de Adblock Cash">
 <!ENTITY basic.label "Vista básica">
 <!ENTITY type.filter.label "Filtro de &amp;bloqueo">
 <!ENTITY types.label "Aplicar a estos tipos:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Si especifica uno o varios dominios separados por el símbolo &quot;|&quot;, el filtro sólo se aplicará a dichos dominios. El símbolo &quot;~&quot; antes del nombre de un dominio indica que el filtro no se aplicará en ese dominio.">
 <!ENTITY accept.label "Añadir filtro">
 <!ENTITY options.label "Opciones">
-<!ENTITY disabled.warning "Adblock Plus está desactivado. Puede añadir filtros, pero no se aplicarán a menos que [link]active Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash está desactivado. Puede añadir filtros, pero no se aplicarán a menos que [link]active Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "al &amp;inicio del nombre de dominio">
 <!ENTITY collapse.no.label "No">
 <!ENTITY selectAllTypes.label "Seleccionar todos">

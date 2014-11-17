@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Näytä suodattimet">
 <!ENTITY visitHomepage.label "Vieraile kotisivulla">
 <!ENTITY addSubscription.label "Lisää suodatintilaus">
-<!ENTITY dialog.title "Lisää Adblock Plus -suodatintilaus">
+<!ENTITY dialog.title "Lisää Adblock Cash -suodatintilaus">
 <!ENTITY location.label "Suodatinl&amp;istan sijainti:">
 <!ENTITY fromWeb.description "Vahvista tämän suodatintilauksen lisääminen. Voit muuttaa tilauksen nimeä tai sijaintia ennen sen lisäämistä.">

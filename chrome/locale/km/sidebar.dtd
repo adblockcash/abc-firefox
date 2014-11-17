@@ -19,7 +19,7 @@
 <!ENTITY detach.label "ញែកចេញ">
 <!ENTITY whitelisted.label "ទំព័រក្នុងបញ្ជីស">
 <!ENTITY context.disablefilteronsite.label "បិទការប្រើអ្នកចម្រោះនេះលើ ?1?">
-<!ENTITY detached.title "Adblock Plus: វត្ថុដែលអាចរារាំងបាន (ត្រូវបានញែកចេញ)">
+<!ENTITY detached.title "Adblock Cash: វត្ថុដែលអាចរារាំងបាន (ត្រូវបានញែកចេញ)">
 <!ENTITY docDomain.firstParty "(អ្នកទីមួយ)">
 <!ENTITY tooltip.type.whitelisted "(ក្នុងបញ្ជីស)">
 <!ENTITY tooltip.filter.label "លទ្ធផលមកពីអ្នកចម្រោះ:">

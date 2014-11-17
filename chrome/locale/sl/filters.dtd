@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Dejanja">
 <!ENTITY filter.selectAll.label "Izberi vse">
 <!ENTITY backupButton.label "&amp;Varnostno kopiraj in obnovi">
-<!ENTITY restore.minVersion.warning "Opozorilo: datoteka je bila ustvarjena z novejšo različico Adblock Plus. Pred obnovitvijo iz te datoteke, najprej posodobi na najnovejšo različico Adblock Plus.">
-<!ENTITY restore.error "Podatkov datoteke ni bilo mogoče obdelat. Je datoteka res varnostna kopija programa Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Opozorilo: datoteka je bila ustvarjena z novejšo različico Adblock Cash. Pred obnovitvijo iz te datoteke, najprej posodobi na najnovejšo različico Adblock Cash.">
+<!ENTITY restore.error "Podatkov datoteke ni bilo mogoče obdelat. Je datoteka res varnostna kopija programa Adblock Cash?">
 <!ENTITY sort.ascending.label "od &amp;A &gt; Z">
 <!ENTITY sort.label "Raz&amp;vrsti">
 <!ENTITY subscription.source.label "Seznam filtrov">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Ni na voljo">
 <!ENTITY addSubscriptionCancel.label "Prekliči">
 <!ENTITY subscription.enabled.label "Omogočeno">
-<!ENTITY noSubscriptions.text "Zaenkrat nimaš naročenega še nobenega filtra. Adblock Plus ne more
+<!ENTITY noSubscriptions.text "Zaenkrat nimaš naročenega še nobenega filtra. Adblock Cash ne more
 blokirati ničesar brez filtrov, zato uporabi opcijo &quot;Dodaj naročnino za filter&quot;
 in dodaj vsaj en filter.">
 <!ENTITY subscription.update.label "Posodobi filtre">
-<!ENTITY dialog.title "Nastavitve filtrov za Adblock Plus">
+<!ENTITY dialog.title "Nastavitve filtrov za Adblock Cash">
 <!ENTITY addFilter.label "&amp;Dodaj filter">
-<!ENTITY subscription.minVersion.warning "Ta filter potrebuje novejšo verzijo Adblock Plusa. Nadgradi Adblock plus z najnovešo različico.">
+<!ENTITY subscription.minVersion.warning "Ta filter potrebuje novejšo verzijo Adblock Casha. Nadgradi Adblock plus z najnovešo različico.">
 <!ENTITY subscription.lastDownload.invalidURL "Neuspešno, ni veljaven naslov">
 <!ENTITY backup.error "Napaka pri zapisu filtrov v datoteko. Poskrbite, da datoteka ni zaščitena pred pisanjem ali v uporabi nekega drugega programa.">
 <!ENTITY filter.moveUp.label "Premakni navzgor">

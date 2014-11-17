@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Handlinger">
 <!ENTITY filter.selectAll.label "Vælg alle">
 <!ENTITY backupButton.label "&amp;Backup og gendan">
-<!ENTITY restore.minVersion.warning "Advarsel: Filen er oprettet med en nyere Adblock Plus. Du bør opdatere Adblock Plus før du gendanner fra denne fil.">
-<!ENTITY restore.error "Filen kunne ikke åbnes, måske er det ikke en Adblock Plus backupfil?">
+<!ENTITY restore.minVersion.warning "Advarsel: Filen er oprettet med en nyere Adblock Cash. Du bør opdatere Adblock Cash før du gendanner fra denne fil.">
+<!ENTITY restore.error "Filen kunne ikke åbnes, måske er det ikke en Adblock Cash backupfil?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Sorter efter">
 <!ENTITY subscription.source.label "Filterliste">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "Ukendt">
 <!ENTITY addSubscriptionCancel.label "Annuller">
 <!ENTITY subscription.enabled.label "Aktiveret">
-<!ENTITY noSubscriptions.text "Du har endnu ikke tilføjet Filterabonnementer. Adblock Plus blokerer ikke
+<!ENTITY noSubscriptions.text "Du har endnu ikke tilføjet Filterabonnementer. Adblock Cash blokerer ikke
  noget uden filtre, så brug &quot;Tilføj Filterabonnementer;
  for at tilføje nogen.">
 <!ENTITY subscription.update.label "Opdater filtre">
-<!ENTITY dialog.title "Adblock Plus filterpræferencer">
+<!ENTITY dialog.title "Adblock Cash filterpræferencer">
 <!ENTITY addFilter.label "Ti&amp;lføj filter">
-<!ENTITY subscription.minVersion.warning "Dette Filterabonnement kræver en nyere udgave af Adblock Plus. Opdater venligst.">
+<!ENTITY subscription.minVersion.warning "Dette Filterabonnement kræver en nyere udgave af Adblock Cash. Opdater venligst.">
 <!ENTITY subscription.lastDownload.invalidURL "Fejlede, ikke en gyldig adresse">
 <!ENTITY backup.error "Der opstod en skrivefejl. Kontroller at filen ikke er skrivebeskyttet eller åben i et andet program.">
 <!ENTITY filter.moveUp.label "Flyt op">

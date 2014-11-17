@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Swójski:">
 <!ENTITY unselectAllTypes.label "Žadyn wubrać">
 <!ENTITY type.whitelist.label "W&amp;uwzaćne prawidło">
-<!ENTITY regexp.warning "Muster, kotryž sće zapodał, budźe so jako regularny wuraz interpretować, kotryž njehodźi so přez Adblock Plus skutkownje předźěłać a móhł waš wobhladowak spomałšić. Jeli nochceće regularny wuraz wužiwać, přidajće hwěžku (*) ke kóncej mustra.">
-<!ENTITY dialog.title "Filtrowe prawidło Adblock Plus přidać">
+<!ENTITY regexp.warning "Muster, kotryž sće zapodał, budźe so jako regularny wuraz interpretować, kotryž njehodźi so přez Adblock Cash skutkownje předźěłać a móhł waš wobhladowak spomałšić. Jeli nochceće regularny wuraz wužiwać, přidajće hwěžku (*) ke kóncej mustra.">
+<!ENTITY dialog.title "Filtrowe prawidło Adblock Cash přidać">
 <!ENTITY basic.label "Zakładny napohlad">
 <!ENTITY type.filter.label "&amp;Blokowanski filter">
 <!ENTITY types.label "Nałožić na typy:">
-<!ENTITY shortpattern.warning "Muster, kotryž sće zapodał, je za optimowanje překrótko a móhł waš wobhladowak spomałšić. Poruča so, zo wubjerjeće dlěši znamješkowy rjećazk za tutón filter, zo byšće Adblock Plus dowolił, filter bóle skutkownje předźěłał.">
+<!ENTITY shortpattern.warning "Muster, kotryž sće zapodał, je za optimowanje překrótko a móhł waš wobhladowak spomałšić. Poruča so, zo wubjerjeće dlěši znamješkowy rjećazk za tutón filter, zo byšće Adblock Cash dowolił, filter bóle skutkownje předźěłał.">
 <!ENTITY collapse.yes.label "Haj">
 <!ENTITY anchors.label "Jenož muster akceptować:">
 <!ENTITY collapse.default.yes.label "Standard wužiwać (haj)">
 <!ENTITY domainRestriction.help "Wužijće tutu opciju, zo byšće jednu domenu abo wjacore domeny podał, kotrež přez wertikalnu smužku (|) wotdźělić. Filter budźe so jenož na wubrane domeny nałožować. Tilda (~) před domenowym mjenom podawa, zo filter njebudźe so na tu domenu nałožować.">
 <!ENTITY accept.label "Filter přidać">
 <!ENTITY options.label "Opcije">
-<!ENTITY disabled.warning "Adblock Plus je tuchwilu znjemóžnjeny. Móžeće hišće filtry přidać, ale njebudu so nałožować, chibazo [link]zmóžnjeće Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash je tuchwilu znjemóžnjeny. Móžeće hišće filtry přidać, ale njebudu so nałožować, chibazo [link]zmóžnjeće Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "na spočatku &amp;domenoweho mjena">
 <!ENTITY collapse.no.label "Ně">
 <!ENTITY selectAllTypes.label "Wšě wubrać">

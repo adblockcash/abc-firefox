@@ -29,7 +29,7 @@
 <!ENTITY subscription.lastDownload.unknown "neznámo">
 <!ENTITY addSubscriptionCancel.label "Zrušit">
 <!ENTITY subscription.enabled.label "Povoleno">
-<!ENTITY noSubscriptions.text "Zatím jste nezačali odebírat žádnou sadu cizích filtrů. Adblock Plus nebude blokovat nic bez nastavených filtrů, použijte prosím &quot;Přidat cizí filtry&quot;, abyste nějaké přidali.">
+<!ENTITY noSubscriptions.text "Zatím jste nezačali odebírat žádnou sadu cizích filtrů. Adblock Cash nebude blokovat nic bez nastavených filtrů, použijte prosím &quot;Přidat cizí filtry&quot;, abyste nějaké přidali.">
 <!ENTITY subscription.update.label "Aktualizovat filtry">
 <!ENTITY dialog.title "Předvolby filtrů Adblocku Plus">
 <!ENTITY addFilter.label "&amp;Přidat filtr">
@@ -61,7 +61,7 @@
 <!ENTITY subscription.moveDown.label "Posunout dolů">
 <!ENTITY subscription.lastDownload.connectionError "Chyba, nepodařilo se stáhnout soubor">
 <!ENTITY subscription.lastDownload.success "Úspěch">
-<!ENTITY subscription.lastDownload.invalidData "Chyba, stažený soubor není souborem filtrů Adblock Plus">
+<!ENTITY subscription.lastDownload.invalidData "Chyba, stažený soubor není souborem filtrů Adblock Cash">
 <!ENTITY filter.paste.label "Vložit">
 <!ENTITY subscription.disabledFilters.enable "Povolit zakázané filtry">
 <!ENTITY lasthit.column "Pos&amp;lední zásah">

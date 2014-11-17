@@ -20,7 +20,7 @@
 <!ENTITY detach.label "แยกออก">
 <!ENTITY whitelisted.label "หน้าที่ถูกขึ้นบัญชีขาว">
 <!ENTITY context.disablefilteronsite.label "ปิดตัวกรองนี้บน ?1?">
-<!ENTITY detached.title "Adblock Plus: รายการที่บล็อกได้ (ถูกแยกออก)">
+<!ENTITY detached.title "Adblock Cash: รายการที่บล็อกได้ (ถูกแยกออก)">
 <!ENTITY docDomain.firstParty "(เฟิร์สปาร์ตี้)">
 <!ENTITY tooltip.type.whitelisted "(ขึ้นบัญชีขาว)">
 <!ENTITY tooltip.filter.label "เป็นผลมาจากตัวกรอง:">

@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Ver filtros">
 <!ENTITY visitHomepage.label "Visitar su página web">
 <!ENTITY addSubscription.label "Añadir suscripción">
-<!ENTITY dialog.title "Añadir suscripción de filtros para Adblock Plus">
+<!ENTITY dialog.title "Añadir suscripción de filtros para Adblock Cash">
 <!ENTITY location.label "&amp;Ubicación de la lista de filtros:">
 <!ENTITY fromWeb.description "Por favor, confirme que quiere añadir está suscripción de filtros. Puede cambiar su título o ubicación antes de añadirla.">

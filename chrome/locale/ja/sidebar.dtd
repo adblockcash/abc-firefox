@@ -20,7 +20,7 @@
 <!ENTITY detach.label "別ウィンドウ表示">
 <!ENTITY whitelisted.label "ホワイトリストされたページ">
 <!ENTITY context.disablefilteronsite.label "フィルタを ?1? で無効化">
-<!ENTITY detached.title "Adblock Plus: ブロック可能項目一覧 (別ウィンドウ表示中)">
+<!ENTITY detached.title "Adblock Cash: ブロック可能項目一覧 (別ウィンドウ表示中)">
 <!ENTITY docDomain.firstParty "(ファーストパーティ)">
 <!ENTITY tooltip.type.whitelisted "(ホワイトリスト中)">
 <!ENTITY tooltip.filter.label "適用中のフィルタ:">

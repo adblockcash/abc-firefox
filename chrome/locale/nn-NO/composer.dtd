@@ -3,7 +3,7 @@
 <!ENTITY accept.label "Legg til filter">
 <!ENTITY type.filter.label "&amp;Blokker filter">
 <!ENTITY options.label "Innstillinger">
-<!ENTITY disabled.warning "Adblock Plus er kopla ut. Du kan like vel leggje til filtre, men desse vil ikkje bli tekne i bruk dersom du ikkje [link]koplar inn Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash er kopla ut. Du kan like vel leggje til filtre, men desse vil ikkje bli tekne i bruk dersom du ikkje [link]koplar inn Adblock Cash[/link].">
 <!ENTITY collapse.default.no.label "Bruk standard (nei)">
 <!ENTITY preferences.label "&amp;Syn filter...">
 <!ENTITY advanced.label "Avansert vising">
@@ -12,7 +12,7 @@
 <!ENTITY type.whitelist.label "&amp;Unntaksregel">
 <!ENTITY collapse.no.label "Nei">
 <!ENTITY regexp.warning "Mønsteret du la inn blir tolka som eit regulært uttrykk. Å ha mange regulære uttrykk kan gjera nettlesinga treig. Dersom du ikkje har tenkt til å nytte regulære uttrykk så sett eit *-symbol sist i mønsteret.">
-<!ENTITY dialog.title "Legg til regel for Adblock Plus filter">
+<!ENTITY dialog.title "Legg til regel for Adblock Cash filter">
 <!ENTITY basic.label "Grunnleggende visning">
 <!ENTITY filter.label "Nytt filter:">
 <!ENTITY unselectAllTypes.label "Velg ingen">

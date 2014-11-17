@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Separar">
 <!ENTITY whitelisted.label "Página de lista blanca">
 <!ENTITY context.disablefilteronsite.label "Desactivar este filtro en ?1?">
-<!ENTITY detached.title "Adblock Plus: Elementos bloqueables (separado)">
+<!ENTITY detached.title "Adblock Cash: Elementos bloqueables (separado)">
 <!ENTITY docDomain.firstParty "(dominio)">
 <!ENTITY tooltip.type.whitelisted "(en lista blanca)">
 <!ENTITY tooltip.filter.label "Filtro en efecto:">

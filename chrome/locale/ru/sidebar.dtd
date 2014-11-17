@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Отсоединить">
 <!ENTITY whitelisted.label "Отключен на этой странице">
 <!ENTITY context.disablefilteronsite.label "Отключить фильтр на ?1?">
-<!ENTITY detached.title "Adblock Plus: элементы открытой страницы (отсоединены)">
+<!ENTITY detached.title "Adblock Cash: элементы открытой страницы (отсоединены)">
 <!ENTITY docDomain.firstParty "(запрос с того же сайта)">
 <!ENTITY tooltip.type.whitelisted "(исключение)">
 <!ENTITY tooltip.filter.label "Применен фильтр:">

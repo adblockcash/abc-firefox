@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "לא לבחור דבר">
 <!ENTITY type.whitelist.label "&amp;חוק חריג">
 <!ENTITY regexp.warning "הדפוס שהוזן יפורש כביטוי רגיל. ביטויים רגילים רבים עשויים להאט את הגלישה. אם אין כוונה להשתמש בביטויים רגילים, יש להוסיף את הסמל * בסוף התבנית.">
-<!ENTITY dialog.title "הוספת חוק סינון Adblock Plus">
+<!ENTITY dialog.title "הוספת חוק סינון Adblock Cash">
 <!ENTITY basic.label "תצוגה בסיסית">
 <!ENTITY type.filter.label "&amp;מסנן חסימה">
 <!ENTITY types.label "החלה על הסוגים:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "מרחב אחד או יותר מופרדים על ידי הסמל &quot;|&quot;, המסנן יאפשר מרחבים אלו בלבד. הסמל &quot;~&quot; לפני שם המרחב משמעותו שמסנן זה מנוטרל על מרחב זה.">
 <!ENTITY accept.label "הוספת מסנן">
 <!ENTITY options.label "אפשרויות">
-<!ENTITY disabled.warning "Adblock Plus מנוטרל כרגע. ניתן עדיין להוסיף מסננים לרשימה, אבל הם לא יחולו אלא אם [link]Adblock Plus מאפשר [/link].">
+<!ENTITY disabled.warning "Adblock Cash מנוטרל כרגע. ניתן עדיין להוסיף מסננים לרשימה, אבל הם לא יחולו אלא אם [link]Adblock Cash מאפשר [/link].">
 <!ENTITY anchor.start.flexible.label "&amp;בתחילת שם המתחם">
 <!ENTITY collapse.no.label "לא">
 <!ENTITY selectAllTypes.label "בחירת הכל">

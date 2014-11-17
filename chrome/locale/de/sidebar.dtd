@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Abkoppeln">
 <!ENTITY whitelisted.label "Deaktiviert auf dieser Seite">
 <!ENTITY context.disablefilteronsite.label "Diesen Filter auf ?1? deaktivieren">
-<!ENTITY detached.title "Adblock Plus: Elemente der geöffneten Seite (abgekoppelt)">
+<!ENTITY detached.title "Adblock Cash: Elemente der geöffneten Seite (abgekoppelt)">
 <!ENTITY docDomain.firstParty "(Anfrage zu derselben Domain)">
 <!ENTITY tooltip.type.whitelisted "(Ausnahmeregel aktiv)">
 <!ENTITY tooltip.filter.label "Angewandter Filter:">

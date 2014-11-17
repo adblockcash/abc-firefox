@@ -20,7 +20,7 @@
 <!ENTITY detach.label "分離">
 <!ENTITY whitelisted.label "此頁面已加入白名單">
 <!ENTITY context.disablefilteronsite.label "在 ?1? 停用此過濾條件">
-<!ENTITY detached.title "Adblock Plus：可阻擋項目（已分離）">
+<!ENTITY detached.title "Adblock Cash：可阻擋項目（已分離）">
 <!ENTITY docDomain.firstParty "(第一方)">
 <!ENTITY tooltip.type.whitelisted "(白名單)">
 <!ENTITY tooltip.filter.label "作用中的條件：">

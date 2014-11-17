@@ -1,11 +1,11 @@
 <!ENTITY notification.button.yes "&amp;Igen">
 <!ENTITY notification.button.no "&amp;Nem">
-<!ENTITY sync.label "Adblock Plus beállítások s&amp;zinkronizálása">
+<!ENTITY sync.label "Adblock Cash beállítások s&amp;zinkronizálása">
 <!ENTITY whitelist.site.label "Szűrés tiltása itt: ?1?">
 <!ENTITY filters.label "Szűrő &amp;beállítások">
 <!ENTITY disable.label "Letiltás mindenhol">
 <!ENTITY objecttab.title "Blokkolás">
-<!ENTITY objecttab.tooltip "Kattintson ide a blokkoláshoz (Adblock Plus)">
+<!ENTITY objecttab.tooltip "Kattintson ide a blokkoláshoz (Adblock Cash)">
 <!ENTITY menuitem.label "Ad&amp;block Plus beállítások">
 <!ENTITY objecttabs.label "&amp;Fülek megjelenítése Java és Flash objektumoknál">
 <!ENTITY sendReport.label "Hibás webhel&amp;y bejelentése">
@@ -14,8 +14,8 @@
 <!ENTITY counthits.label "&amp;Szűrő találati statisztika mentése">
 <!ENTITY opensidebar.label "Blokkolható ob&amp;jektumok megjelenítése">
 <!ENTITY notification.button.close "&amp;Bezárás">
-<!ENTITY contribute.label "Közreműködés az Adblock Plus-hoz">
-<!ENTITY toolbarbutton.label "Adblock Plus">
+<!ENTITY contribute.label "Közreműködés az Adblock Cash-hoz">
+<!ENTITY toolbarbutton.label "Adblock Cash">
 <!ENTITY context.frame.label "Keret blokkolása">
 <!ENTITY blocked.tooltip "Blokkolt objektumok ezen az oldalon:">
 <!ENTITY hideplaceholders.label "Letiltott elemek &amp;helyőrzőinek elrejtése">
@@ -23,9 +23,9 @@
 <!ENTITY sidebar.title "Blokkolható objektumok">
 <!ENTITY options.label "&amp;Opciók">
 <!ENTITY context.object.label "Objektum blokkolása">
-<!ENTITY context.removeWhitelist.label "Adblock Plus: Újra-engedélyezés ezen az oldalon">
+<!ENTITY context.removeWhitelist.label "Adblock Cash: Újra-engedélyezés ezen az oldalon">
 <!ENTITY filters.tooltip "Legaktívabb szűrők:">
 <!ENTITY closesidebar.label "Blokkolható ob&amp;jektumok elrejtése">
 <!ENTITY showintoolbar.label "M&amp;egjelenítés az eszköztáron">
 <!ENTITY status.tooltip "Állapot:">
-<!ENTITY context.media.label "Adblock Plus: videó/audió blokkolása">
+<!ENTITY context.media.label "Adblock Cash: videó/audió blokkolása">

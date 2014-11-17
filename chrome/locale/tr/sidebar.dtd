@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Ayır">
 <!ENTITY whitelisted.label "Ak listeye dahil bir sayfa">
 <!ENTITY context.disablefilteronsite.label "Bu süzgeci ?1? alan adında kullanma">
-<!ENTITY detached.title "Adblock Plus: Engellenebilecek öğeler (ayrıldı)">
+<!ENTITY detached.title "Adblock Cash: Engellenebilecek öğeler (ayrıldı)">
 <!ENTITY docDomain.firstParty "(birinci taraf)">
 <!ENTITY tooltip.type.whitelisted "(ak listede)">
 <!ENTITY tooltip.filter.label "Yürürlükteki süzgeç:">

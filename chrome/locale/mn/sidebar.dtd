@@ -19,7 +19,7 @@
 <!ENTITY detach.label "Салгах">
 <!ENTITY whitelisted.label "Цагаанжагсаалтын хуудас">
 <!ENTITY context.disablefilteronsite.label "Энэ шүүлтүүрийг хаах газар нь ?1?">
-<!ENTITY detached.title "Adblock Plus: Хашигдахуйц зүйлс (салгагдсан)">
+<!ENTITY detached.title "Adblock Cash: Хашигдахуйц зүйлс (салгагдсан)">
 <!ENTITY docDomain.firstParty "(эхний хэсэг)">
 <!ENTITY tooltip.type.whitelisted "(цагаандсан)">
 <!ENTITY tooltip.filter.label "Эффектийн шүүлтүүр:">

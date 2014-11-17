@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Radnje">
 <!ENTITY filter.selectAll.label "Odaberi sve">
 <!ENTITY backupButton.label "&amp;Sigurnosne kopije i vraćanje">
-<!ENTITY restore.minVersion.warning "Upozorenje: datoteka je stvorena novijom inačicom Adblock Plus-a. Trebali biste ažurirati na posljednju inačicu Adblock Plus-a prije vraćanja ove datoteke.">
-<!ENTITY restore.error "Podaci datoteka ne mogu biti obrađeni, možda to nije Adblock Plus datoteka sigurnosne kopije?">
+<!ENTITY restore.minVersion.warning "Upozorenje: datoteka je stvorena novijom inačicom Adblock Cash-a. Trebali biste ažurirati na posljednju inačicu Adblock Cash-a prije vraćanja ove datoteke.">
+<!ENTITY restore.error "Podaci datoteka ne mogu biti obrađeni, možda to nije Adblock Cash datoteka sigurnosne kopije?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z red slaganja">
 <!ENTITY sort.label "Po&amp;složiti po">
 <!ENTITY subscription.source.label "Popis filtera">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "nepoznato">
 <!ENTITY addSubscriptionCancel.label "Poništi">
 <!ENTITY subscription.enabled.label "Omogućen">
-<!ENTITY noSubscriptions.text "Još niste dodali nijednu pretplatu filtera. Adblock Plus neće blokirati
+<!ENTITY noSubscriptions.text "Još niste dodali nijednu pretplatu filtera. Adblock Cash neće blokirati
 	ništa bez filtera, molim koristite &quot;Dodaj pretplatu filtera&quot; za
 	dodavanje filtera.">
 <!ENTITY subscription.update.label "Ažuriraj filtere">
-<!ENTITY dialog.title "Adblock Plus postavke filtera">
+<!ENTITY dialog.title "Adblock Cash postavke filtera">
 <!ENTITY addFilter.label "&amp;Dodaj filter">
-<!ENTITY subscription.minVersion.warning "Ova pretplata filtera zahtijeva noviju inačicu Adblock Plus-a, ažurirajte na posljednju Adblock Plus inačicu.">
+<!ENTITY subscription.minVersion.warning "Ova pretplata filtera zahtijeva noviju inačicu Adblock Cash-a, ažurirajte na posljednju Adblock Cash inačicu.">
 <!ENTITY subscription.lastDownload.invalidURL "Neuspješno, neispravna adresa">
 <!ENTITY backup.error "Dogodila se greška pri zapisivanja filtera u datoteku. Pobrinite se da datoteka nije  postavljena na -samo čitanje- ili ju koristi druga aplikacija.">
 <!ENTITY filter.moveUp.label "Pomakni gore">

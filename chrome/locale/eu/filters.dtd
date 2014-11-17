@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Ekintzak">
 <!ENTITY filter.selectAll.label "Denak aukeratu">
 <!ENTITY backupButton.label "Segu&amp;rtasun kopia eta berrezartzea">
-<!ENTITY restore.minVersion.warning "Oharra: fitxategi hau Adblock Plusen bertsio berriago batekin sortu da. Adblock Plus azken bertsiora eguneratu beharko zenuke fitxategi hau berrezarri aurretik.">
-<!ENTITY restore.error "Fitxategiko datuak ezin dira prozesatu, agian ez da Adblock Plus segurtasun kopia bat?">
+<!ENTITY restore.minVersion.warning "Oharra: fitxategi hau Adblock Cashen bertsio berriago batekin sortu da. Adblock Cash azken bertsiora eguneratu beharko zenuke fitxategi hau berrezarri aurretik.">
+<!ENTITY restore.error "Fitxategiko datuak ezin dira prozesatu, agian ez da Adblock Cash segurtasun kopia bat?">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z ordena">
 <!ENTITY sort.label "Ordenatu honen ara&amp;bera">
 <!ENTITY subscription.source.label "Iragazki zerrenda">
@@ -29,12 +29,12 @@
 <!ENTITY subscription.lastDownload.unknown "Ez erabilgarri">
 <!ENTITY addSubscriptionCancel.label "Utzi bertan behera">
 <!ENTITY subscription.enabled.label "Gaituta">
-<!ENTITY noSubscriptions.text "Ez duzu harpidetzarik gehitu oraindik. Adblock Plusek du ezer blokeatuko iragazkirik gabe; mesedez, erabili &quot;Gehitu iragazki harpidetza&quot; 
+<!ENTITY noSubscriptions.text "Ez duzu harpidetzarik gehitu oraindik. Adblock Cashek du ezer blokeatuko iragazkirik gabe; mesedez, erabili &quot;Gehitu iragazki harpidetza&quot;
  iragazkiak gehitzeko.">
 <!ENTITY subscription.update.label "Eguneratu iragazkiak">
-<!ENTITY dialog.title "Adblock Plus iragazki hobespenak">
+<!ENTITY dialog.title "Adblock Cash iragazki hobespenak">
 <!ENTITY addFilter.label "Gehitu iraga&amp;zkia">
-<!ENTITY subscription.minVersion.warning "Iragazki harpidetzak Adblock Plus bertsio berria behar du, azken bertsiora eguneratu beharko zenuke Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Iragazki harpidetzak Adblock Cash bertsio berria behar du, azken bertsiora eguneratu beharko zenuke Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Huts egin du; ez da helbide baliagarria">
 <!ENTITY backup.error "Iragazkiak fitxategira idazteak errore bat gertatu da. Egiaztatu fitxategian idaztea dagoela eta ez duela beste aplikazio batek blokeatu.">
 <!ENTITY filter.moveUp.label "Igo">

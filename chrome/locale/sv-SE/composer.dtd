@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Markera ingen">
 <!ENTITY type.whitelist.label "Regel för &amp;undantag">
 <!ENTITY regexp.warning "Mönstret du angivit hanteras som ett reguljärt uttryck. Många reguljära uttryck kan göra din surfning långsam. Om du inte avsåg att använda reguljära uttryck, lägg till en asterisk (*) i slutet av mönstret.">
-<!ENTITY dialog.title "Lägg till filterregel för Adblock Plus">
+<!ENTITY dialog.title "Lägg till filterregel för Adblock Cash">
 <!ENTITY basic.label "Standard">
 <!ENTITY type.filter.label "Blockerande filter">
 <!ENTITY types.label "Verkställ för:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Ange en eller flera domäner avgränsade med lodrätt streck (|). Filtret kommer endast att tillämpas på dessa valda domäner(na). Tilde-tecknet (~) framför en domän anger att filtret inte kommer att användas för den domänen.">
 <!ENTITY accept.label "Lägg till filter">
 <!ENTITY options.label "Inställningar">
-<!ENTITY disabled.warning "Adblock Plus är inaktiverat. Du kan lägga till filter, men de kan inte användas förrän du [link]aktiverar Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash är inaktiverat. Du kan lägga till filter, men de kan inte användas förrän du [link]aktiverar Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "I början av domännamnet">
 <!ENTITY collapse.no.label "Nej">
 <!ENTITY selectAllTypes.label "Markera alla">

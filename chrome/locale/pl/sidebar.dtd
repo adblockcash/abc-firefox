@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Odłącz">
 <!ENTITY whitelisted.label "Nieblokowana strona">
 <!ENTITY context.disablefilteronsite.label "Wyłącz ten filtr na ?1?">
-<!ENTITY detached.title "Adblock Plus – elementy blokowalne (odłączony)">
+<!ENTITY detached.title "Adblock Cash – elementy blokowalne (odłączony)">
 <!ENTITY docDomain.firstParty "(pierwszy człon adresu)">
 <!ENTITY tooltip.type.whitelisted "(nieblokowane)">
 <!ENTITY tooltip.filter.label "Działające filtry:">

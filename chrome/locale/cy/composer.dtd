@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Addasedig:">
 <!ENTITY unselectAllTypes.label "Dewis dim">
 <!ENTITY type.whitelist.label "Rheol &amp;eithrio">
-<!ENTITY regexp.warning "Caiff y patrwm a roesoch ei ddehongli fel ymadrodd arferol na ellir ei brosesu'n effeithlon gan Adblock Plus a gall arafu'ch porwr. Os nad oeddech am ddefnyddio ymadrodd arferol, rhowch seren (*) ar ddiwedd y patrwm.">
-<!ENTITY dialog.title "Ychwanegu rheol hidlydd Adblock Plus">
+<!ENTITY regexp.warning "Caiff y patrwm a roesoch ei ddehongli fel ymadrodd arferol na ellir ei brosesu'n effeithlon gan Adblock Cash a gall arafu'ch porwr. Os nad oeddech am ddefnyddio ymadrodd arferol, rhowch seren (*) ar ddiwedd y patrwm.">
+<!ENTITY dialog.title "Ychwanegu rheol hidlydd Adblock Cash">
 <!ENTITY basic.label "Golwg sylfaenol">
 <!ENTITY type.filter.label "Hidlydd &amp;rhwystro">
 <!ENTITY types.label "Gweithredu ar y mathau:">
-<!ENTITY shortpattern.warning "Mae'r patrwm a roeswch yn rhy fyr i gael ei optimeiddio a gall arafu'ch porwr. Argymhellir eich bod yn dewis llinyn hwy ar gyfer yr hidlydd i Adblock Plus gael brosesu'r hidlydd yn fwy effeithlon.">
+<!ENTITY shortpattern.warning "Mae'r patrwm a roeswch yn rhy fyr i gael ei optimeiddio a gall arafu'ch porwr. Argymhellir eich bod yn dewis llinyn hwy ar gyfer yr hidlydd i Adblock Cash gael brosesu'r hidlydd yn fwy effeithlon.">
 <!ENTITY collapse.yes.label "Ie">
 <!ENTITY anchors.label "Derbyn y patrwm dim ond:">
 <!ENTITY collapse.default.yes.label "Defnyddio'r rhagosodiad (ie)">
 <!ENTITY domainRestriction.help "Defnyddiwch hwn i nodi un neu fwy o barthau wedi'u gwahanu gan y symbol '|'. Bydd yr hidlydd ond yn gweithredu ar y parth(au) a ddewiswyd. Mae tild (~) cyn enw parth yn golygu na fydd yr hidlydd yn gweithredu ar y parth hwnnw.">
 <!ENTITY accept.label "Ychwanegu hidlydd">
 <!ENTITY options.label "Dewisiadau">
-<!ENTITY disabled.warning "Mae Adblock Plus wedi'i analluogi ar hyn o bryd. Gallwch ychwanegu hidlyddion o hyd, ond fyddan nhw ddim yn weithredol oni bai i chi [link] alluogi Adblock Plus [/link].">
+<!ENTITY disabled.warning "Mae Adblock Cash wedi'i analluogi ar hyn o bryd. Gallwch ychwanegu hidlyddion o hyd, ond fyddan nhw ddim yn weithredol oni bai i chi [link] alluogi Adblock Cash [/link].">
 <!ENTITY anchor.start.flexible.label "ar dd&amp;echrau enw'r parth">
 <!ENTITY collapse.no.label "Na">
 <!ENTITY selectAllTypes.label "Dewis y cyfan">

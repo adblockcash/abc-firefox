@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Malligi">
 <!ENTITY whitelisted.label "Paĝo en blanka listo">
 <!ENTITY context.disablefilteronsite.label "Malebligi ĉi tiun filtrilon sur ?1?">
-<!ENTITY detached.title "Adblock Plus: Blokeblaj elementoj (malligitaj)">
+<!ENTITY detached.title "Adblock Cash: Blokeblaj elementoj (malligitaj)">
 <!ENTITY docDomain.firstParty "(de unua liveranto)">
 <!ENTITY tooltip.type.whitelisted "(en blanka listo)">
 <!ENTITY tooltip.filter.label "Efika filtrilo:">

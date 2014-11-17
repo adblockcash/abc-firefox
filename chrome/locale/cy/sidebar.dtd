@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Datgysylltu">
 <!ENTITY whitelisted.label "Tudalen a wenrestrwyd">
 <!ENTITY context.disablefilteronsite.label "Analluogi'r hidlydd hwn ar ?1?">
-<!ENTITY detached.title "Adblock Plus: Eitemau gellir eu rhwystro (wedi'i ddatgysylltu)">
+<!ENTITY detached.title "Adblock Cash: Eitemau gellir eu rhwystro (wedi'i ddatgysylltu)">
 <!ENTITY docDomain.firstParty "(mewnol)">
 <!ENTITY tooltip.type.whitelisted "(wedi'i wenrestru)">
 <!ENTITY tooltip.filter.label "Hidlydd ar waith:">

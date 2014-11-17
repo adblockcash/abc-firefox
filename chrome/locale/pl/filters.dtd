@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Czynności">
 <!ENTITY filter.selectAll.label "Zaznacz wszystko">
 <!ENTITY backupButton.label "&amp;Tworzenie i odtwarzanie kopii">
-<!ENTITY restore.minVersion.warning "Ostrzeżenie! Plik został utworzony za pomocą najnowszej wersji Adblock Plusa. Przed odtworzeniem zawartości tego pliku, należy zainstalować najnowszą wersję Adblock Plusa.">
-<!ENTITY restore.error "Nie można przetworzyć danych filtra. Może to nie jest plik kopii zapasowej Adblock Plusa?">
+<!ENTITY restore.minVersion.warning "Ostrzeżenie! Plik został utworzony za pomocą najnowszej wersji Adblock Casha. Przed odtworzeniem zawartości tego pliku, należy zainstalować najnowszą wersję Adblock Casha.">
+<!ENTITY restore.error "Nie można przetworzyć danych filtra. Może to nie jest plik kopii zapasowej Adblock Casha?">
 <!ENTITY sort.ascending.label "Kierunek sortow&amp;ania A &gt; Z">
 <!ENTITY sort.label "&amp;Sortuj wg">
 <!ENTITY subscription.source.label "Zawartość zestawu">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "nieznane">
 <!ENTITY addSubscriptionCancel.label "Anuluj">
 <!ENTITY subscription.enabled.label "Aktywny">
-<!ENTITY noSubscriptions.text "Jeszcze nie dodano żadnego zestawu filtrów. Adblock Plus nie może nic blokować bez filtrów. Naciśnij przycisk „Dodaj zestaw filtrów…”, by dodać jakiś filtr.">
+<!ENTITY noSubscriptions.text "Jeszcze nie dodano żadnego zestawu filtrów. Adblock Cash nie może nic blokować bez filtrów. Naciśnij przycisk „Dodaj zestaw filtrów…”, by dodać jakiś filtr.">
 <!ENTITY subscription.update.label "Aktualizuj filtry">
-<!ENTITY dialog.title "Add Adblock Plus – ustawienia filtrów">
+<!ENTITY dialog.title "Add Adblock Cash – ustawienia filtrów">
 <!ENTITY addFilter.label "Dodaj fi&amp;ltr">
-<!ENTITY subscription.minVersion.warning "Ten zestaw filtrów działa z najnowszą wersją Adblock Plusa. Zaktualizuj Adblock Plusa.">
+<!ENTITY subscription.minVersion.warning "Ten zestaw filtrów działa z najnowszą wersją Adblock Casha. Zaktualizuj Adblock Casha.">
 <!ENTITY subscription.lastDownload.invalidURL "Nie powiodło się – nieprawidłowy adres">
 <!ENTITY backup.error "W trakcie zapisu filtrów wystąpił błąd. Sprawdź, czy czasami plik nie ma zabezpieczenia przed zapisem lub nie jest używany przez inną aplikację.">
 <!ENTITY filter.moveUp.label "Przenieś w górę">

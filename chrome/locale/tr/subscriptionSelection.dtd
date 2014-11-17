@@ -1,5 +1,5 @@
 <!ENTITY addMain.label "&quot;?1?&quot; süzgecine de abone ol">
-<!ENTITY list.download.failed "Adblock Plus abonelik listesini alamadı">
+<!ENTITY list.download.failed "Adblock Cash abonelik listesini alamadı">
 <!ENTITY list.download.retry "Yeniden dene">
 <!ENTITY title.label "&amp;Aboneliğin adı:">
 <!ENTITY list.download.website "Siteye git">
@@ -7,6 +7,6 @@
 <!ENTITY viewList.label "Süzgeçlere bak">
 <!ENTITY visitHomepage.label "Ana sayfaya git">
 <!ENTITY addSubscription.label "Abone ol">
-<!ENTITY dialog.title "Adblock Plus süzgeç aboneliği ekle">
+<!ENTITY dialog.title "Adblock Cash süzgeç aboneliği ekle">
 <!ENTITY location.label "Süzgeç &amp;listesi konumu:">
 <!ENTITY fromWeb.description "Lütfen bu süzgeç aboneliğini eklemek istediğinizi teyit edin. Eklemeden önce abonelik adını ve konumunu değiştirebilirsiniz.">

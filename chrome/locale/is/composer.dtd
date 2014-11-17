@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Velja ekkert">
 <!ENTITY type.whitelist.label "&amp;Frávikregla">
 <!ENTITY regexp.warning "Mynstrið sem þú slóst inn verður túlkað sem regluleg segð. Margar reglulegar segðir gætu haft þau áhrif að hægja á vöfrun. Ef þú ætlar ekki að nota reglulega segðir, bættu þá * tákni við enda mynstursins.">
-<!ENTITY dialog.title "Bæta við Adblock Plus síureglu">
+<!ENTITY dialog.title "Bæta við Adblock Cash síureglu">
 <!ENTITY basic.label "Einföld sýn">
 <!ENTITY type.filter.label "&amp;Lokunarsía">
 <!ENTITY types.label "Virkja fyrir tegundir:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Sláðu inn eitt eða fleiri lén aðskilið með tákninu (|). Sían verður aðeins beitt á þessi lén. Táknið (~) fyrir framan lén þýðir að ekki ætti að beita síunni á það lén.">
 <!ENTITY accept.label "Bæta við síu">
 <!ENTITY options.label "Valkostir">
-<!ENTITY disabled.warning "Adblock Plus er óvirkt eins og er. Þú getur samt bætt við síum en síurnar munu ekki vera virkar nema þú [link]virkjir Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash er óvirkt eins og er. Þú getur samt bætt við síum en síurnar munu ekki vera virkar nema þú [link]virkjir Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "í &amp;byrjun lénsins">
 <!ENTITY collapse.no.label "Nei">
 <!ENTITY selectAllTypes.label "Velja allt">

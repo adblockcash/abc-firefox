@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Tách rời">
 <!ENTITY whitelisted.label "Trang nằm trong sổ trắng">
 <!ENTITY context.disablefilteronsite.label "Vô hiệu hóa bộ lọc này trên ?1?">
-<!ENTITY detached.title "Adblock Plus: các mục có thể chặn (tách rời)">
+<!ENTITY detached.title "Adblock Cash: các mục có thể chặn (tách rời)">
 <!ENTITY docDomain.firstParty "(bên thứ nhất)">
 <!ENTITY tooltip.type.whitelisted "(sổ trắng)">
 <!ENTITY tooltip.filter.label "Bộ lọc đang có hiệu lực:">

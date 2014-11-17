@@ -1,18 +1,19 @@
 /*
- * This file is part of Adblock Plus <http://adblockplus.org/>,
- * Copyright (C) 2006-2014 Eyeo GmbH
+ * This file is part of Adblock Cash <http://adblockcash.org/>,
+ * (based on Adblock Plus <http://adblockplush.org/> by Eyeo GmbH)
+ * Copyright (C) Adblock Cash
  *
- * Adblock Plus is free software: you can redistribute it and/or modify
+ * Adblock Cash is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License version 3 as
  * published by the Free Software Foundation.
  *
- * Adblock Plus is distributed in the hope that it will be useful,
+ * Adblock Cash is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+ * along with Adblock Cash.  If not, see <http://www.gnu.org/licenses/>.
  */
 
 Cu.import("resource://gre/modules/Services.jsm");
@@ -152,7 +153,7 @@ var Backup =
     stream.close();
 
     let match;
-    if (lines.length < 2 || lines[0] != "# Adblock Plus preferences" || !(match = /version=(\d+)/.exec(lines[1])))
+    if (lines.length < 2 || lines[0] != "# Adblock Cash preferences" || !(match = /version=(\d+)/.exec(lines[1])))
     {
       Utils.alert(window, E("backupButton").getAttribute("_restoreError"), E("backupButton").getAttribute("_restoreDialogTitle"));
       return;
@@ -315,7 +316,7 @@ var Backup =
           minVersion = "2.1";
       }
     }
-    list.unshift("[Adblock Plus " + minVersion + "]");
+    list.unshift("[Adblock Cash " + minVersion + "]");
 
     // Insert checksum. Have to add an empty line to the end of the list to
     // account for the trailing newline in the file.

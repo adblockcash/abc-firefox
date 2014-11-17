@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Ενέργειες">
 <!ENTITY filter.selectAll.label "Επιλογή όλων">
 <!ENTITY backupButton.label "&amp;Αντίγραφα ασφαλείας και επαναφορά">
-<!ENTITY restore.minVersion.warning "Προειδοποίηση: το αρχείο έχει δημιουργηθεί με μια νεότερη έκδοση του Adblock Plus. Θα πρέπει να αναβαθμίσετε το Adblock Plus στην τελευταία του έκδοση πριν ανακτήσετε από αυτό το αρχείο.">
-<!ENTITY restore.error "Τα δεδομένα του αρχείου δεν μπορούν να επεξεργαστούν, μήπως αυτός δεν είναι αντίγραφο ασφαλείας του Adblock Plus;">
+<!ENTITY restore.minVersion.warning "Προειδοποίηση: το αρχείο έχει δημιουργηθεί με μια νεότερη έκδοση του Adblock Cash. Θα πρέπει να αναβαθμίσετε το Adblock Cash στην τελευταία του έκδοση πριν ανακτήσετε από αυτό το αρχείο.">
+<!ENTITY restore.error "Τα δεδομένα του αρχείου δεν μπορούν να επεξεργαστούν, μήπως αυτός δεν είναι αντίγραφο ασφαλείας του Adblock Cash;">
 <!ENTITY sort.ascending.label "&amp;Αύξουσα">
 <!ENTITY sort.label "&amp;Ταξινόμηση κατά">
 <!ENTITY subscription.source.label "Λίστα φίλτρων">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Μ/Δ">
 <!ENTITY addSubscriptionCancel.label "Ακύρωση">
 <!ENTITY subscription.enabled.label "Ενεργοποιημένη">
-<!ENTITY noSubscriptions.text "Δεν έχετε προσθέσει κάποια συνδρομή φίλτρων. Το Adblock Plus δεν μπορεί να μπλοκάρει κάτι χωρίς φίλτρα· παρακαλώ χρησιμοποιήστε την &quot;Προσθήκη συνδρομής&quot; για να ορίσετε μια.">
+<!ENTITY noSubscriptions.text "Δεν έχετε προσθέσει κάποια συνδρομή φίλτρων. Το Adblock Cash δεν μπορεί να μπλοκάρει κάτι χωρίς φίλτρα· παρακαλώ χρησιμοποιήστε την &quot;Προσθήκη συνδρομής&quot; για να ορίσετε μια.">
 <!ENTITY subscription.update.label "Ενημέρωση φίλτρων">
-<!ENTITY dialog.title "Προτιμήσεις φίλτρων του Adblock Plus">
+<!ENTITY dialog.title "Προτιμήσεις φίλτρων του Adblock Cash">
 <!ENTITY addFilter.label "Προσθήκη &amp;φίλτρου">
-<!ENTITY subscription.minVersion.warning "Αυτή η συνδρομή φίλτρων απαιτεί μια νεότερη έκδοση του Adblock Plus· θα πρέπει να αναβαθμίσετε το Adblock Plus στην τελευταία έκδοση.">
+<!ENTITY subscription.minVersion.warning "Αυτή η συνδρομή φίλτρων απαιτεί μια νεότερη έκδοση του Adblock Cash· θα πρέπει να αναβαθμίσετε το Adblock Cash στην τελευταία έκδοση.">
 <!ENTITY subscription.lastDownload.invalidURL "Απέτυχε, μη έγκυρη διεύθυνση">
 <!ENTITY backup.error "Υπήρξε κάποιο πρόβλημα στην εγγραφή των φίλτρων στο αρχείο. Σιγουρευτείτε ότι το αρχείο δεν προστατεύεται από εγγραφή ή ότι δεν χρησιμοποιείται από κάποια άλλη εφαρμογή.">
 <!ENTITY filter.moveUp.label "Μετακίνηση επάνω">

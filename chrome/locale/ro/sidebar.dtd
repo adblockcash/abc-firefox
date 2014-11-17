@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Desprinde">
 <!ENTITY whitelisted.label "Pagini sigure">
 <!ENTITY context.disablefilteronsite.label "Dezactivează acest filtru pe ?1?">
-<!ENTITY detached.title "Adblock Plus: Lista elementelor blocabile în pagină (desprinsă)">
+<!ENTITY detached.title "Adblock Cash: Lista elementelor blocabile în pagină (desprinsă)">
 <!ENTITY docDomain.firstParty "(parte implicată)">
 <!ENTITY tooltip.type.whitelisted "(permis)">
 <!ENTITY tooltip.filter.label "Filtru în acţiune:">

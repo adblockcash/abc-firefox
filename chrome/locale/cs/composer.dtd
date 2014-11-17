@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Zrušit výběr">
 <!ENTITY type.whitelist.label "&amp;Výjimka">
 <!ENTITY regexp.warning "Vzor, který jste zadali, bude interpretován jako regulární výraz. Mnoho regulárních výrazů může zpomalit vaše prohlížení stránek. Pokud jste nechěli použít regulární výraz, přidejte znak * na konec vzoru.">
-<!ENTITY dialog.title "Přidat pravidlo filtru Adblock Plus">
+<!ENTITY dialog.title "Přidat pravidlo filtru Adblock Cash">
 <!ENTITY basic.label "Základní zobrazení">
 <!ENTITY type.filter.label "&amp;Blokující filtr">
 <!ENTITY types.label "Použít na typy:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Zadejte jednu nebo více domén oddělených znakem &quot;|&quot;, filtr bude poté použit pouze na těchto doménách. Znak &quot;~&quot; před názvem domény zajistí, že filtr nebude na této doméně použit.">
 <!ENTITY accept.label "Přidat filtr">
 <!ENTITY options.label "Možnosti">
-<!ENTITY disabled.warning "Adblock Plus je momentálně zakázán. I tak můžete přidávat filtry, ale nebudou použity, dokud [link]nepovolíte Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash je momentálně zakázán. I tak můžete přidávat filtry, ale nebudou použity, dokud [link]nepovolíte Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "na &amp;začátku názvu domény">
 <!ENTITY collapse.no.label "Ne">
 <!ENTITY selectAllTypes.label "Vybrat vše">

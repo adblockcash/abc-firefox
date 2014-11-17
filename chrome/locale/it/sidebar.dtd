@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Separa">
 <!ENTITY whitelisted.label "Pagina in lista di siti permessi">
 <!ENTITY context.disablefilteronsite.label "Disattiva il filtro per ?1?">
-<!ENTITY detached.title "Elementi bloccabili con Adblock Plus (separati)">
+<!ENTITY detached.title "Elementi bloccabili con Adblock Cash (separati)">
 <!ENTITY docDomain.firstParty "(prima parte)">
 <!ENTITY tooltip.type.whitelisted "(in lista di elementi permessi)">
 <!ENTITY tooltip.filter.label "Filtro effettivo:">

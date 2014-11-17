@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Špecifikujte jednu alebo viac domén oddelených značkou &quot;|&quot;, filter bude obmedzený len pre tieto domény. Symbol &quot;~&quot; pred názvom domény znamená, že filter by nemal byť aplikovaný na tejto doméne.">
 <!ENTITY accept.label "Pridať filter">
 <!ENTITY options.label "Možnosti">
-<!ENTITY disabled.warning "Adblock Plus je aktuálne vypnutý. Môžete pridávať filtre, ale tie nebudú aplikované pokiaľ [link]nezapnete Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash je aktuálne vypnutý. Môžete pridávať filtre, ale tie nebudú aplikované pokiaľ [link]nezapnete Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "&amp;na začiatku názvu domény">
 <!ENTITY collapse.no.label "Nie">
 <!ENTITY selectAllTypes.label "Vybrať všetko">

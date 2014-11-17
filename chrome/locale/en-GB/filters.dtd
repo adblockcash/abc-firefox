@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Actions">
 <!ENTITY filter.selectAll.label "Select All">
 <!ENTITY backupButton.label "Backup and Restore">
-<!ENTITY restore.minVersion.warning "Warning: the file has been created with a newer Adblock Plus version. You should update to the latest Adblock Plus version before restoring from this file.">
-<!ENTITY restore.error "The file's data could not be processed, maybe this isn't an Adblock Plus backup file?">
+<!ENTITY restore.minVersion.warning "Warning: the file has been created with a newer Adblock Cash version. You should update to the latest Adblock Cash version before restoring from this file.">
+<!ENTITY restore.error "The file's data could not be processed, maybe this isn't an Adblock Cash backup file?">
 <!ENTITY sort.ascending.label "A &gt; Z sort order">
 <!ENTITY sort.label "Sort by">
 <!ENTITY subscription.source.label "Filter list">
@@ -29,13 +29,13 @@
 <!ENTITY subscription.lastDownload.unknown "N/A">
 <!ENTITY addSubscriptionCancel.label "Cancel">
 <!ENTITY subscription.enabled.label "Enabled">
-<!ENTITY noSubscriptions.text "You haven't added any filter subscriptions yet. Adblock Plus won't block
+<!ENTITY noSubscriptions.text "You haven't added any filter subscriptions yet. Adblock Cash won't block
 	anything without filters, please use &quot;Add filter subscription&quot; to
 	add some.">
 <!ENTITY subscription.update.label "Update filters">
-<!ENTITY dialog.title "Adblock Plus Filter Preferences">
+<!ENTITY dialog.title "Adblock Cash Filter Preferences">
 <!ENTITY addFilter.label "Add filter">
-<!ENTITY subscription.minVersion.warning "This filter subscription requires a newer Adblock Plus version; you should update to the latest Adblock Plus version.">
+<!ENTITY subscription.minVersion.warning "This filter subscription requires a newer Adblock Cash version; you should update to the latest Adblock Cash version.">
 <!ENTITY subscription.lastDownload.invalidURL "Failed: not a valid address">
 <!ENTITY backup.error "There was an error writing filters to the file. Make sure that the file isn't write protected or in use by another application.">
 <!ENTITY filter.moveUp.label "Move up">

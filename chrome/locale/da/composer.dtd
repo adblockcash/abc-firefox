@@ -14,7 +14,7 @@
 <!ENTITY unselectAllTypes.label "Vælg ingen">
 <!ENTITY type.whitelist.label "&amp;Undtagelsesregel">
 <!ENTITY regexp.warning "Det indtastede mønster vil blive fortolket som et regulært udtryk. Mange regulære udtryk kan gøre din browser langsommere. Hvis det ikke var din mening at bruge et regulært udtryk, så tilføj et * i sidst i mønsteret.">
-<!ENTITY dialog.title "Tilføj Adblock Plus filterregel">
+<!ENTITY dialog.title "Tilføj Adblock Cash filterregel">
 <!ENTITY basic.label "Enkel visning">
 <!ENTITY type.filter.label "Blok&amp;eringsfilter">
 <!ENTITY types.label "Benyt på typer:">
@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Angiv ét eller flere domæner adskilt af symbolet &quot;|&quot;, så vil filteret kun blive anvendt på disse domæner. Symbolet &quot;~&quot; foran et domæne angiver at filteret ikke skal anvendes på dette domæne.">
 <!ENTITY accept.label "Tilføj filter">
 <!ENTITY options.label "Indstillinger">
-<!ENTITY disabled.warning "Adblock Plus er deaktiveret. Du kan stadig tilføje filtre men disse anvendes ikke før du [link]aktiverer Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash er deaktiveret. Du kan stadig tilføje filtre men disse anvendes ikke før du [link]aktiverer Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "i be&amp;gyndelsen af domænenavnet">
 <!ENTITY collapse.no.label "Nej">
 <!ENTITY selectAllTypes.label "Vælg alle">

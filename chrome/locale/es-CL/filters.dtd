@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Acciones">
 <!ENTITY filter.selectAll.label "Seleccionar todos">
 <!ENTITY backupButton.label "&amp;Copias de seguridad y restauración">
-<!ENTITY restore.minVersion.warning "Atención: el archivo se creó con una versión más reciente de Adblock Plus. Debería actualizar a la última versión de Adblock Plus antes de hacer una restauración desde este archivo.">
-<!ENTITY restore.error "No se pudieron procesar los datos del archivo. ¿Es posible que no sea un archivo de copia de seguridad de Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Atención: el archivo se creó con una versión más reciente de Adblock Cash. Debería actualizar a la última versión de Adblock Cash antes de hacer una restauración desde este archivo.">
+<!ENTITY restore.error "No se pudieron procesar los datos del archivo. ¿Es posible que no sea un archivo de copia de seguridad de Adblock Cash?">
 <!ENTITY sort.ascending.label "Ordenar A-Z">
 <!ENTITY sort.label "&amp; Ordenar por">
 <!ENTITY subscription.source.label "Lista de filtros">
@@ -29,9 +29,9 @@
 <!ENTITY subscription.lastDownload.unknown "N/D">
 <!ENTITY addSubscriptionCancel.label "Cancelar">
 <!ENTITY subscription.enabled.label "Activado">
-<!ENTITY noSubscriptions.text "Aún no ha añadido nigun filtro de subscripcion. Adblock Plus no bloquea si no hay filtros, por favor usa la opcion &quot;Agregar filtro de subscripcion&quot; para agregar unos.">
+<!ENTITY noSubscriptions.text "Aún no ha añadido nigun filtro de subscripcion. Adblock Cash no bloquea si no hay filtros, por favor usa la opcion &quot;Agregar filtro de subscripcion&quot; para agregar unos.">
 <!ENTITY subscription.update.label "Actualizar filtros">
-<!ENTITY dialog.title "Filtrar preferencia para Adblock Plus">
+<!ENTITY dialog.title "Filtrar preferencia para Adblock Cash">
 <!ENTITY addFilter.label "A&amp;ñadir filtro">
 <!ENTITY subscription.minVersion.warning "Este filtro de suscripcion requiere una version más reciente de AdBlock Plus, deberías actualizarla a la última version.">
 <!ENTITY subscription.lastDownload.invalidURL "Fallo, direccion inválida">

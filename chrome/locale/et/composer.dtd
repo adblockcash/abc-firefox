@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "L&amp;oo ise:">
 <!ENTITY unselectAllTypes.label "Tühista valik">
 <!ENTITY type.whitelist.label "&amp;Erandi reegel">
-<!ENTITY regexp.warning "Sisestatud avaldis loetakse regulaaravaldiseks, mida Adblock Plus ei suuda efektiivselt töödelda ja mis võib muuta interneti lehitsemise aeglasemaks. Kui sa tegelikult ei soovinud luua regulaaravaldist, siis lisa selle lõppu tärn (*).">
-<!ENTITY dialog.title "Lisa Adblock Plusi filtreerimisreegel">
+<!ENTITY regexp.warning "Sisestatud avaldis loetakse regulaaravaldiseks, mida Adblock Cash ei suuda efektiivselt töödelda ja mis võib muuta interneti lehitsemise aeglasemaks. Kui sa tegelikult ei soovinud luua regulaaravaldist, siis lisa selle lõppu tärn (*).">
+<!ENTITY dialog.title "Lisa Adblock Cashi filtreerimisreegel">
 <!ENTITY basic.label "Tavaline vaade">
 <!ENTITY type.filter.label "Blokeeriv filter">
 <!ENTITY types.label "Rakenda tüüpidele:">
-<!ENTITY shortpattern.warning "Sisestatud avaldis on optimeerimiseks liiga lühike ja võib muuta interneti lehitsemise aeglasemaks. Soovitatav oleks valida selle filtri jaoks pikem string, mida Adblock Plusi töötleb efektiivsemalt.">
+<!ENTITY shortpattern.warning "Sisestatud avaldis on optimeerimiseks liiga lühike ja võib muuta interneti lehitsemise aeglasemaks. Soovitatav oleks valida selle filtri jaoks pikem string, mida Adblock Cashi töötleb efektiivsemalt.">
 <!ENTITY collapse.yes.label "Jah">
 <!ENTITY anchors.label "Otsitav võib olla ainult:">
 <!ENTITY collapse.default.yes.label "Kasuta vaikeväärtust (jah)">
 <!ENTITY domainRestriction.help "Sisesta üks või enam püstkriipsuga (|) eraldatud domeeninime. See filter kehtib ainult nendele domeenidele. Tilde (~) domeeninime ees näitab, et seda filtrit ei rakendata antud domeenile.">
 <!ENTITY accept.label "Lisa filter">
 <!ENTITY options.label "Valikud">
-<!ENTITY disabled.warning "Adblock Plus on hetkel keelatud olekus. Sa võid lisada filtreid, kuid neid ei rakendu enne, kui [link]lubad Adblock Plusi[/link].">
+<!ENTITY disabled.warning "Adblock Cash on hetkel keelatud olekus. Sa võid lisada filtreid, kuid neid ei rakendu enne, kui [link]lubad Adblock Cashi[/link].">
 <!ENTITY anchor.start.flexible.label "domeeninime alguses">
 <!ENTITY collapse.no.label "Ei">
 <!ENTITY selectAllTypes.label "Vali kõik">

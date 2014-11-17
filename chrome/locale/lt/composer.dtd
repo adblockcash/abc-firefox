@@ -13,19 +13,19 @@
 <!ENTITY custom.pattern.label "&amp;Pasirinktas:">
 <!ENTITY unselectAllTypes.label "Nieko nepasirinkti">
 <!ENTITY type.whitelist.label "I&amp;šimties taisyklė">
-<!ENTITY regexp.warning "Atitikmuo kurį įvedėte bus interpretuojamas kaip reguliarioji išraiška, Adblock Plus negali jo efektyviai pritaikyti, todėl gali sulėtėti naršymas. Jei nenorėjote naudoti reguliariųjų išraiškų, atitikmens pabaigoje pridėkite žvaigždutę (*).">
-<!ENTITY dialog.title "Pridėti Adblock Plus filtravimo taisyklę">
+<!ENTITY regexp.warning "Atitikmuo kurį įvedėte bus interpretuojamas kaip reguliarioji išraiška, Adblock Cash negali jo efektyviai pritaikyti, todėl gali sulėtėti naršymas. Jei nenorėjote naudoti reguliariųjų išraiškų, atitikmens pabaigoje pridėkite žvaigždutę (*).">
+<!ENTITY dialog.title "Pridėti Adblock Cash filtravimo taisyklę">
 <!ENTITY basic.label "Paprastas konfigūravimas">
 <!ENTITY type.filter.label "&amp;Blokavimo filtrai">
 <!ENTITY types.label "Pritaikyti tipams:">
-<!ENTITY shortpattern.warning "Atitikmuo kurį įvedėte yra per trumpas, kad būtų galima optimizuoti ir gali sulėtinti naršymą. Rekomenduojama šiam filtrui pasirinkti ilgesnę eilutę, kad Adblock Plus galėtų efektyviau išnaudoti šį filtrą.">
+<!ENTITY shortpattern.warning "Atitikmuo kurį įvedėte yra per trumpas, kad būtų galima optimizuoti ir gali sulėtinti naršymą. Rekomenduojama šiam filtrui pasirinkti ilgesnę eilutę, kad Adblock Cash galėtų efektyviau išnaudoti šį filtrą.">
 <!ENTITY collapse.yes.label "Taip">
 <!ENTITY anchors.label "Priimti tik atitikmenį:">
 <!ENTITY collapse.default.yes.label "Naudoti numatytą (taip)">
 <!ENTITY domainRestriction.help "Naudokite šią pasirinkty nurodyti vieną ar kelis domenus atskirtus |. Filtras bus pritaikytas tik pasirinktiems domenams. ~ prieš domeną parodo jog filtras nebus pritaikytas tam domenui.">
 <!ENTITY accept.label "Pridėti filtrą">
 <!ENTITY options.label "Parinktys">
-<!ENTITY disabled.warning "Adblock Plus šiuo metu yra išjungtas. Vistiek galite pridėti filtrus, bet jie neveiks kol [link]neįjungsite Adblock Plus[/link].">
+<!ENTITY disabled.warning "Adblock Cash šiuo metu yra išjungtas. Vistiek galite pridėti filtrus, bet jie neveiks kol [link]neįjungsite Adblock Cash[/link].">
 <!ENTITY anchor.start.flexible.label "&amp;domeno pradžioje">
 <!ENTITY collapse.no.label "Ne">
 <!ENTITY selectAllTypes.label "Pasirinkti visus">

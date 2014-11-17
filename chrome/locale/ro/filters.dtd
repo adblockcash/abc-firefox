@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Acțiuni">
 <!ENTITY filter.selectAll.label "Selectează toate">
 <!ENTITY backupButton.label "&amp;Salvare și Restaurare">
-<!ENTITY restore.minVersion.warning "Avertisment: acest fişier a fost creat de către o versiune mai nouă de Adblock Plus. Se recomandă utilizarea celei mai noi versiuni.">
-<!ENTITY restore.error "Datele din fişier nu pot fi folosite. Verificaţi dacă fişierul a fost într-adevăr create de către Adblock Plus.">
+<!ENTITY restore.minVersion.warning "Avertisment: acest fişier a fost creat de către o versiune mai nouă de Adblock Cash. Se recomandă utilizarea celei mai noi versiuni.">
+<!ENTITY restore.error "Datele din fişier nu pot fi folosite. Verificaţi dacă fişierul a fost într-adevăr create de către Adblock Cash.">
 <!ENTITY sort.ascending.label "Crescător (&amp;A&gt;Z)">
 <!ENTITY sort.label "&amp;Ordonare">
 <!ENTITY subscription.source.label "Listă de filtre">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "Necunoscut">
 <!ENTITY addSubscriptionCancel.label "Anulează">
 <!ENTITY subscription.enabled.label "Activat">
-<!ENTITY noSubscriptions.text "Nu aţi adăugat nici un abonament de filtre. Adblock Plus nu blochează nimic dacă nu are filtre. Puteţi folosi butonul Adaugă abonament filtre pentru a vă abona la câteva liste de filtre.">
+<!ENTITY noSubscriptions.text "Nu aţi adăugat nici un abonament de filtre. Adblock Cash nu blochează nimic dacă nu are filtre. Puteţi folosi butonul Adaugă abonament filtre pentru a vă abona la câteva liste de filtre.">
 <!ENTITY subscription.update.label "Actualizează filtre">
-<!ENTITY dialog.title "Preferințe filtre Adblock Plus">
+<!ENTITY dialog.title "Preferințe filtre Adblock Cash">
 <!ENTITY addFilter.label "A&amp;daugă filtru">
-<!ENTITY subscription.minVersion.warning "Acest abonament necesită o versiune mai nouă de Adblock Plus. Se recomandă utilizarea celei mai noi versiuni.">
+<!ENTITY subscription.minVersion.warning "Acest abonament necesită o versiune mai nouă de Adblock Cash. Se recomandă utilizarea celei mai noi versiuni.">
 <!ENTITY subscription.lastDownload.invalidURL "Eşuat, adresa nu este validă">
 <!ENTITY backup.error "O eroare a apărut la scrierea fişierului. Asiguraţi-vă că fişierul nu este protejat la scriere sau folosit de către altă aplicaţie.">
 <!ENTITY filter.moveUp.label "Mută sus">

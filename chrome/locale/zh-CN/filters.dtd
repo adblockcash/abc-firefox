@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "操作">
 <!ENTITY filter.selectAll.label "全选">
 <!ENTITY backupButton.label "备份与还原 (&amp;B)">
-<!ENTITY restore.minVersion.warning "警告：该文件由新版本的 Adblock Plus 创建。您应该先更新至最新版本的 Adblock Plus 然后再还原该文件。">
-<!ENTITY restore.error "无法处理该文件，可能该文件不是 Adblock Plus 备份文件？">
+<!ENTITY restore.minVersion.warning "警告：该文件由新版本的 Adblock Cash 创建。您应该先更新至最新版本的 Adblock Cash 然后再还原该文件。">
+<!ENTITY restore.error "无法处理该文件，可能该文件不是 Adblock Cash 备份文件？">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z 顺序">
 <!ENTITY sort.label "排序 (&amp;S)">
 <!ENTITY subscription.source.label "过滤规则列表">
@@ -29,12 +29,12 @@
 <!ENTITY subscription.lastDownload.unknown "未知">
 <!ENTITY addSubscriptionCancel.label "取消">
 <!ENTITY subscription.enabled.label "启用">
-<!ENTITY noSubscriptions.text "您还没有添加过滤规则订阅组。Adblock Plus 没有过滤规则将无法
+<!ENTITY noSubscriptions.text "您还没有添加过滤规则订阅组。Adblock Cash 没有过滤规则将无法
 进行屏蔽，请使用 “添加过滤规则订阅组” 添加过滤规则。">
 <!ENTITY subscription.update.label "更新过滤规则">
-<!ENTITY dialog.title "Adblock Plus 过滤规则首选项">
+<!ENTITY dialog.title "Adblock Cash 过滤规则首选项">
 <!ENTITY addFilter.label "添加过滤规则 (&amp;d)">
-<!ENTITY subscription.minVersion.warning "该过滤规则订阅组需要新版本的 Adblock Plus，您应该更新至最新的 Adblock Plus。">
+<!ENTITY subscription.minVersion.warning "该过滤规则订阅组需要新版本的 Adblock Cash，您应该更新至最新的 Adblock Cash。">
 <!ENTITY subscription.lastDownload.invalidURL "失败，不是有效地址">
 <!ENTITY backup.error "将过滤规则写入文件时发生错误。请确认该文件没有写保护或者正在被其他程序使用。">
 <!ENTITY filter.moveUp.label "上移">

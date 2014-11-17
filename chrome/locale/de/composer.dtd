@@ -25,7 +25,7 @@
 <!ENTITY domainRestriction.help "Geben Sie eine oder mehrere Domains an (Trennzeichen ist &quot;|&quot;), der Filter wird dann nur auf diesen Domains angewandt. Das Zeichen &quot;~&quot; vor einem Domainnamen bedeutet, dass der Filter auf dieser Domain nicht angewandt werden sollte.">
 <!ENTITY accept.label "Filter hinzufügen">
 <!ENTITY options.label "Optionen">
-<!ENTITY disabled.warning "Adblock Plus ist deaktiviert. Sie können trotzdem den Filter hinzufügen, dieser wird jedoch erst angewandt, wenn Sie [link]Adblock Plus aktivieren[/link].">
+<!ENTITY disabled.warning "Adblock Cash ist deaktiviert. Sie können trotzdem den Filter hinzufügen, dieser wird jedoch erst angewandt, wenn Sie [link]Adblock Cash aktivieren[/link].">
 <!ENTITY anchor.start.flexible.label "am An&amp;fang des Domain-Namens">
 <!ENTITY collapse.no.label "Nein">
 <!ENTITY selectAllTypes.label "Alle auswählen">

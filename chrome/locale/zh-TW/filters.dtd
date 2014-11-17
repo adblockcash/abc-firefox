@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "操作">
 <!ENTITY filter.selectAll.label "全部選取">
 <!ENTITY backupButton.label "備份及還原 (&amp;B)">
-<!ENTITY restore.minVersion.warning "警告：這個檔案由較新版的 Adblock Plus 建立。從這個檔案還原前您應該先更新至最新版的 Adblock Plus。">
-<!ENTITY restore.error "無法處理該檔案的資料，也許這不是 Adblock Plus 的備份檔？">
+<!ENTITY restore.minVersion.warning "警告：這個檔案由較新版的 Adblock Cash 建立。從這個檔案還原前您應該先更新至最新版的 Adblock Cash。">
+<!ENTITY restore.error "無法處理該檔案的資料，也許這不是 Adblock Cash 的備份檔？">
 <!ENTITY sort.ascending.label "&amp;A &gt; Z 排序">
 <!ENTITY sort.label "排序 (&amp;S)">
 <!ENTITY subscription.source.label "條件列表">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "無法取得">
 <!ENTITY addSubscriptionCancel.label "取消">
 <!ENTITY subscription.enabled.label "啟用">
-<!ENTITY noSubscriptions.text "您未訂閱任何過濾條件集。沒有過濾條件的話 Adblock Plus 不曉得該阻擋什麼，請使用&quot;新增過濾條件集&quot;加入。">
+<!ENTITY noSubscriptions.text "您未訂閱任何過濾條件集。沒有過濾條件的話 Adblock Cash 不曉得該阻擋什麼，請使用&quot;新增過濾條件集&quot;加入。">
 <!ENTITY subscription.update.label "更新過濾條件">
-<!ENTITY dialog.title "Adblock Plus 條件偏好設定">
+<!ENTITY dialog.title "Adblock Cash 條件偏好設定">
 <!ENTITY addFilter.label "新增過濾條件 (&amp;d)">
-<!ENTITY subscription.minVersion.warning "此條件集需要新版的 Adblock Plus，您應該更新至最新版本。">
+<!ENTITY subscription.minVersion.warning "此條件集需要新版的 Adblock Cash，您應該更新至最新版本。">
 <!ENTITY subscription.lastDownload.invalidURL "失敗，無效的位址">
 <!ENTITY backup.error "條件寫入檔案時發生錯誤。請確定該檔案沒有寫入保護或正被其他的程式使用。">
 <!ENTITY filter.moveUp.label "往上移">

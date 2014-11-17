@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Hành động">
 <!ENTITY filter.selectAll.label "Chọn tất cả">
 <!ENTITY backupButton.label "&amp;Sao lưu và phục hồi">
-<!ENTITY restore.minVersion.warning "Cảnh báo: tập tin đã được tạo bởi phiên bản Adblock Plus mới hơn. Bạn cần cập nhập lên phiên bản mới nhất của Adblock Plus trước khi có thể khôi phục từ tập tin này.">
-<!ENTITY restore.error "Dữ liệu của tập tin có thể không được xử lý, có lẽ đây không phải là một tập tin sao lưu của Adblock Plus?">
+<!ENTITY restore.minVersion.warning "Cảnh báo: tập tin đã được tạo bởi phiên bản Adblock Cash mới hơn. Bạn cần cập nhập lên phiên bản mới nhất của Adblock Cash trước khi có thể khôi phục từ tập tin này.">
+<!ENTITY restore.error "Dữ liệu của tập tin có thể không được xử lý, có lẽ đây không phải là một tập tin sao lưu của Adblock Cash?">
 <!ENTITY sort.ascending.label "Sắp xếp theo thứ tự &amp;A &gt;  Z">
 <!ENTITY sort.label "Sắp &amp;xếp theo">
 <!ENTITY subscription.source.label "Danh sách bộ lọc">
@@ -33,7 +33,7 @@
 <!ENTITY subscription.update.label "Cập nhập bộ lọc">
 <!ENTITY dialog.title "Tùy chọn bộ lọc AdBlock Plus">
 <!ENTITY addFilter.label "&amp;Thêm bộ lọc">
-<!ENTITY subscription.minVersion.warning "Bộ lọc này cần có phiên bản Adblock Plus mới hơn, bạn cần phải cập nhập lên phiên bản mới nhất của AdBlock Plus .">
+<!ENTITY subscription.minVersion.warning "Bộ lọc này cần có phiên bản Adblock Cash mới hơn, bạn cần phải cập nhập lên phiên bản mới nhất của AdBlock Plus .">
 <!ENTITY subscription.lastDownload.invalidURL "Thất bại, không phải là địa chỉ hợp lệ">
 <!ENTITY backup.error "Có vấn đề khi ghi bộ lọc vào tập tin. Hãy chắc chắn rằng tập tin không bị bảo vệ ghi hoặc bị sử dụng bởi một ứng dụng khác.">
 <!ENTITY filter.moveUp.label "Di chuyển lên">

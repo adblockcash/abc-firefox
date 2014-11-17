@@ -6,8 +6,8 @@
 <!ENTITY subscription.actions.label "Műveletek">
 <!ENTITY filter.selectAll.label "Az összes kijelölése">
 <!ENTITY backupButton.label "&amp;Biztonsági mentés és visszaállítás">
-<!ENTITY restore.minVersion.warning "Figyelmeztetés: a fájlt az Adblock Plus újabb verziójával készült. Frissítsen az Adblock Plus legújabb verziójára, mielőtt visszaállítaná ezt a fájlt.">
-<!ENTITY restore.error "A fájlt nem sikerült feldolgozni, lehetséges, hogy nem egy Adblock Plus biztonsági mentést tartalmaz.">
+<!ENTITY restore.minVersion.warning "Figyelmeztetés: a fájlt az Adblock Cash újabb verziójával készült. Frissítsen az Adblock Cash legújabb verziójára, mielőtt visszaállítaná ezt a fájlt.">
+<!ENTITY restore.error "A fájlt nem sikerült feldolgozni, lehetséges, hogy nem egy Adblock Cash biztonsági mentést tartalmaz.">
 <!ENTITY sort.ascending.label "Rendezés &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Rendezés">
 <!ENTITY subscription.source.label "Szűrő lista">
@@ -29,11 +29,11 @@
 <!ENTITY subscription.lastDownload.unknown "ismeretlen">
 <!ENTITY addSubscriptionCancel.label "Mégse">
 <!ENTITY subscription.enabled.label "Engedélyezve">
-<!ENTITY noSubscriptions.text "Nincs felvéve egyetlen külső szűrőt sem. Az Adblock Plus nem fog semmit szűrni szűrők nélkül. Kérem használja a &quot;Külső szűrő felvétele&quot; funkciót új szűrők felvételéhez.">
+<!ENTITY noSubscriptions.text "Nincs felvéve egyetlen külső szűrőt sem. Az Adblock Cash nem fog semmit szűrni szűrők nélkül. Kérem használja a &quot;Külső szűrő felvétele&quot; funkciót új szűrők felvételéhez.">
 <!ENTITY subscription.update.label "Szűrők frissítése">
-<!ENTITY dialog.title "Adblock Plus szűrő beállítások">
+<!ENTITY dialog.title "Adblock Cash szűrő beállítások">
 <!ENTITY addFilter.label "Szűrő &amp;hozzáadása">
-<!ENTITY subscription.minVersion.warning "A külső szűrő újabb Adblock Plus verzióhoz készült, frissítenie kell az Adblock Plust a legújabb verzióra.">
+<!ENTITY subscription.minVersion.warning "A külső szűrő újabb Adblock Cash verzióhoz készült, frissítenie kell az Adblock Casht a legújabb verzióra.">
 <!ENTITY subscription.lastDownload.invalidURL "Sikertelen, érvénytelen cím">
 <!ENTITY backup.error "Hiba történt a szűrők fájlba mentésekor. Ellenőrizze, hogy a fájl nem írásvédett vagy nem használja-e egy másik alkalmazás.">
 <!ENTITY filter.moveUp.label "Mozgatás fel">

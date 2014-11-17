@@ -6,7 +6,7 @@
 <!ENTITY subscription.actions.label "Accions">
 <!ENTITY filter.selectAll.label "Selecciona-ho tot">
 <!ENTITY backupButton.label "Fe&amp;s una còpia de seguretat i restaura">
-<!ENTITY restore.minVersion.warning "Atenció : El fitxer ha estat creat amb una versió més nova d'AdBlock Plus. Hauries d'actualitzar a l'última versió de l'Adblock Plus abans de restaurar des d'aquest fitxer.">
+<!ENTITY restore.minVersion.warning "Atenció : El fitxer ha estat creat amb una versió més nova d'AdBlock Plus. Hauries d'actualitzar a l'última versió de l'Adblock Cash abans de restaurar des d'aquest fitxer.">
 <!ENTITY restore.error "Les dades del fitxer no s'han pogut processar, potser aquest no és un fitxer de còpia de Seguretat de l'AdBlock Plus ?">
 <!ENTITY sort.ascending.label "Ordre &amp;A &gt; Z">
 <!ENTITY sort.label "&amp;Ordena per">
@@ -33,7 +33,7 @@
 <!ENTITY subscription.update.label "Actualitza els Filtres">
 <!ENTITY dialog.title "Preferències de filtre de l'AdBlock Plus">
 <!ENTITY addFilter.label "Afegeix un filt&amp;re">
-<!ENTITY subscription.minVersion.warning "Aquesta subscripció de filtre requereix una versió recent. Heu d'actualitzar l'Adblock Plus.">
+<!ENTITY subscription.minVersion.warning "Aquesta subscripció de filtre requereix una versió recent. Heu d'actualitzar l'Adblock Cash.">
 <!ENTITY subscription.lastDownload.invalidURL "Error, no és una adreça vàlida">
 <!ENTITY backup.error "Hi ha hagut un error escribint els filtres al fitxer.  Assegura't que el fitxer no estigui protegit contra escritura o que l'estigui fent servir una altra aplicació.">
 <!ENTITY filter.moveUp.label "Mou amunt">

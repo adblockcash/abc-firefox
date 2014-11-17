@@ -20,7 +20,7 @@
 <!ENTITY detach.label "Откачи">
 <!ENTITY whitelisted.label "Изключена странница">
 <!ENTITY context.disablefilteronsite.label "Забрани за ?1?">
-<!ENTITY detached.title "Adblock Plus: блокируеми елементи (откачени)">
+<!ENTITY detached.title "Adblock Cash: блокируеми елементи (откачени)">
 <!ENTITY docDomain.firstParty "(първа страна)">
 <!ENTITY tooltip.type.whitelisted "(изключен)">
 <!ENTITY tooltip.filter.label "Действащ филтър:">
