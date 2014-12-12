@@ -28,7 +28,7 @@ toolbar[iconsize="small"] #abc-toolbarbutton,
 #PersonalToolbar #abc-toolbarbutton,
 #header-view-toolbar > #abc-toolbarbutton,
 #abc-status {
-  list-style-image: url("abc-status-16.png");
+  list-style-image: url("abc-status-16-enabled.png");
   -moz-image-region: rect(0px, 16px, 16px, 0px);
 }
 toolbar[iconsize="small"] #abc-toolbarbutton[abpstate="disabled"],
@@ -39,13 +39,13 @@ toolbar[iconsize="small"] #abc-toolbarbutton[abpstate="whitelisted"],
 #PersonalToolbar #abc-toolbarbutton[abpstate="whitelisted"],
 #header-view-toolbar > #abc-toolbarbutton[abpstate="whitelisted"],
 #abc-status[abpstate="whitelisted"] {
-  -moz-image-region: rect(16px, 16px, 32px, 0px);
+  list-style-image: url("abc-status-16-disabled.png");
 }
 
 #abc-toolbarbutton[cui-areatype="menu-panel"],
 toolbarpaletteitem[place="palette"] > #abc-toolbarbutton
 {
-  list-style-image: url("abc-status-32.png");
+  list-style-image: url("abc-status-32-enabled.png");
   -moz-image-region: rect(0px, 32px, 32px, 0px);
 }
 
@@ -54,7 +54,7 @@ toolbarpaletteitem[place="palette"] > #abc-toolbarbutton[abpstate="disabled"],
 #abc-toolbarbutton[cui-areatype="menu-panel"][abpstate="whitelisted"],
 toolbarpaletteitem[place="palette"] > #abc-toolbarbutton[abpstate="whitelisted"]
 {
-  -moz-image-region: rect(32px, 32px, 64px, 0px);
+  list-style-image: url("abc-status-32-disabled.png");
 }
 
 #abc-toolbar-popup {
@@ -72,14 +72,14 @@ menuitem[default="true"] {
 
 #abc-toolbarbutton,
 #abc-site-info {
-  list-style-image: url("abc-status.png");
+  list-style-image: url("abc-status-24-enabled.png");
   -moz-image-region: rect(0px, 24px, 24px, 0px);
 }
 #abc-toolbarbutton[abpstate="disabled"],
 #abc-toolbarbutton[abpstate="whitelisted"],
 #abc-site-info[abpaction="enable"],
 #abc-site-info[abpaction="enable_site"] {
-  -moz-image-region: rect(24px, 24px, 48px, 0px);
+  list-style-image: url("abc-status-24-disabled.png");
 }
 
 /* Hack: force the label to be displayed below icon for type="menu" */
