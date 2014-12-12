@@ -1,6 +1,6 @@
 /*
  * This file is part of Adblock Cash <http://adblockcash.org/>,
- * (based on Adblock Plus <http://adblockplush.org/> by Eyeo GmbH)
+ * (based on Adblock Plus <http://adblockplus.org/> by Eyeo GmbH)
  * Copyright (C) Adblock Cash
  *
  * Adblock Cash is free software: you can redistribute it and/or modify
@@ -19,50 +19,50 @@
 @namespace url("http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul");
 @namespace html url("http://www.w3.org/1999/xhtml");
 
-#abp-status
+#abc-status
 {
   cursor: pointer;
 }
 
-toolbar[iconsize="small"] #abp-toolbarbutton,
-#PersonalToolbar #abp-toolbarbutton,
-#header-view-toolbar > #abp-toolbarbutton,
-#abp-status {
-  list-style-image: url("abp-status-16.png");
+toolbar[iconsize="small"] #abc-toolbarbutton,
+#PersonalToolbar #abc-toolbarbutton,
+#header-view-toolbar > #abc-toolbarbutton,
+#abc-status {
+  list-style-image: url("abc-status-16.png");
   -moz-image-region: rect(0px, 16px, 16px, 0px);
 }
-toolbar[iconsize="small"] #abp-toolbarbutton[abpstate="disabled"],
-#PersonalToolbar #abp-toolbarbutton[abpstate="disabled"],
-#header-view-toolbar > #abp-toolbarbutton[abpstate="disabled"],
-#abp-status[abpstate="disabled"],
-toolbar[iconsize="small"] #abp-toolbarbutton[abpstate="whitelisted"],
-#PersonalToolbar #abp-toolbarbutton[abpstate="whitelisted"],
-#header-view-toolbar > #abp-toolbarbutton[abpstate="whitelisted"],
-#abp-status[abpstate="whitelisted"] {
+toolbar[iconsize="small"] #abc-toolbarbutton[abpstate="disabled"],
+#PersonalToolbar #abc-toolbarbutton[abpstate="disabled"],
+#header-view-toolbar > #abc-toolbarbutton[abpstate="disabled"],
+#abc-status[abpstate="disabled"],
+toolbar[iconsize="small"] #abc-toolbarbutton[abpstate="whitelisted"],
+#PersonalToolbar #abc-toolbarbutton[abpstate="whitelisted"],
+#header-view-toolbar > #abc-toolbarbutton[abpstate="whitelisted"],
+#abc-status[abpstate="whitelisted"] {
   -moz-image-region: rect(16px, 16px, 32px, 0px);
 }
 
-#abp-toolbarbutton[cui-areatype="menu-panel"],
-toolbarpaletteitem[place="palette"] > #abp-toolbarbutton
+#abc-toolbarbutton[cui-areatype="menu-panel"],
+toolbarpaletteitem[place="palette"] > #abc-toolbarbutton
 {
-  list-style-image: url("abp-status-32.png");
+  list-style-image: url("abc-status-32.png");
   -moz-image-region: rect(0px, 32px, 32px, 0px);
 }
 
-#abp-toolbarbutton[cui-areatype="menu-panel"][abpstate="disabled"],
-toolbarpaletteitem[place="palette"] > #abp-toolbarbutton[abpstate="disabled"],
-#abp-toolbarbutton[cui-areatype="menu-panel"][abpstate="whitelisted"],
-toolbarpaletteitem[place="palette"] > #abp-toolbarbutton[abpstate="whitelisted"]
+#abc-toolbarbutton[cui-areatype="menu-panel"][abpstate="disabled"],
+toolbarpaletteitem[place="palette"] > #abc-toolbarbutton[abpstate="disabled"],
+#abc-toolbarbutton[cui-areatype="menu-panel"][abpstate="whitelisted"],
+toolbarpaletteitem[place="palette"] > #abc-toolbarbutton[abpstate="whitelisted"]
 {
   -moz-image-region: rect(32px, 32px, 64px, 0px);
 }
 
-#abp-toolbar-popup {
+#abc-toolbar-popup {
   list-style-image: none;
   -moz-image-region: rect(0px, 0px, 0px, 0px);
 }
 
-toolbox[vertical="true"] toolbar #abp-toolbarbutton dropmarker {
+toolbox[vertical="true"] toolbar #abc-toolbarbutton dropmarker {
   display: none !important;
 }
 
@@ -70,86 +70,86 @@ menuitem[default="true"] {
   font-weight: bold;
 }
 
-#abp-toolbarbutton,
-#abp-site-info {
-  list-style-image: url("abp-status.png");
+#abc-toolbarbutton,
+#abc-site-info {
+  list-style-image: url("abc-status.png");
   -moz-image-region: rect(0px, 24px, 24px, 0px);
 }
-#abp-toolbarbutton[abpstate="disabled"],
-#abp-toolbarbutton[abpstate="whitelisted"],
-#abp-site-info[abpaction="enable"],
-#abp-site-info[abpaction="enable_site"] {
+#abc-toolbarbutton[abpstate="disabled"],
+#abc-toolbarbutton[abpstate="whitelisted"],
+#abc-site-info[abpaction="enable"],
+#abc-site-info[abpaction="enable_site"] {
   -moz-image-region: rect(24px, 24px, 48px, 0px);
 }
 
 /* Hack: force the label to be displayed below icon for type="menu" */
-#abp-toolbarbutton[type="menu"]:not([cui-areatype="menu-panel"])
+#abc-toolbarbutton[type="menu"]:not([cui-areatype="menu-panel"])
 {
   -moz-box-orient: horizontal;
 }
-toolbar[mode="full"] #abp-toolbarbutton[type="menu"]
+toolbar[mode="full"] #abc-toolbarbutton[type="menu"]
 {
   -moz-binding: url("chrome://global/content/bindings/toolbarbutton.xml#menu-vertical");
 }
 
 /* Thunderbird-specific toolbar icon styles */
-#header-view-toolbar > #abp-toolbarbutton
+#header-view-toolbar > #abc-toolbarbutton
 {
   -moz-appearance: dualbutton;
   padding: 0px !important;
 }
 
 /* Hide toolbar icon text in Thunderbird to save space */
-#header-view-toolbar > #abp-toolbarbutton .toolbarbutton-text
+#header-view-toolbar > #abc-toolbarbutton .toolbarbutton-text
 {
   display: none;
 }
 
 /* SeaMonkey expects the icon to be rather large, add margin */
-#mail-toolbox #abp-toolbarbutton .toolbarbutton-icon
+#mail-toolbox #abc-toolbarbutton .toolbarbutton-icon
 {
   margin-top: 5px;
 }
 
-#abp-status-image {
+#abc-status-image {
   margin-left: 10px;
   margin-right: 10px;
 }
 
-#abp-site-info .pageaction-image {
+#abc-site-info .pageaction-image {
   width: 32px;
   height: 32px;
   padding: 4px;
 }
 
-#abp-toolbarbutton > toolbarbutton {
+#abc-toolbarbutton > toolbarbutton {
   /* Argh, Songbird defines image region directly on the anonymous toolbarbutton element */
   -moz-image-region: inherit !important;
 }
 
-#abp-tooltip {
+#abc-tooltip {
   max-width: none;
 }
 
-#abp-tooltip label {
+#abc-tooltip label {
   font-weight: bold;
   margin-bottom: 0px;
 }
 
-#abp-tooltip description:not([hidden="true"])+label {
+#abc-tooltip description:not([hidden="true"])+label {
   margin-top: 10px;
 }
 
-#abp-bottombar-title {
+#abc-bottombar-title {
   padding-left: 4px;
 }
 
-#abp-bottombar-toolbar {
+#abc-bottombar-toolbar {
     display: -moz-box !important;
     visibility: visible !important;
 }
 
-#abp-bottombar-close {
+#abc-bottombar-close {
   padding: 4px 2px;
   border-style: none !important;
   -moz-user-focus: normal;
@@ -158,27 +158,27 @@ toolbar[mode="full"] #abp-toolbarbutton[type="menu"]
   -moz-image-region: rect(0px, 14px, 14px, 0px);
 }
 
-#abp-bottombar-close:hover {
+#abc-bottombar-close:hover {
   -moz-image-region: rect(0px, 28px, 14px, 14px);
 }
 
-#abp-bottombar-close:hover:active {
+#abc-bottombar-close:hover:active {
   -moz-image-region: rect(0px, 42px, 14px, 28px);
 }
 
-.abp-contributebutton
+.abc-contributebutton
 {
   margin-top: 20px;
 }
 
-.abp-contributebutton-btn
+.abc-contributebutton-btn
 {
   font: -moz-info;
   margin-left: 40px;
   margin-right: 40px;
 }
 
-.abp-contributebutton-close
+.abc-contributebutton-close
 {
   border-style: none !important;
   -moz-user-focus: normal;
@@ -194,34 +194,34 @@ toolbar[mode="full"] #abp-toolbarbutton[type="menu"]
   height: auto !important;
 }
 
-.abp-contributebutton-close:hover
+.abc-contributebutton-close:hover
 {
   -moz-image-region: rect(0px, 28px, 14px, 14px);
 }
 
-#abp-notification
+#abc-notification
 {
   width: 300px;
 }
 
-#abp-notification-question
+#abc-notification-question
 {
   display: none;
   white-space: nowrap;
 }
 
-.abp-question #abp-notification-question
+.abc-question #abc-notification-question
 {
   display: block;
 }
 
-#abp-notification html|a
+#abc-notification html|a
 {
   cursor: pointer;
   color: #0000f0;
 }
 
-#abp-notification html|a:hover
+#abc-notification html|a:hover
 {
   text-decoration: underline;
 }

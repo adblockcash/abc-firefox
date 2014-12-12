@@ -24,7 +24,7 @@
 
 <page
   xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"
-  id="abp-sidebar"
+  id="abc-sidebar"
   onload="init()"
   onunload="cleanUp()"
   docDomainThirdParty="&docDomain.thirdParty;"

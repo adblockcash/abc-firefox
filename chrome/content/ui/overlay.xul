@@ -31,104 +31,104 @@
     objtabtext="&objecttab.title;…" objtabtooltip="&objecttab.tooltip;"
     subscriptionDialogTitle="&dialog.title;"
     subscriptionDialogMessage="&title.label; ?1?&#10;&#10;&location.label; ?2?">
-  <popupset id="abp-popupset">
+  <popupset id="abc-popupset">
     <!-- Icon's tooltip -->
-    <tooltip id="abp-tooltip" orient="vertical">
-      <description id="abp-tooltip-action" hidden="true"/>
-      <label id="abp-tooltip-status-label" value="&status.tooltip;"/>
-      <description id="abp-tooltip-status"/>
-      <label id="abp-tooltip-blocked-label" value="&blocked.tooltip;" hidden="true"/>
-      <description id="abp-tooltip-blocked" hidden="true"/>
-      <label id="abp-tooltip-filters-label" value="&filters.tooltip;" hidden="true"/>
-      <vbox id="abp-tooltip-filters" hidden="true"/>
-      <description id="abp-tooltip-more-filters" value="…" hidden="true"/>
+    <tooltip id="abc-tooltip" orient="vertical">
+      <description id="abc-tooltip-action" hidden="true"/>
+      <label id="abc-tooltip-status-label" value="&status.tooltip;"/>
+      <description id="abc-tooltip-status"/>
+      <label id="abc-tooltip-blocked-label" value="&blocked.tooltip;" hidden="true"/>
+      <description id="abc-tooltip-blocked" hidden="true"/>
+      <label id="abc-tooltip-filters-label" value="&filters.tooltip;" hidden="true"/>
+      <vbox id="abc-tooltip-filters" hidden="true"/>
+      <description id="abc-tooltip-more-filters" value="…" hidden="true"/>
     </tooltip>
   </popupset>
 
   <!-- Icon's context menu -->
-  <menupopup id="abp-status-popup" context="">
-    <menuitem id="abp-status-sendReport" label="&sendReport.label;…" key="abp-key-sendReport" command="abp-command-sendReport"/>
-    <menuitem id="abp-status-openbottombar" label="&opensidebar.label;" key="abp-key-sidebar" command="abp-command-sidebar"/>
-    <menuitem id="abp-status-closebottombar" label="&closesidebar.label;" key="abp-key-sidebar" command="abp-command-sidebar"/>
-    <menuitem id="abp-status-filters" label="&filters.label;…" key="abp-key-filters" command="abp-command-filters"/>
-    <menuseparator id="abp-status-whitelist-sep"/>
-    <menuitem id="abp-status-whitelistsite" labeltempl="&whitelist.site.label;" type="checkbox" command="abp-command-togglesitewhitelist"/>
-    <menuitem id="abp-status-whitelistpage" label="&whitelist.page.label;" type="checkbox" command="abp-command-togglepagewhitelist"/>
-    <menuitem id="abp-status-disabled" label="&disable.label;" type="checkbox" key="abp-key-enable" command="abp-command-enable"/>
+  <menupopup id="abc-status-popup" context="">
+    <menuitem id="abc-status-sendReport" label="&sendReport.label;…" key="abc-key-sendReport" command="abc-command-sendReport"/>
+    <menuitem id="abc-status-openbottombar" label="&opensidebar.label;" key="abc-key-sidebar" command="abc-command-sidebar"/>
+    <menuitem id="abc-status-closebottombar" label="&closesidebar.label;" key="abc-key-sidebar" command="abc-command-sidebar"/>
+    <menuitem id="abc-status-filters" label="&filters.label;…" key="abc-key-filters" command="abc-command-filters"/>
+    <menuseparator id="abc-status-whitelist-sep"/>
+    <menuitem id="abc-status-whitelistsite" labeltempl="&whitelist.site.label;" type="checkbox" command="abc-command-togglesitewhitelist"/>
+    <menuitem id="abc-status-whitelistpage" label="&whitelist.page.label;" type="checkbox" command="abc-command-togglepagewhitelist"/>
+    <menuitem id="abc-status-disabled" label="&disable.label;" type="checkbox" key="abc-key-enable" command="abc-command-enable"/>
     <menuseparator/>
-    <menu id="abp-status-options" label="&options.label;">
-      <menupopup id="abp-status-options-popup">
-        <menuitem id="abp-status-frameobjects" label="&objecttabs.label;" type="checkbox" command="abp-command-toggleobjtabs"/>
-        <menuitem id="abp-status-slowcollapse" label="&hideplaceholders.label;" type="checkbox" command="abp-command-togglecollapse"/>
-        <menuitem id="abp-status-savestats" label="&counthits.label;" type="checkbox" command="abp-command-togglesavestats"/>
-        <menuitem id="abp-status-sync" label="&sync.label;" type="checkbox" command="abp-command-togglesync"/>
-        <menuseparator id="abp-status-iconSettingsSeparator"/>
-        <menuitem id="abp-status-showintoolbar" label="&showintoolbar.label;" type="checkbox" command="abp-command-toggleshowintoolbar"/>
-        <menuitem id="abp-status-showinstatusbar" label="&showinstatusbar.label;" type="checkbox" command="abp-command-toggleshowinstatusbar"/>
+    <menu id="abc-status-options" label="&options.label;">
+      <menupopup id="abc-status-options-popup">
+        <menuitem id="abc-status-frameobjects" label="&objecttabs.label;" type="checkbox" command="abc-command-toggleobjtabs"/>
+        <menuitem id="abc-status-slowcollapse" label="&hideplaceholders.label;" type="checkbox" command="abc-command-togglecollapse"/>
+        <menuitem id="abc-status-savestats" label="&counthits.label;" type="checkbox" command="abc-command-togglesavestats"/>
+        <menuitem id="abc-status-sync" label="&sync.label;" type="checkbox" command="abc-command-togglesync"/>
+        <menuseparator id="abc-status-iconSettingsSeparator"/>
+        <menuitem id="abc-status-showintoolbar" label="&showintoolbar.label;" type="checkbox" command="abc-command-toggleshowintoolbar"/>
+        <menuitem id="abc-status-showinstatusbar" label="&showinstatusbar.label;" type="checkbox" command="abc-command-toggleshowinstatusbar"/>
       </menupopup>
     </menu>
 
-    <hbox class="abp-contributebutton" id="abp-status-contributebutton" pack="center" align="center">
+    <hbox class="abc-contributebutton" id="abc-status-contributebutton" pack="center" align="center">
       <!-- noautoclose attribute tells Australis menu that it shouldn't close when
            these are clicked, see https://bugzilla.mozilla.org/show_bug.cgi?id=940693 -->
-      <button class="abp-contributebutton-btn" label="&contribute.label;" command="abp-command-contribute" flex="1" noautoclose="true"/>
-      <toolbarbutton class="abp-contributebutton-close" command="abp-command-contribute-hide" noautoclose="true"/>
+      <button class="abc-contributebutton-btn" label="&contribute.label;" command="abc-command-contribute" flex="1" noautoclose="true"/>
+      <toolbarbutton class="abc-contributebutton-close" command="abc-command-contribute-hide" noautoclose="true"/>
     </hbox>
   </menupopup>
 
-  <keyset id="abp-keyset"/>
+  <keyset id="abc-keyset"/>
 
   <!-- Dummy oncommand attributes are work-arounds for bug 371900 -->
-  <commandset id="abp-commandset">
-    <command id="abp-command-sendReport" oncommand="//"/>
-    <command id="abp-command-filters" oncommand="//"/>
-    <command id="abp-command-settings" oncommand="//"/>
-    <command id="abp-command-sidebar" oncommand="//"/>
-    <command id="abp-command-togglesitewhitelist"/>
-    <command id="abp-command-togglepagewhitelist"/>
-    <command id="abp-command-toggleobjtabs"/>
-    <command id="abp-command-togglecollapse"/>
-    <command id="abp-command-togglesavestats"/>
-    <command id="abp-command-togglesync"/>
-    <command id="abp-command-toggleshowintoolbar"/>
-    <command id="abp-command-toggleshowinstatusbar"/>
-    <command id="abp-command-enable" oncommand="//"/>
-    <command id="abp-command-contribute"/>
-    <command id="abp-command-contribute-hide"/>
+  <commandset id="abc-commandset">
+    <command id="abc-command-sendReport" oncommand="//"/>
+    <command id="abc-command-filters" oncommand="//"/>
+    <command id="abc-command-settings" oncommand="//"/>
+    <command id="abc-command-sidebar" oncommand="//"/>
+    <command id="abc-command-togglesitewhitelist"/>
+    <command id="abc-command-togglepagewhitelist"/>
+    <command id="abc-command-toggleobjtabs"/>
+    <command id="abc-command-togglecollapse"/>
+    <command id="abc-command-togglesavestats"/>
+    <command id="abc-command-togglesync"/>
+    <command id="abc-command-toggleshowintoolbar"/>
+    <command id="abc-command-toggleshowinstatusbar"/>
+    <command id="abc-command-enable" oncommand="//"/>
+    <command id="abc-command-contribute"/>
+    <command id="abc-command-contribute-hide"/>
   </commandset>
 
-  <statusbarpanel id="abp-status" class="statusbarpanel-iconic"
-      tooltip="abp-tooltip"/>
+  <statusbarpanel id="abc-status" class="statusbarpanel-iconic"
+      tooltip="abc-tooltip"/>
 
-  <toolbarbutton id="abp-toolbarbutton" class="toolbarbutton-1" label="&toolbarbutton.label;"
-      tooltip="abp-tooltip"/>
+  <toolbarbutton id="abc-toolbarbutton" class="toolbarbutton-1" label="&toolbarbutton.label;"
+      tooltip="abc-tooltip"/>
 
   <!-- Tools menu -->
-  <menu id="abp-menuitem" label="&toolbarbutton.label;"/>
+  <menu id="abc-menuitem" label="&toolbarbutton.label;"/>
 
   <!-- Bottom bar -->
-  <hbox id="abp-bottombar-container">
-    <splitter id="abp-bottombar-splitter"/>
-    <vbox id="abp-bottombar">
-      <toolbox id="abp-bottombar-header">
-        <toolbar id="abp-bottombar-toolbar" align="center" grippyhidden="true" fullscreentoolbar="true">
-          <label id="abp-bottombar-title" control="abp-bottombar-browser" value="&sidebar.title;" flex="1" crop="end"/>
-          <toolbarbutton id="abp-bottombar-close" command="abp-command-sidebar" tooltiptext="&closesidebar.label;"/>
+  <hbox id="abc-bottombar-container">
+    <splitter id="abc-bottombar-splitter"/>
+    <vbox id="abc-bottombar">
+      <toolbox id="abc-bottombar-header">
+        <toolbar id="abc-bottombar-toolbar" align="center" grippyhidden="true" fullscreentoolbar="true">
+          <label id="abc-bottombar-title" control="abc-bottombar-browser" value="&sidebar.title;" flex="1" crop="end"/>
+          <toolbarbutton id="abc-bottombar-close" command="abc-command-sidebar" tooltiptext="&closesidebar.label;"/>
         </toolbar>
       </toolbox>
-      <iframe id="abp-bottombar-browser" src="chrome://adblockplus/content/ui/sidebar.xul" flex="1"/>
+      <iframe id="abc-bottombar-browser" src="chrome://adblockplus/content/ui/sidebar.xul" flex="1"/>
     </vbox>
   </hbox>
 
   <!-- Notification panel -->
-  <panel id="abp-notification" type="arrow" orient="vertical"
+  <panel id="abc-notification" type="arrow" orient="vertical"
     xmlns:html="http://www.w3.org/1999/xhtml">
-    <label id="abp-notification-title" class="header"/>
-    <html:p id="abp-notification-message"/>
-    <hbox id="abp-notification-question">
-      <button id="abp-notification-yes" label="&notification.button.yes;"/>
-      <button id="abp-notification-no" label="&notification.button.no;"/>
-      <toolbarbutton id="abp-notification-close" label="&notification.button.close;"></toolbarbutton>
+    <label id="abc-notification-title" class="header"/>
+    <html:p id="abc-notification-message"/>
+    <hbox id="abc-notification-question">
+      <button id="abc-notification-yes" label="&notification.button.yes;"/>
+      <button id="abc-notification-no" label="&notification.button.no;"/>
+      <toolbarbutton id="abc-notification-close" label="&notification.button.close;"></toolbarbutton>
     </hbox>
   </panel>
 </overlay>

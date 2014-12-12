@@ -1,6 +1,6 @@
 /*
  * This file is part of Adblock Cash <http://adblockcash.org/>,
- * (based on Adblock Plus <http://adblockplush.org/> by Eyeo GmbH)
+ * (based on Adblock Plus <http://adblockplus.org/> by Eyeo GmbH)
  * Copyright (C) Adblock Cash
  *
  * Adblock Cash is free software: you can redistribute it and/or modify
@@ -649,7 +649,7 @@ function saveState() {
 // closes the sidebar
 function doClose()
 {
-  mainWin.document.getElementById("abp-command-sidebar").doCommand();
+  mainWin.document.getElementById("abc-command-sidebar").doCommand();
 }
 
 // detaches/reattaches the sidebar
@@ -662,9 +662,9 @@ function detach(doDetach)
   let myMainWin = mainWin;
 
   // Close sidebar and open detached window
-  myMainWin.document.getElementById("abp-command-sidebar").doCommand();
+  myMainWin.document.getElementById("abc-command-sidebar").doCommand();
   myPrefs.detachsidebar = doDetach;
-  myMainWin.document.getElementById("abp-command-sidebar").doCommand();
+  myMainWin.document.getElementById("abc-command-sidebar").doCommand();
 }
 
 // Returns items size in the document if available
