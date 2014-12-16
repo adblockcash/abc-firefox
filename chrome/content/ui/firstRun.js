@@ -20,6 +20,7 @@
 
 (function()
 {
+
   // Load subscriptions for features
   var featureSubscriptions = [
     {
@@ -42,46 +43,46 @@
     }
   ];
 
-  function onDOMLoaded()
-  {
-    var locale = require("utils").Utils.appLocale;
-    document.documentElement.setAttribute("lang", locale);
+  // function onDOMLoaded()
+  // {
+  //   var locale = require("utils").Utils.appLocale;
+  //   document.documentElement.setAttribute("lang", locale);
 
-    // Set up URLs
-    var donateLink = E("donate");
-    donateLink.href = Utils.getDocLink("donate");
+  //   // Set up URLs
+  //   var donateLink = E("donate");
+  //   donateLink.href = Utils.getDocLink("donate");
 
-    var contributors = E("contributors");
-    contributors.href = Utils.getDocLink("contributors");
+  //   var contributors = E("contributors");
+  //   contributors.href = Utils.getDocLink("contributors");
 
-    setLinks("acceptableAdsExplanation", Utils.getDocLink("acceptable_ads_criteria"), openFilters);
-    setLinks("share-headline", Utils.getDocLink("contribute"));
+  //   setLinks("acceptableAdsExplanation", Utils.getDocLink("acceptable_ads_criteria"), openFilters);
+  //   setLinks("share-headline", Utils.getDocLink("contribute"));
 
-    if (typeof backgroundPage != "undefined")
-    {
-      // Show warning if data corruption was detected
-      if (backgroundPage.seenDataCorruption)
-      {
-        E("dataCorruptionWarning").removeAttribute("hidden");
-        setLinks("dataCorruptionWarning", Utils.getDocLink("knownIssuesChrome_filterstorage"));
-      }
+  //   if (typeof backgroundPage != "undefined")
+  //   {
+  //     // Show warning if data corruption was detected
+  //     if (backgroundPage.seenDataCorruption)
+  //     {
+  //       E("dataCorruptionWarning").removeAttribute("hidden");
+  //       setLinks("dataCorruptionWarning", Utils.getDocLink("knownIssuesChrome_filterstorage"));
+  //     }
 
-      // Show warning if filterlists settings were reinitialized
-      if (backgroundPage.filterlistsReinitialized)
-      {
-        E("filterlistsReinitializedWarning").removeAttribute("hidden");
-        setLinks("filterlistsReinitializedWarning", openFilters);
-      }
-    }
+  //     // Show warning if filterlists settings were reinitialized
+  //     if (backgroundPage.filterlistsReinitialized)
+  //     {
+  //       E("filterlistsReinitializedWarning").removeAttribute("hidden");
+  //       setLinks("filterlistsReinitializedWarning", openFilters);
+  //     }
+  //   }
 
-    // Show warning if Safari version isn't supported
-    var info = require("info");
-    if (info.platform == "safari" && (
-      Services.vc.compare(info.platformVersion, "6.0")  < 0 ||  // beforeload breaks websites in Safari 5
-      Services.vc.compare(info.platformVersion, "6.1") == 0 ||  // extensions are broken in 6.1 and 7.0
-      Services.vc.compare(info.platformVersion, "7.0") == 0
-    ))
-      E("legacySafariWarning").removeAttribute("hidden");
+  //   // Show warning if Safari version isn't supported
+  //   var info = require("info");
+  //   if (info.platform == "safari" && (
+  //     Services.vc.compare(info.platformVersion, "6.0")  < 0 ||  // beforeload breaks websites in Safari 5
+  //     Services.vc.compare(info.platformVersion, "6.1") == 0 ||  // extensions are broken in 6.1 and 7.0
+  //     Services.vc.compare(info.platformVersion, "7.0") == 0
+  //   ))
+  //     E("legacySafariWarning").removeAttribute("hidden");
 
     // Set up feature buttons linked to subscriptions
     featureSubscriptions.forEach(setToggleSubscriptionButton);
@@ -102,8 +103,8 @@
       FilterNotifier.removeListener(filterListener);
     }, false);
 
-    initSocialLinks();
-  }
+  //   initSocialLinks();
+  // }
 
   function isSubscriptionEnabled(featureSubscription)
   {
@@ -134,120 +135,132 @@
     }, false);
   }
 
-  function openSharePopup(url)
-  {
-    var iframe = E("share-popup");
-    var glassPane = E("glass-pane");
-    var popupMessageReceived = false;
+  // function openSharePopup(url)
+  // {
+  //   var iframe = E("share-popup");
+  //   var glassPane = E("glass-pane");
+  //   var popupMessageReceived = false;
 
-    var popupMessageListener = function(event)
-    {
-      var originFilter = Filter.fromText("||adblockplus.org^");
-      if (!originFilter.matches(event.origin, "OTHER", null, null))
-        return;
+  //   var popupMessageListener = function(event)
+  //   {
+  //     var originFilter = Filter.fromText("||adblockplus.org^");
+  //     if (!originFilter.matches(event.origin, "OTHER", null, null))
+  //       return;
 
-      var width = event.data.width;
-      var height = event.data.height;
-      iframe.width = width;
-      iframe.height = height;
-      iframe.style.marginTop = -height/2 + "px";
-      iframe.style.marginLeft = -width/2 + "px";
-      popupMessageReceived = true;
-      window.removeEventListener("message", popupMessageListener);
-    };
-    // Firefox requires last parameter to be true to be triggered by unprivileged pages
-    window.addEventListener("message", popupMessageListener, false, true);
+  //     var width = event.data.width;
+  //     var height = event.data.height;
+  //     iframe.width = width;
+  //     iframe.height = height;
+  //     iframe.style.marginTop = -height/2 + "px";
+  //     iframe.style.marginLeft = -width/2 + "px";
+  //     popupMessageReceived = true;
+  //     window.removeEventListener("message", popupMessageListener);
+  //   };
+  //   // Firefox requires last parameter to be true to be triggered by unprivileged pages
+  //   window.addEventListener("message", popupMessageListener, false, true);
 
-    var popupLoadListener = function()
-    {
-      if (popupMessageReceived)
-      {
-        iframe.className = "visible";
+  //   var popupLoadListener = function()
+  //   {
+  //     if (popupMessageReceived)
+  //     {
+  //       iframe.className = "visible";
 
-        var popupCloseListener = function()
-        {
-          iframe.className = glassPane.className = "";
-          document.removeEventListener("click", popupCloseListener);
-        };
-        document.addEventListener("click", popupCloseListener, false);
-      }
-      else
-      {
-        glassPane.className = "";
-        window.removeEventListener("message", popupMessageListener);
-      }
+  //       var popupCloseListener = function()
+  //       {
+  //         iframe.className = glassPane.className = "";
+  //         document.removeEventListener("click", popupCloseListener);
+  //       };
+  //       document.addEventListener("click", popupCloseListener, false);
+  //     }
+  //     else
+  //     {
+  //       glassPane.className = "";
+  //       window.removeEventListener("message", popupMessageListener);
+  //     }
 
-      iframe.removeEventListener("load", popupLoadListener);
-    };
-    iframe.addEventListener("load", popupLoadListener, false);
+  //     iframe.removeEventListener("load", popupLoadListener);
+  //   };
+  //   iframe.addEventListener("load", popupLoadListener, false);
 
-    iframe.src = url;
-    glassPane.className = "visible";
-  }
+  //   iframe.src = url;
+  //   glassPane.className = "visible";
+  // }
 
-  function initSocialLinks()
-  {
-    var networks = ["twitter", "facebook", "gplus"];
-    networks.forEach(function(network)
-    {
-      var link = E("share-" + network);
-      link.addEventListener("click", onSocialLinkClick, false);
+  // function initSocialLinks()
+  // {
+  //   var networks = ["twitter", "facebook", "gplus"];
+  //   networks.forEach(function(network)
+  //   {
+  //     var link = E("share-" + network);
+  //     link.addEventListener("click", onSocialLinkClick, false);
+  //   });
+  // }
+
+  // function onSocialLinkClick(event)
+  // {
+  //   // Don't open the share page if the sharing script would be blocked
+  //   var filter = defaultMatcher.matchesAny(event.target.getAttribute("data-script"), "SCRIPT", "adblockplus.org", true);
+  //   if (!(filter instanceof BlockingFilter))
+  //   {
+  //     event.preventDefault();
+  //     openSharePopup(Utils.getDocLink(event.target.id));
+  //   }
+  // }
+
+  // function setLinks(id)
+  // {
+  //   var element = E(id);
+  //   if (!element)
+  //   {
+  //     return;
+  //   }
+
+  //   var links = element.getElementsByTagName("a");
+
+  //   for (var i = 0; i < links.length; i++)
+  //   {
+  //     if (typeof arguments[i + 1] == "string")
+  //     {
+  //       links[i].href = arguments[i + 1];
+  //       links[i].setAttribute("target", "_blank");
+  //     }
+  //     else if (typeof arguments[i + 1] == "function")
+  //     {
+  //       links[i].href = "javascript:void(0);";
+  //       links[i].addEventListener("click", arguments[i + 1], false);
+  //     }
+  //   }
+  // }
+
+  // function openFilters()
+  // {
+  //   if (typeof UI != "undefined")
+  //     UI.openFiltersDialog();
+  //   else
+  //   {
+  //     backgroundPage.openOptions();
+  //   }
+  // }
+
+  // function updateToggleButton(feature, isEnabled)
+  // {
+  //   var button = E("toggle-" + feature);
+  //   if (isEnabled)
+  //     button.classList.remove("off");
+  //   else
+  //     button.classList.add("off");
+  // }
+
+  function onDOMLoaded() {
+    // switchery.js
+    var switchElements = Array.prototype.slice.call(document.querySelectorAll('.js-switch'));
+    switchElements.forEach(function(html) {
+      var switchery = new Switchery(html, {
+        'className': 'switchery switchery-small',
+        // $main-color from styles/_vars.scss
+        'color' : '#354b80'
+      });
     });
-  }
-
-  function onSocialLinkClick(event)
-  {
-    // Don't open the share page if the sharing script would be blocked
-    var filter = defaultMatcher.matchesAny(event.target.getAttribute("data-script"), "SCRIPT", "adblockplus.org", true);
-    if (!(filter instanceof BlockingFilter))
-    {
-      event.preventDefault();
-      openSharePopup(Utils.getDocLink(event.target.id));
-    }
-  }
-
-  function setLinks(id)
-  {
-    var element = E(id);
-    if (!element)
-    {
-      return;
-    }
-
-    var links = element.getElementsByTagName("a");
-
-    for (var i = 0; i < links.length; i++)
-    {
-      if (typeof arguments[i + 1] == "string")
-      {
-        links[i].href = arguments[i + 1];
-        links[i].setAttribute("target", "_blank");
-      }
-      else if (typeof arguments[i + 1] == "function")
-      {
-        links[i].href = "javascript:void(0);";
-        links[i].addEventListener("click", arguments[i + 1], false);
-      }
-    }
-  }
-
-  function openFilters()
-  {
-    if (typeof UI != "undefined")
-      UI.openFiltersDialog();
-    else
-    {
-      backgroundPage.openOptions();
-    }
-  }
-
-  function updateToggleButton(feature, isEnabled)
-  {
-    var button = E("toggle-" + feature);
-    if (isEnabled)
-      button.classList.remove("off");
-    else
-      button.classList.add("off");
   }
 
   document.addEventListener("DOMContentLoaded", onDOMLoaded, false);
