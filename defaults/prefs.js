@@ -35,4 +35,6 @@ pref("extensions.adblockplus.blockableItemsSize", {width: 200, height: 200});
 pref("extensions.adblockplus.notificationurl", "https://notification.adblockplus.org/notification.json");
 pref("extensions.adblockplus.notificationdata", {});
 pref("extensions.adblockplus.subscriptions_antiadblockurl", "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt");
+pref("extensions.adblockplus.subscriptions_tracking_title", "EasyPrivacy");
+pref("extensions.adblockplus.subscriptions_tracking_url", "https://easylist-downloads.adblockplus.org/easyprivacy.txt");
 pref("extensions.adblockplus.please_kill_startup_performance", false);
