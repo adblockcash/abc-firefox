@@ -894,7 +894,6 @@ let issuesDataSource =
   subscriptionFilter: function(s)
   {
     if (s instanceof DownloadableSubscription &&
-        s.url != Prefs.subscriptions_exceptionsurl &&
         s.url != Prefs.subscriptions_antiadblockurl)
     {
       return subscriptionsDataSource.subscriptionFilter(s);

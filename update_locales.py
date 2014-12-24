@@ -94,8 +94,8 @@ if __name__ == '__main__':
     'subscriptionSelection.dtd external.description',
     'subscriptionSelection.dtd autodownload.label',
     'subscriptionSelection.dtd autodownload.accesskey',
-    'firstRun.dtd acceptableAds',
-    'filters.dtd acceptableAds.label',
+    'firstRun.dtd',
+    'filters.dtd',
     'composer.dtd groupDisabled.warning',
   ]
   rename = {
