@@ -24,12 +24,16 @@ var AdblockCash = require("adblockcash").AdblockCash;
 {
   function onDOMLoaded() {
     document.querySelector(".js-login-with-facebook").addEventListener("click", function(){
-      AdblockCash.loginWithProvider(window, "facebook");
+      AdblockCash.loginWithProvider(window, "facebook").then(goToOptions);
     });
 
     document.querySelector(".js-login-with-google").addEventListener("click", function(){
-      AdblockCash.loginWithProvider(window, "google");
+      AdblockCash.loginWithProvider(window, "google").then(goToOptions);
     });
+  }
+
+  function goToOptions() {
+    window.location.href = window.location.href.replace("firstRun.html", "options.html");
   }
 
   document.addEventListener("DOMContentLoaded", onDOMLoaded, false);
