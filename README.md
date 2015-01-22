@@ -8,6 +8,7 @@ Building
 
 - [Python 2.x](https://www.python.org)
 - [The Jinja2 module](http://jinja.pocoo.org/docs)
+- `pip install glob2`
 
 ### Building the extension
 
