@@ -20,6 +20,8 @@
 
 var AdblockCash = require("adblockcash").AdblockCash;
 
+AdblockCash.setupErrorReporting(window, document);
+
 (function()
 {
   function onDOMLoaded() {
