@@ -90,7 +90,7 @@
       let {Services} = Components.utils.import("resource://gre/modules/Services.jsm");
       let result = {};
       result.wrappedJSObject = result;
-      Services.obs.notifyObservers(result, "adblockplus-require", module);
+      Services.obs.notifyObservers(result, "adblockcash-require", module);
       return result.exports;
     }
 

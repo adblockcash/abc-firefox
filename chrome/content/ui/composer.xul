@@ -17,10 +17,10 @@
   - along with Adblock Cash.  If not, see <http://www.gnu.org/licenses/>.
   -->
 
-<!DOCTYPE overlay SYSTEM "chrome://adblockplus/locale/composer.dtd">
+<!DOCTYPE overlay SYSTEM "chrome://adblockcash/locale/composer.dtd">
 
 <?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
-<?xml-stylesheet href="chrome://adblockplus/skin/composer.css" type="text/css"?>
+<?xml-stylesheet href="chrome://adblockcash/skin/composer.css" type="text/css"?>
 
 <dialog id="abc-composer"
     xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul"

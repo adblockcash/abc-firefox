@@ -1,4 +1,4 @@
-// For description of these values see http://adblockplus.org/en/preferences
+// For description of these values see http://adblockcash.org/en/preferences
 
 pref("extensions.adblockcash.currentVersion", "0.0");
 pref("extensions.adblockcash.enabled", true);
@@ -22,7 +22,7 @@ pref("extensions.adblockcash.subscriptions_autoupdate", true);
 pref("extensions.adblockcash.subscriptions_listurl", "https://adblockplus.org/subscriptions2.xml");
 pref("extensions.adblockcash.subscriptions_fallbackurl", "https://adblockplus.org/getSubscription?version=%VERSION%&url=%SUBSCRIPTION%&downloadURL=%URL%&error=%ERROR%&channelStatus=%CHANNELSTATUS%&responseStatus=%RESPONSESTATUS%");
 pref("extensions.adblockcash.subscriptions_fallbackerrors", 5);
-pref("extensions.adblockcash.documentation_link", "https://adblockcash.org/redirect?link=%LINK%&lang=%LANG%");
+pref("extensions.adblockcash.documentation_link", "https://adblockplus.org/redirect?link=%LINK%&lang=%LANG%");
 pref("extensions.adblockcash.savestats", true);
 pref("extensions.adblockcash.composer_default", 2);
 pref("extensions.adblockcash.clearStatsOnHistoryPurge", true);

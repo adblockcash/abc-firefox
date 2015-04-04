@@ -20,7 +20,7 @@
  * @fileOverview Public Adblock Cash API.
  */
 
-var EXPORTED_SYMBOLS = ["AdblockPlus"];
+var EXPORTED_SYMBOLS = ["adblockcash"];
 
 const Cc = Components.classes;
 const Ci = Components.interfaces;
@@ -33,7 +33,7 @@ function require(module)
 {
   let result = {};
   result.wrappedJSObject = result;
-  Services.obs.notifyObservers(result, "adblockplus-require", module);
+  Services.obs.notifyObservers(result, "adblockcash-require", module);
   return result.exports;
 }
 
@@ -47,7 +47,7 @@ const externalPrefix = "~external~";
  * Class implementing public Adblock Cash API
  * @class
  */
-var AdblockPlus =
+var adblockcash =
 {
   /**
    * Returns current subscription count
@@ -61,7 +61,7 @@ var AdblockPlus =
   /**
    * Gets a subscription by its URL
    */
-  getSubscription: function(/**String*/ id) /**IAdblockPlusSubscription*/
+  getSubscription: function(/**String*/ id) /**IadblockcashSubscription*/
   {
     if (id in FilterStorage.knownSubscriptions)
       return createSubscriptionWrapper(FilterStorage.knownSubscriptions[id]);
@@ -72,7 +72,7 @@ var AdblockPlus =
   /**
    * Gets a subscription by its position in the list
    */
-  getSubscriptionAt: function(/**Integer*/ index) /**IAdblockPlusSubscription*/
+  getSubscriptionAt: function(/**Integer*/ index) /**IadblockcashSubscription*/
   {
     if (index < 0 || index >= FilterStorage.subscriptions.length)
       return null;
@@ -173,9 +173,9 @@ var AdblockPlus =
 };
 
 /**
- * Wraps a subscription into IAdblockPlusSubscription structure.
+ * Wraps a subscription into IadblockcashSubscription structure.
  */
-function createSubscriptionWrapper(/**Subscription*/ subscription) /**IAdblockPlusSubscription*/
+function createSubscriptionWrapper(/**Subscription*/ subscription) /**IadblockcashSubscription*/
 {
   if (!subscription)
     return null;

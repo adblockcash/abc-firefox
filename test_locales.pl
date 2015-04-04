@@ -22,7 +22,7 @@ use lib qw(buildtools);
 $0 =~ s/(.*[\\\/])//g;
 chdir($1) if $1;
 
-system("hg", "clone", "https://hg.adblockplus.org/buildtools/") unless -e "buildtools";
+# system("hg", "clone", "https://github.com/adblockcash/abc-buildtools/") unless -e "buildtools";
 
 require LocaleTester;
 

@@ -16,7 +16,7 @@ Run the following in the project directory:
 
     ./build.py build
 
-This will create a build with a name in the form _adblockplus-1.2.3.nnnn.xpi_.
+This will create a build with a name in the form _adblockcash-1.2.3.nnnn.xpi_.
 This file will contain the source code currently in the repository and all
 available locales.
 
@@ -35,9 +35,7 @@ Running the unit tests
 ----------------------
 
 To verify your changes you can use the existing
-[unit test suite](https://hg.adblockplus.org/adblockplustests). The unit tests
+[unit test suite](https://github.com/adblockcash/abc-adblocktests). The unit tests
 are a separate extension that is installed in addition to Adblock Cash. You can
-either install the
-[existing unit test builds](https://adblockplus.org/devbuilds/adblockplustests)
-or clone the repository and create your own build. After installing the unit
-tests go to _chrome://adblockplustests/content/index.html_ to run the tests.
+clone the repository and create your own build. After installing the unit
+tests go to _chrome://adblockcashtests/content/index.html_ to run the tests.

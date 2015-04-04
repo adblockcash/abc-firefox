@@ -22,7 +22,7 @@ if (typeof ext != "undefined")
   i18n = ext.i18n;
 else if (typeof chrome != "undefined")
   // TODO: This check only exist for backwards compatibility, while the Safari
-  // port isn't merged into the adblockpluschrome repo. So this branch should
+  // port isn't merged into the adblockcashchrome repo. So this branch should
   // be removed when the Safari port was merged.
   i18n = chrome.i18n;
 else
@@ -31,7 +31,7 @@ else
 
   // Randomize URI to work around bug 719376
   var pageName = location.pathname.replace(/.*\//, '').replace(/\..*?$/, '');
-  var stringBundle = Services.strings.createBundle("chrome://adblockplus/locale/" + pageName +
+  var stringBundle = Services.strings.createBundle("chrome://adblockcash/locale/" + pageName +
     ".properties?" + Math.random());
 
   function getI18nMessage(key)

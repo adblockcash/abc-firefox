@@ -30,7 +30,7 @@ function require(/**String*/ module)
 {
   var result = {};
   result.wrappedJSObject = result;
-  Services.obs.notifyObservers(result, "adblockplus-require", module);
+  Services.obs.notifyObservers(result, "adblockcash-require", module);
   return result.exports;
 }
 

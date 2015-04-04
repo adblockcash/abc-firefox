@@ -2,7 +2,7 @@
 <!ENTITY blocked.tooltip        "Blocked items on this page:">
 <!ENTITY filters.tooltip        "Most active filters:">
 
-<!ENTITY menuitem.label         "Ad&amp;block Plus Preferences">
+<!ENTITY menuitem.label         "Adblock Plus Preferences">
 <!ENTITY toolbarbutton.label    "Adblock Cash">
 
 <!ENTITY context.image.label    "Adblock Cash: Block image">
@@ -13,28 +13,28 @@
 
 <!ENTITY sidebar.title          "Blockable items on current page">
 
-<!ENTITY sendReport.label       "&amp;Report issue on this page">
-<!ENTITY filters.label          "&amp;Filter preferences">
-<!ENTITY opensidebar.label      "Open &amp;blockable items">
+<!ENTITY sendReport.label       "Report issue on this page">
+<!ENTITY filters.label          "Filter preferences">
+<!ENTITY opensidebar.label      "Open blockable items">
 <!-- Note: This access key should usually be the same as closesidebar.accesskey. It is the same menu item with different label depending on whether the sidebar is currently open.-->
-<!ENTITY closesidebar.label     "Close &amp;blockable items">
+<!ENTITY closesidebar.label     "Close blockable items">
 <!-- Note: This access key should usually be the same as opensidebar.accesskey. It is the same menu item with different label depending on whether the sidebar is currently open.-->
 <!-- Note: the placeholder ?1? will be replaced by the domain name of the current page -->
 <!ENTITY whitelist.site.label   "Disable on ?1?">
 <!ENTITY whitelist.page.label   "Disable on this page only">
 <!ENTITY disable.label          "Disable everywhere">
-<!ENTITY options.label          "&amp;Options">
+<!ENTITY options.label          "Options">
 <!ENTITY contribute.label       "Contribute to Adblock Cash">
 
-<!ENTITY showintoolbar.label        "Show in tool&amp;bar">
-<!ENTITY showinstatusbar.label      "&amp;Show in status bar">
-<!ENTITY objecttabs.label           "Show &amp;tabs on Flash and Java">
-<!ENTITY hideplaceholders.label     "Hide p&amp;laceholders of blocked elements">
-<!ENTITY counthits.label            "Count filter &amp;hits">
-<!ENTITY sync.label                 "Syn&amp;c Adblock Cash settings">
+<!ENTITY showintoolbar.label        "Show in toolbar">
+<!ENTITY showinstatusbar.label      "Show in status bar">
+<!ENTITY objecttabs.label           "Show tabs on Flash and Java">
+<!ENTITY hideplaceholders.label     "Hide placeholders of blocked elements">
+<!ENTITY counthits.label            "Count filter hits">
+<!ENTITY sync.label                 "Sync Adblock Cash settings">
 <!ENTITY objecttab.title        "Block">
 <!ENTITY objecttab.tooltip      "Click here to block this object with Adblock Cash">
 
-<!ENTITY notification.button.yes       "&amp;Yes">
-<!ENTITY notification.button.no        "&amp;No">
-<!ENTITY notification.button.close     "&amp;Close">
+<!ENTITY notification.button.yes       "Yes">
+<!ENTITY notification.button.no        "No">
+<!ENTITY notification.button.close     "Close">

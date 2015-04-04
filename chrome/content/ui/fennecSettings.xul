@@ -18,19 +18,19 @@
   -->
 
 <!DOCTYPE vbox [
-<!ENTITY % overlayDTD SYSTEM "chrome://adblockplus/locale/overlay.dtd">
+<!ENTITY % overlayDTD SYSTEM "chrome://adblockcash/locale/overlay.dtd">
 %overlayDTD;
-<!ENTITY % filtersDTD SYSTEM "chrome://adblockplus/locale/filters.dtd">
+<!ENTITY % filtersDTD SYSTEM "chrome://adblockcash/locale/filters.dtd">
 %filtersDTD;
 ]>
 
 <vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <setting pref="extensions.adblockcash.enabled" type="bool" inverted="true" title="&disable.label;"/>
   <setting type="control" title="&subscriptions.tab.label;">
-    <menulist id="adblockplus-subscription-list"/>
+    <menulist id="adblockcash-subscription-list"/>
   </setting>
   <setting pref="extensions.adblockcash.fastcollapse" type="bool" title="&hideplaceholders.label;"
            inverted="true"/>
-  <setting id="adblockplus-sync" type="bool" title="&sync.label;"
+  <setting id="adblockcash-sync" type="bool" title="&sync.label;"
     oncommand="/**See bug 762015*/ if (event.type == 'oncommand') {event = document.createEvent('Events'); event.initEvent('command', false, false); this.dispatchEvent(event);}"/>
 </vbox>

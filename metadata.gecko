@@ -1,9 +1,9 @@
 [general]
 id={d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}
-basename=adblockplus
+basename=adblockcash
 version=2.6.6
-author=Wladimir Palant
-options=chrome://adblockplus/content/ui/settings.xul
+author=Thomas Henderson
+options=chrome://adblockcash/content/ui/settings.xul
 optionsType=2
 
 [contributors]
@@ -16,17 +16,7 @@ optionsType=2
 additional=chrome/content/ui/subscriptions.xml //subscription/@author
 
 [homepage]
-default=http://adblockplus.org/
-ar=http://adblockplus.org/ar/
-de=http://adblockplus.org/de/
-en=http://adblockplus.org/en/
-es=http://adblockplus.org/es/
-fr=http://adblockplus.org/fr/
-he=http://adblockplus.org/he/
-ko=http://adblockplus.org/ko/
-ru=http://adblockplus.org/ru/
-zh-CN=https://adblockplus.org/zh_CN/
-zh-TW=https://adblockplus.org/zh_TW/
+default=http://adblockcash.org/
 
 [compat]
 firefox=22.0/37.0
