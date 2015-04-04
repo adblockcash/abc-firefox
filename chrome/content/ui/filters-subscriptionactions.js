@@ -507,7 +507,7 @@ var SelectSubscription =
 
     // Load data
     let request = new XMLHttpRequest();
-    request.open("GET", "subscriptions.xml");
+    request.open("GET", "shared/data/subscriptions.xml");
     request.onload = function()
     {
       // Avoid race condition if two downloads are started in parallel
