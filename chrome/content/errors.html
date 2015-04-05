@@ -36,13 +36,13 @@
   <script type="application/x-javascript;version=1.7">
     let id = null;
     try {
-      let {addonVersion, addonID} = require("info");
+      let {addon} = require("info");
 
-      let text = "You are running Adblock Cash " + addonVersion;
+      let text = "You are running Adblock Cash " + addon.version;
       text += ".";
       document.write("<p>" + text + "</p>");
 
-      id = addonID.replace(/[\{\}]/g, "");
+      id = addon.id.replace(/[\{\}]/g, "");
     } catch (e) {}
 
     // See https://bugzilla.mozilla.org/show_bug.cgi?id=664695 - starting with

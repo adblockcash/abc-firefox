@@ -40,7 +40,7 @@ var flasher = {
       try
       {
         let topWnd = Utils.getChromeWindow(wnd);
-        let {getBrowser} = require("appSupport");
+        let {getBrowser} = require("./appSupport");
         let browser = (getBrowser ? getBrowser(topWnd) : null);
         if (browser)
           browser.markupDocumentViewer.scrollToNode(nodes[0]);

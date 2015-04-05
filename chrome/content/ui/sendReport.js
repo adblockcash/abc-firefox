@@ -73,8 +73,8 @@ function serializeReportData()
 
 let (element = reportElement("adblock-plus"))
 {
-  let {addonVersion} = require("info");
-  element.setAttribute("version", addonVersion);
+  let {addon} = require("./info");
+  element.setAttribute("version", addon.version);
   element.setAttribute("locale", Utils.appLocale);
 };
 let (element = reportElement("application"))
@@ -617,7 +617,7 @@ let errorsDataSource =
 {
   collectData: function(wnd, windowURI, callback)
   {
-    let {addonID} = require("info");
+    let addonID = require("./info").addon.id;
     addonID = addonID.replace(/[\{\}]/g, "");
 
     // See https://bugzilla.mozilla.org/show_bug.cgi?id=664695 - starting with
@@ -1472,7 +1472,7 @@ function reportSent(event)
   try
   {
     let status = request.channel.status;
-    if (Components.isSuccessCode(status))
+    if (components.isSuccessCode(status))
     {
       success = (request.status == 200 || request.status == 0);
       errorMessage = request.status + " " + request.statusText;

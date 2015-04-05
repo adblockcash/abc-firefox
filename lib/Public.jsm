@@ -20,12 +20,10 @@
  * @fileOverview Public Adblock Cash API.
  */
 
-var EXPORTED_SYMBOLS = ["adblockcash"];
+if (typeof chrome == "undefined")
+  var {Cm,Cc,Ci,Cr,Cu,components} = require("chrome");
 
-const Cc = Components.classes;
-const Ci = Components.interfaces;
-const Cr = Components.results;
-const Cu = Components.utils;
+var EXPORTED_SYMBOLS = ["adblockcash"];
 
 Cu.import("resource://gre/modules/Services.jsm");
 
@@ -37,9 +35,9 @@ function require(module)
   return result.exports;
 }
 
-let {FilterStorage} = require("filterStorage");
-let {Filter} = require("filterClasses");
-let {Subscription, SpecialSubscription, RegularSubscription, DownloadableSubscription, ExternalSubscription} = require("subscriptionClasses");
+let {FilterStorage} = require("./filterStorage");
+let {Filter} = require("./filterClasses");
+let {Subscription, SpecialSubscription, RegularSubscription, DownloadableSubscription, ExternalSubscription} = require("./subscriptionClasses");
 
 const externalPrefix = "~external~";
 
@@ -160,7 +158,7 @@ var adblockcash =
    */
   getInstalledVersion: function() /**String*/
   {
-    return require("info").addonVersion;
+    return require("./info").addon.version;
   },
 
   /**

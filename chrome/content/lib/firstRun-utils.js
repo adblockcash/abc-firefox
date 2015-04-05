@@ -16,38 +16,25 @@
  * along with Adblock Cash.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-const Cc = Components.classes;
-const Ci = Components.interfaces;
-const Cr = Components.results;
-const Cu = Components.utils;
+if (typeof chrome == "undefined")
+  var {Cm,Cc,Ci,Cr,Cu,components} = require("chrome");
 
-Cu.import("resource://gre/modules/Services.jsm");
+let {Services} = Cu.import("resource://gre/modules/Services.jsm", null);
 
-/**
- * Imports a module from Adblock Cash core.
- */
-function require(/**String*/ module)
-{
-  var result = {};
-  result.wrappedJSObject = result;
-  Services.obs.notifyObservers(result, "adblockcash-require", module);
-  return result.exports;
-}
-
-var {Policy} = require("contentPolicy");
+var {Policy} = require("./contentPolicy");
 var {Filter, InvalidFilter, CommentFilter, ActiveFilter, RegExpFilter,
-     BlockingFilter, WhitelistFilter, ElemHideBase, ElemHideFilter, ElemHideException} = require("filterClasses");
-var {FilterNotifier} = require("filterNotifier");
-var {FilterStorage, PrivateBrowsing} = require("filterStorage");
-var {IO} = require("io");
-var {defaultMatcher, Matcher, CombinedMatcher} = require("matcher");
-var {Prefs} = require("prefs");
-var {RequestNotifier} = require("requestNotifier");
+     BlockingFilter, WhitelistFilter, ElemHideBase, ElemHideFilter, ElemHideException} = require("./filterClasses");
+var {FilterNotifier} = require("./filterNotifier");
+var {FilterStorage, PrivateBrowsing} = require("./filterStorage");
+var {IO} = require("./io");
+var {defaultMatcher, Matcher, CombinedMatcher} = require("./matcher");
+var {Prefs} = require("./prefs");
+var {RequestNotifier} = require("./requestNotifier");
 var {Subscription, SpecialSubscription, RegularSubscription,
-     ExternalSubscription, DownloadableSubscription} = require("subscriptionClasses");
-var {Synchronizer} = require("synchronizer");
-var {UI} = require("ui");
-var {Utils} = require("utils");
+     ExternalSubscription, DownloadableSubscription} = require("./subscriptionClasses");
+var {Synchronizer} = require("./synchronizer");
+var {UI} = require("./ui");
+var {Utils} = require("./utils");
 
 /**
  * Shortcut for document.getElementById(id)

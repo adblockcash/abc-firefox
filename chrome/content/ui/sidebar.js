@@ -66,7 +66,7 @@ function init() {
       E("reattachButton").setAttribute("disabled", "true");
     if ("sidebar" in UI.hotkeys)
     {
-      let {KeySelector} = require("keySelector");
+      let {KeySelector} = require("./keySelector");
       parent.addEventListener("keypress", function(event)
       {
         if (KeySelector.matchesKey(event, UI.hotkeys.sidebar))
@@ -85,7 +85,7 @@ function init() {
         wnd.setAttribute(attr, defaults[attr]);
   }
 
-  let {getBrowser, addBrowserLocationListener} = require("appSupport");
+  let {getBrowser, addBrowserLocationListener} = require("./appSupport");
   Object.defineProperty(window, "content", { get: () => getBrowser(mainWin).contentWindow });
 
   // Initialize matcher for disabled filters
@@ -117,7 +117,7 @@ function cleanUp() {
   Prefs.removeListener(onPrefChange);
   E("list").view = null;
 
-  let {removeBrowserLocationListener} = require("appSupport");
+  let {removeBrowserLocationListener} = require("./appSupport");
   if (removeBrowserLocationListener)
     removeBrowserLocationListener(mainWin, handleLocationChange);
   mainWin.removeEventListener("unload", mainUnload, false);

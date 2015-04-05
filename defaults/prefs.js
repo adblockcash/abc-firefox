@@ -30,9 +30,13 @@ pref("extensions.adblockcash.report_submiturl", false);
 pref("extensions.adblockcash.recentReports", []);
 pref("extensions.adblockcash.hideContributeButton", false);
 pref("extensions.adblockcash.blockableItemsSize", {width: 200, height: 200});
-pref("extensions.adblockcash.notificationurl", false);
+pref("extensions.adblockcash.notificationurl", "");
 pref("extensions.adblockcash.notificationdata", {});
 pref("extensions.adblockcash.subscriptions_antiadblockurl", "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt");
 pref("extensions.adblockcash.subscriptions_tracking_title", "EasyPrivacy");
 pref("extensions.adblockcash.subscriptions_tracking_url", "https://easylist-downloads.adblockplus.org/easyprivacy.txt");
 pref("extensions.adblockcash.please_kill_startup_performance", false);
+
+pref("extensions.adblockcash.blockedCashableDomains", []);
+pref("extensions.adblockcash.adblockcash_visitor", null);
+pref("extensions.adblockcash.adblockcash_cashableWebsites", null);
