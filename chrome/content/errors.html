@@ -65,9 +65,15 @@
     {
       document.write("<p>Errors related to Adblock Cash:</p>");
 
-      for each (let message in messages)
+      for (let message of messages)
       {
         let type = (message.flags & Components.interfaces.nsIScriptError.warningFlag ? "warning" : "error");
+
+        // Ignore CSS warnings
+        if (message.sourceName.indexOf(".css") >= 0 && type == "warning") {
+          continue;
+        }
+
         let html = "<b>" + (type == "warning" ? "Warning:" : "Error:") + "</b><br>";
         html += encodeHTML(message.errorMessage) + "<br><br>";
         if (message.sourceLine)
