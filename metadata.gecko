@@ -39,4 +39,8 @@ seamonkey=2.19/2.34
 toolkit=22.0/37.0
 
 [preprocess]
+chrome/content/shared/block.html =
 chrome/content/shared/firstRun.html =
+chrome/content/shared/options.html =
+chrome/content/shared/popup.html =
+
