@@ -16,10 +16,24 @@
  * along with Adblock Cash.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-if (typeof chrome == "undefined")
-  var {Cm,Cc,Ci,Cr,Cu,components} = require("chrome");
+var Cc = Components.classes;
+var Ci = Components.interfaces;
+var Cu = Components.utils;
+var Cr = Components.results;
+var Cl = Components.unknown;
 
-let {Services} = Cu.import("resource://gre/modules/Services.jsm", null);
+var Services = Cu.import("resource://gre/modules/Services.jsm", null).Services;
+
+/**
+ * Imports a module from Adblock Cash core.
+ */
+function require(/**String*/ module)
+{
+  var result = {};
+  result.wrappedJSObject = result;
+  Services.obs.notifyObservers(result, "adblockcash-require", module);
+  return result.exports;
+}
 
 var {Policy} = require("./contentPolicy");
 var {Filter, InvalidFilter, CommentFilter, ActiveFilter, RegExpFilter,

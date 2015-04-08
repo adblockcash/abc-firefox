@@ -20,9 +20,9 @@
  * @fileOverview Public Adblock Cash API.
  */
 
-if (typeof chrome == "undefined")
+if (typeof chrome == "undefined") {
   var {Cm,Cc,Ci,Cr,Cu,components} = require("chrome");
-
+}
 var EXPORTED_SYMBOLS = ["adblockcash"];
 
 Cu.import("resource://gre/modules/Services.jsm");
