@@ -28,6 +28,8 @@
       float: right;
     }
   </style>
+
+  <script type="text/javascript" src="lib/helpers.js"></script>
 </head>
 <body>
   <button onclick="refreshErrors();">Refresh</button>
@@ -101,15 +103,6 @@
       {
         writeIn("<p>No errors found.</p>");
       }
-    }
-
-    function require(module)
-    {
-      let {Services} = Components.utils.import("resource://gre/modules/Services.jsm");
-      let result = {};
-      result.wrappedJSObject = result;
-      Services.obs.notifyObservers(result, "adblockcash-require", module);
-      return result.exports;
     }
 
     function encodeHTML(string)
