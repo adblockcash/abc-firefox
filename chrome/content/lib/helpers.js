@@ -34,3 +34,7 @@ function require(/**String*/ module)
   Services.obs.notifyObservers(result, "adblockcash-require", module);
   return result.exports;
 }
+
+require("./utils").onShutdown.add(function(){
+  window.location.reload();
+});
