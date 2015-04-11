@@ -2,7 +2,7 @@
 <!ENTITY blocked.tooltip        "Blocked items on this page:">
 <!ENTITY filters.tooltip        "Most active filters:">
 
-<!ENTITY menuitem.label         "Adblock Plus Preferences">
+<!ENTITY menuitem.label         "Adblock Cash Preferences">
 <!ENTITY toolbarbutton.label    "Adblock Cash">
 
 <!ENTITY context.image.label    "Adblock Cash: Block image">

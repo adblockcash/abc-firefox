@@ -33,10 +33,6 @@ default=http://adblockcash.org/
 
 [compat]
 firefox=22.0/37.0
-fennec2=22.0/37.0
-thunderbird=22.0/37.0
-seamonkey=2.19/2.34
-toolkit=22.0/37.0
 
 [preprocess]
 chrome/content/shared/block.html =
