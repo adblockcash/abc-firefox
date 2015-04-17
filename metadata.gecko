@@ -26,7 +26,6 @@ requiredAssets = chrome/content/shared/vendor/bower/angular/angular-csp.css
                  chrome/content/shared/vendor/bower/font-awesome/css/font-awesome.css
                  chrome/content/shared/vendor/bower/font-awesome/fonts/
                  chrome/content/shared/vendor/bower/jquery/dist/jquery.js
-                 chrome/content/shared/vendor/jquery-ui/
 
 [homepage]
 default=http://adblockcash.org/
