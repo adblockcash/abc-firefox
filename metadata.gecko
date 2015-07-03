@@ -31,7 +31,7 @@ requiredAssets = chrome/content/shared/vendor/bower/angular/angular-csp.css
 default=http://adblockcash.org/
 
 [compat]
-firefox=22.0/37.0
+firefox=22.0/37.*
 
 [preprocess]
 chrome/content/shared/block.html =
